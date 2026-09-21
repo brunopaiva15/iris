@@ -37,7 +37,7 @@ model-index:
 An offline plant species classifier for phones. One 9 MB TensorFlow Lite file,
 1,569 species, about one second per photo on a recent handset, no network call.
 
-Iris is the on-device model of [Auxine](https://github.com/brunopaiva15/plant),
+Iris is the on-device model of [Auxine](https://vergasta.ch/auxine/en/),
 a plant care app. It is published here on its own so that it can be used,
 measured and criticised outside that app. Training and evaluation code:
 [github.com/brunopaiva15/iris](https://github.com/brunopaiva15/iris).

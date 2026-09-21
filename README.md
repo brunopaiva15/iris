@@ -10,7 +10,7 @@ call. It is published on the Hugging Face Hub:
 
 > **[huggingface.co/brunopaiva15/iris](https://huggingface.co/brunopaiva15/iris)**
 
-Iris is the on-device model of [Auxine](https://github.com/brunopaiva15/plant),
+Iris is the on-device model of [Auxine](https://vergasta.ch/auxine/en/),
 a plant care app. It is published on its own so it can be used, measured and
 criticised outside that app.
 
