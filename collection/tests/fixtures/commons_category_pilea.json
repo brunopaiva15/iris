@@ -1,0 +1,41 @@
+{
+ "batchcomplete": true,
+ "continue": {
+  "cmcontinue": "file|50455045524f4d494f494445532d30342e4a5047|3732536",
+  "continue": "-||"
+ },
+ "query": {
+  "categorymembers": [
+   {
+    "pageid": 189293225,
+    "ns": 6,
+    "title": "File:(MHNT) Pilea peperomioides Foliage.jpg"
+   },
+   {
+    "pageid": 117434341,
+    "ns": 6,
+    "title": "File:Chinese money plant.jpg"
+   },
+   {
+    "pageid": 83722619,
+    "ns": 6,
+    "title": "File:Jim McLin trofee.jpg"
+   },
+   {
+    "pageid": 17405627,
+    "ns": 6,
+    "title": "File:Nanox1.jpg"
+   },
+   {
+    "pageid": 3732470,
+    "ns": 6,
+    "title": "File:Peperomioides-01.JPG"
+   },
+   {
+    "pageid": 3732477,
+    "ns": 6,
+    "title": "File:Peperomioides-02.JPG"
+   }
+  ]
+ }
+}

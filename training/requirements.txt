@@ -1,0 +1,5 @@
+# Training on a CPU. For a GPU, see requirements-gpu.txt: `tensorflow-cpu`
+# ignores the hardware, even when it is present.
+tensorflow-cpu>=2.19
+numpy
+Pillow

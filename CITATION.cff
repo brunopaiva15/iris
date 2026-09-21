@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this model, please cite it.
+title: "Iris 9: an offline plant species classifier"
+abstract: >-
+  A MobileNetV3-Large classifier over 1,569 plant species, exported to
+  TensorFlow Lite for on-device inference, trained on about 992,000
+  openly licensed photographs from GBIF, iNaturalist and Wikimedia Commons.
+authors:
+  - alias: brunopaiva15
+version: "9"
+date-released: 2026-09-21
+license: CC-BY-4.0
+url: "https://huggingface.co/brunopaiva15/iris"
+repository-code: "https://github.com/brunopaiva15/iris"
+keywords:
+  - plant identification
+  - image classification
+  - on-device machine learning
+  - biodiversity

@@ -1,0 +1,501 @@
+name_requested	verdict	key_or_accepted	note
+Monstera deliciosa	EXPOSED		already served by the shipped model
+Monstera adansonii	EXPOSED		already served by the shipped model
+Monstera obliqua	COLLECTED		in plants.csv, trained, exportable
+Monstera dubia	TO_COLLECT	2868179	accepted species, GBIF key
+Monstera standleyana	TO_COLLECT	2868231	accepted species, GBIF key
+Monstera siltepecana	TO_COLLECT	2868229	accepted species, GBIF key
+Monstera esqueleto	NOT_A_SPECIES	RANG GENUS (Monstera Adans.) conf=94	cultivar / grex / trade name, never a class
+Monstera subpinnata	TO_COLLECT	2868129	accepted species, GBIF key
+Monstera pinnatipartita	TO_COLLECT	2868226	accepted species, GBIF key
+Monstera tuberculata	TO_COLLECT	2868210	accepted species, GBIF key
+Philodendron hederaceum	EXPOSED		already served by the shipped model
+Philodendron erubescens	EXPOSED		already served by the shipped model
+Philodendron birkin	NOT_A_SPECIES	RANG GENUS (Philodendron Schott) conf=92	cultivar / grex / trade name, never a class
+Philodendron gloriosum	COLLECTED		in plants.csv, trained, exportable
+Philodendron verrucosum	TO_COLLECT	2871089	accepted species, GBIF key
+Philodendron melanochrysum	TO_COLLECT	2871241	accepted species, GBIF key
+Philodendron squamiferum	TO_COLLECT	2870698	accepted species, GBIF key
+Philodendron pedatum	TO_COLLECT	2870914	accepted species, GBIF key
+Philodendron xanadu	SYNONYM	SYNONYME-> [9669385]	resolve to the accepted name before collecting
+Philodendron bipinnatifidum	EXPOSED		already served by the shipped model
+Philodendron brandtianum	TO_COLLECT	2870671	accepted species, GBIF key
+Philodendron atabapoense	TO_COLLECT	2871146	accepted species, GBIF key
+Philodendron billietiae	TO_COLLECT	2870818	accepted species, GBIF key
+Philodendron burle-marxii	TO_COLLECT	2871159	accepted species, GBIF key
+Philodendron hastatum	TO_COLLECT	2871100	accepted species, GBIF key
+Philodendron micans	SYNONYM	SYNONYME-> [7228286]	resolve to the accepted name before collecting
+Philodendron patriot	TO_COLLECT	6310060	accepted species, GBIF key
+Philodendron rugosum	TO_COLLECT	2870871	accepted species, GBIF key
+Philodendron tortum	TO_COLLECT	2870881	accepted species, GBIF key
+Philodendron tripartitum	TO_COLLECT	2870748	accepted species, GBIF key
+Epipremnum aureum	EXPOSED		already served by the shipped model
+Epipremnum pinnatum	EXPOSED		already served by the shipped model
+Epipremnum amplissimum	TO_COLLECT	2868312	accepted species, GBIF key
+Scindapsus pictus	EXPOSED		already served by the shipped model
+Scindapsus treubii	TO_COLLECT	2873707	accepted species, GBIF key
+Scindapsus officinalis	TO_COLLECT	2873716	accepted species, GBIF key
+Anthurium crystallinum	COLLECTED		in plants.csv, trained, exportable
+Anthurium clarinervium	COLLECTED		in plants.csv, trained, exportable
+Anthurium andraeanum	EXPOSED		already served by the shipped model
+Anthurium scherzerianum	COLLECTED		in plants.csv, trained, exportable
+Anthurium veitchii	TO_COLLECT	2873417	accepted species, GBIF key
+Anthurium warocqueanum	TO_COLLECT	2873559	accepted species, GBIF key
+Anthurium hookeri	TO_COLLECT	2872293	accepted species, GBIF key
+Anthurium vittarifolium	TO_COLLECT	2873406	accepted species, GBIF key
+Anthurium forgetii	TO_COLLECT	2873656	accepted species, GBIF key
+Anthurium radicans	TO_COLLECT	2872788	accepted species, GBIF key
+Alocasia amazonica	COLLECTED		in plants.csv, trained, exportable
+Alocasia zebrina	COLLECTED		in plants.csv, trained, exportable
+Alocasia macrorrhizos	EXPOSED		already served by the shipped model
+Alocasia micholitziana	COLLECTED		in plants.csv, trained, exportable
+Alocasia reginula	COLLECTED		in plants.csv, trained, exportable
+Alocasia baginda	TO_COLLECT	8316200	accepted species, GBIF key
+Alocasia stingray	NOT_A_SPECIES	RANG GENUS (Alocasia (Schott) G.Don) conf=92	cultivar / grex / trade name, never a class
+Alocasia wentii	TO_COLLECT	5329957	accepted species, GBIF key
+Alocasia lauterbachiana	TO_COLLECT	5329877	accepted species, GBIF key
+Alocasia cucullata	COLLECTED		in plants.csv, trained, exportable
+Alocasia cuprea	TO_COLLECT	5329958	accepted species, GBIF key
+Alocasia longiloba	COLLECTED		in plants.csv, trained, exportable
+Alocasia sinuata	TO_COLLECT	5329859	accepted species, GBIF key
+Syngonium podophyllum	EXPOSED		already served by the shipped model
+Syngonium wendlandii	TO_COLLECT	2867865	accepted species, GBIF key
+Syngonium erythrophyllum	TO_COLLECT	2867864	accepted species, GBIF key
+Syngonium angustatum	COLLECTED		in plants.csv, trained, exportable
+Spathiphyllum wallisii	EXPOSED		already served by the shipped model
+Spathiphyllum cochlearispathum	TO_COLLECT	2869661	accepted species, GBIF key
+Aglaonema commutatum	EXPOSED		already served by the shipped model
+Aglaonema pictum	TO_COLLECT	2866460	accepted species, GBIF key
+Aglaonema modestum	COLLECTED		in plants.csv, trained, exportable
+Zamioculcas zamiifolia	EXPOSED		already served by the shipped model
+Dieffenbachia seguine	EXPOSED		already served by the shipped model
+Dieffenbachia maculata	SYNONYM	SYNONYME-> [2869345]	resolve to the accepted name before collecting
+Caladium bicolor	EXPOSED		already served by the shipped model
+Caladium humboldtii	TO_COLLECT	2868514	accepted species, GBIF key
+Xanthosoma sagittifolium	COLLECTED		in plants.csv, trained, exportable
+Amorphophallus konjac	COLLECTED		in plants.csv, trained, exportable
+Goeppertia orbifolia	COLLECTED		in plants.csv, trained, exportable
+Goeppertia makoyana	EXPOSED		already served by the shipped model
+Goeppertia insignis	COLLECTED		in plants.csv, trained, exportable
+Goeppertia roseopicta	COLLECTED		in plants.csv, trained, exportable
+Goeppertia zebrina	COLLECTED		in plants.csv, trained, exportable
+Goeppertia warscewiczii	TO_COLLECT	8184122	accepted species, GBIF key
+Goeppertia ornata	TO_COLLECT	7977204	accepted species, GBIF key
+Goeppertia rufibarba	COLLECTED		in plants.csv, trained, exportable
+Goeppertia crocata	TO_COLLECT	7401775	accepted species, GBIF key
+Goeppertia musaica	NOT_A_SPECIES	RANG PHYLUM (Tracheophyta) conf=92	cultivar / grex / trade name, never a class
+Goeppertia veitchiana	TO_COLLECT	8146589	accepted species, GBIF key
+Goeppertia lietzei	TO_COLLECT	9578489	accepted species, GBIF key
+Maranta leuconeura	EXPOSED		already served by the shipped model
+Maranta arundinacea	COLLECTED		in plants.csv, trained, exportable
+Stromanthe sanguinea	EXPOSED		already served by the shipped model
+Ctenanthe oppenheimiana	COLLECTED		in plants.csv, trained, exportable
+Ctenanthe burle-marxii	EXPOSED		already served by the shipped model
+Ctenanthe lubbersiana	TO_COLLECT	2762435	accepted species, GBIF key
+Ctenanthe setosa	TO_COLLECT	2762422	accepted species, GBIF key
+Dracaena trifasciata	EXPOSED		already served by the shipped model
+Dracaena angolensis	TO_COLLECT	10961470	accepted species, GBIF key
+Dracaena masoniana	TO_COLLECT	10956312	accepted species, GBIF key
+Dracaena hanningtonii	TO_COLLECT	5303896	accepted species, GBIF key
+Dracaena marginata	EXPOSED		already served by the shipped model
+Dracaena fragrans	EXPOSED		already served by the shipped model
+Dracaena reflexa	EXPOSED		already served by the shipped model
+Dracaena surculosa	COLLECTED		in plants.csv, trained, exportable
+Dracaena draco	EXPOSED		already served by the shipped model
+Dracaena sanderiana	EXPOSED		already served by the shipped model
+Chlorophytum comosum	EXPOSED		already served by the shipped model
+Chlorophytum orchidastrum	TO_COLLECT	2774517	accepted species, GBIF key
+Asparagus setaceus	EXPOSED		already served by the shipped model
+Asparagus densiflorus	EXPOSED		already served by the shipped model
+Beaucarnea recurvata	EXPOSED		already served by the shipped model
+Aspidistra elatior	EXPOSED		already served by the shipped model
+Cordyline fruticosa	EXPOSED		already served by the shipped model
+Cordyline australis	EXPOSED		already served by the shipped model
+Yucca elephantipes	SYNONYM	SYNONYME-> [2775716]	resolve to the accepted name before collecting
+Yucca aloifolia	COLLECTED		in plants.csv, trained, exportable
+Ledebouria socialis	COLLECTED		in plants.csv, trained, exportable
+Albuca spiralis	TO_COLLECT	2772304	accepted species, GBIF key
+Ficus elastica	EXPOSED		already served by the shipped model
+Ficus lyrata	EXPOSED		already served by the shipped model
+Ficus benjamina	EXPOSED		already served by the shipped model
+Ficus microcarpa	EXPOSED		already served by the shipped model
+Ficus umbellata	TO_COLLECT	5571957	accepted species, GBIF key
+Ficus pumila	EXPOSED		already served by the shipped model
+Ficus triangularis	SYNONYM	SYNONYME-> [5570837]	resolve to the accepted name before collecting
+Ficus altissima	COLLECTED		in plants.csv, trained, exportable
+Ficus religiosa	COLLECTED		in plants.csv, trained, exportable
+Ficus deltoidea	COLLECTED		in plants.csv, trained, exportable
+Dorstenia foetida	TO_COLLECT	7262610	accepted species, GBIF key
+Peperomia obtusifolia	EXPOSED		already served by the shipped model
+Peperomia argyreia	COLLECTED		in plants.csv, trained, exportable
+Peperomia caperata	COLLECTED		in plants.csv, trained, exportable
+Peperomia prostrata	TO_COLLECT	10776468	accepted species, GBIF key
+Peperomia polybotrya	TO_COLLECT	4186205	accepted species, GBIF key
+Peperomia tetraphylla	TO_COLLECT	3086448	accepted species, GBIF key
+Peperomia clusiifolia	TO_COLLECT	4184364	accepted species, GBIF key
+Peperomia graveolens	TO_COLLECT	4183917	accepted species, GBIF key
+Peperomia nivalis	TO_COLLECT	7305985	accepted species, GBIF key
+Peperomia verticillata	TO_COLLECT	8040674	accepted species, GBIF key
+Piper nigrum	COLLECTED		in plants.csv, trained, exportable
+Piper ornatum	TO_COLLECT	3086329	accepted species, GBIF key
+Piper crocatum	TO_COLLECT	7305692	accepted species, GBIF key
+Begonia maculata	EXPOSED		already served by the shipped model
+Begonia rex	COLLECTED		in plants.csv, trained, exportable
+Begonia masoniana	COLLECTED		in plants.csv, trained, exportable
+Begonia corallina	SYNONYM	SYNONYME-> [7303475]	resolve to the accepted name before collecting
+Begonia erythrophylla	TO_COLLECT	4156797	accepted species, GBIF key
+Begonia metallica	TO_COLLECT	11184649	accepted species, GBIF key
+Begonia venosa	TO_COLLECT	4157897	accepted species, GBIF key
+Begonia listada	TO_COLLECT	4157039	accepted species, GBIF key
+Begonia amphioxus	TO_COLLECT	4159185	accepted species, GBIF key
+Begonia ferox	TO_COLLECT	9340381	accepted species, GBIF key
+Pilea peperomioides	EXPOSED		already served by the shipped model
+Pilea cadierei	COLLECTED		in plants.csv, trained, exportable
+Pilea involucrata	NOT_A_SPECIES	RANG GENUS (Pilea Lindl.) conf=97	cultivar / grex / trade name, never a class
+Pilea microphylla	COLLECTED		in plants.csv, trained, exportable
+Pilea meyeniana	NOT_A_SPECIES	INTROUVABLE (NONE, conf=100)	cultivar / grex / trade name, never a class
+Soleirolia soleirolii	EXPOSED		already served by the shipped model
+Pellionia pulchra	SYNONYM	SYNONYME-> [7916114]	resolve to the accepted name before collecting
+Pellionia daveauana	SYNONYM	SYNONYME-> [7916114]	resolve to the accepted name before collecting
+Nephrolepis exaltata	EXPOSED		already served by the shipped model
+Nephrolepis cordifolia	COLLECTED		in plants.csv, trained, exportable
+Asplenium nidus	EXPOSED		already served by the shipped model
+Asplenium bulbiferum	TO_COLLECT	7310861	accepted species, GBIF key
+Asplenium antiquum	COLLECTED		in plants.csv, trained, exportable
+Platycerium bifurcatum	EXPOSED		already served by the shipped model
+Platycerium grande	TO_COLLECT	8655717	accepted species, GBIF key
+Phlebodium aureum	EXPOSED		already served by the shipped model
+Adiantum capillus-veneris	EXPOSED		already served by the shipped model
+Adiantum raddianum	EXPOSED		already served by the shipped model
+Pteris cretica	EXPOSED		already served by the shipped model
+Pteris ensiformis	COLLECTED		in plants.csv, trained, exportable
+Davallia fejeensis	COLLECTED		in plants.csv, trained, exportable
+Cyrtomium falcatum	COLLECTED		in plants.csv, trained, exportable
+Pellaea rotundifolia	COLLECTED		in plants.csv, trained, exportable
+Selaginella lepidophylla	COLLECTED		in plants.csv, trained, exportable
+Selaginella kraussiana	COLLECTED		in plants.csv, trained, exportable
+Dypsis lutescens	EXPOSED		already served by the shipped model
+Howea forsteriana	EXPOSED		already served by the shipped model
+Chamaedorea elegans	EXPOSED		already served by the shipped model
+Chamaedorea seifrizii	COLLECTED		in plants.csv, trained, exportable
+Rhapis excelsa	EXPOSED		already served by the shipped model
+Phoenix roebelenii	EXPOSED		already served by the shipped model
+Caryota mitis	EXPOSED		already served by the shipped model
+Licuala grandis	COLLECTED		in plants.csv, trained, exportable
+Livistona rotundifolia	SYNONYM	SYNONYME-> [2733431]	resolve to the accepted name before collecting
+Cycas revoluta	EXPOSED		already served by the shipped model
+Zamia furfuracea	COLLECTED		in plants.csv, trained, exportable
+Crassula ovata	EXPOSED		already served by the shipped model
+Crassula arborescens	COLLECTED		in plants.csv, trained, exportable
+Crassula rupestris	COLLECTED		in plants.csv, trained, exportable
+Crassula muscosa	COLLECTED		in plants.csv, trained, exportable
+Echeveria elegans	EXPOSED		already served by the shipped model
+Echeveria agavoides	EXPOSED		already served by the shipped model
+Echeveria laui	TO_COLLECT	4200940	accepted species, GBIF key
+Sedum morganianum	EXPOSED		already served by the shipped model
+Sedum rubrotinctum	EXPOSED		already served by the shipped model
+Sedum sieboldii	SYNONYM	SYNONYME-> [7172849]	resolve to the accepted name before collecting
+Kalanchoe blossfeldiana	EXPOSED		already served by the shipped model
+Kalanchoe daigremontiana	EXPOSED		already served by the shipped model
+Kalanchoe tomentosa	EXPOSED		already served by the shipped model
+Kalanchoe thyrsiflora	TO_COLLECT	4198362	accepted species, GBIF key
+Aeonium arboreum	EXPOSED		already served by the shipped model
+Cotyledon tomentosa	COLLECTED		in plants.csv, trained, exportable
+Graptopetalum paraguayense	EXPOSED		already served by the shipped model
+Pachyphytum oviferum	COLLECTED		in plants.csv, trained, exportable
+Sempervivum tectorum	EXPOSED		already served by the shipped model
+Aloe vera	EXPOSED		already served by the shipped model
+Aloe aristata	SYNONYM	SYNONYME-> [9505138]	resolve to the accepted name before collecting
+Aloe variegata	NOT_A_SPECIES	RANG FAMILY (Asphodelaceae) conf=97	cultivar / grex / trade name, never a class
+Aloe squarrosa	TO_COLLECT	2778154	accepted species, GBIF key
+Haworthiopsis fasciata	COLLECTED		in plants.csv, trained, exportable
+Haworthiopsis attenuata	EXPOSED		already served by the shipped model
+Haworthia cooperi	COLLECTED		in plants.csv, trained, exportable
+Haworthia truncata	TO_COLLECT	8097702	accepted species, GBIF key
+Gasteria verrucosa	SYNONYM	SYNONYME-> [2778570]	resolve to the accepted name before collecting
+Schlumbergera truncata	EXPOSED		already served by the shipped model
+Hatiora gaertneri	TO_COLLECT	7280947	accepted species, GBIF key
+Rhipsalis baccifera	EXPOSED		already served by the shipped model
+Rhipsalis paradoxa	TO_COLLECT	7280743	accepted species, GBIF key
+Epiphyllum anguliger	SYNONYM	SYNONYME-> [10771315]	resolve to the accepted name before collecting
+Disocactus ackermannii	COLLECTED		in plants.csv, trained, exportable
+Opuntia microdasys	EXPOSED		already served by the shipped model
+Echinocactus grusonii	EXPOSED		already served by the shipped model
+Gymnocalycium mihanovichii	EXPOSED		already served by the shipped model
+Mammillaria elongata	COLLECTED		in plants.csv, trained, exportable
+Cereus peruvianus	NOT_A_SPECIES	RANG FAMILY (Cactaceae) conf=97	cultivar / grex / trade name, never a class
+Cephalocereus senilis	COLLECTED		in plants.csv, trained, exportable
+Euphorbia trigona	EXPOSED		already served by the shipped model
+Euphorbia lactea	EXPOSED		already served by the shipped model
+Euphorbia milii	EXPOSED		already served by the shipped model
+Euphorbia tirucalli	EXPOSED		already served by the shipped model
+Euphorbia pulcherrima	EXPOSED		already served by the shipped model
+Euphorbia obesa	TO_COLLECT	4930719	accepted species, GBIF key
+Codiaeum variegatum	EXPOSED		already served by the shipped model
+Acalypha hispida	COLLECTED		in plants.csv, trained, exportable
+Lithops lesliei	EXPOSED		already served by the shipped model
+Lithops pseudotruncatella	TO_COLLECT	7329176	accepted species, GBIF key
+Faucaria tigrina	TO_COLLECT	3703460	accepted species, GBIF key
+Conophytum bilobum	TO_COLLECT	7329433	accepted species, GBIF key
+Phalaenopsis equestris	TO_COLLECT	5310951	accepted species, GBIF key
+Dendrobium nobile	EXPOSED		already served by the shipped model
+Dendrobium phalaenopsis	SYNONYM	SYNONYME-> [5315722]	resolve to the accepted name before collecting
+Cymbidium hybrida	NOT_A_SPECIES	INTROUVABLE (NONE, conf=100)	cultivar / grex / trade name, never a class
+Oncidium flexuosum	NOT_A_SPECIES	RANG FAMILY (Orchidaceae) conf=97	cultivar / grex / trade name, never a class
+Miltoniopsis hybrida	NOT_A_SPECIES	RANG GENUS (Miltoniopsis God.-Leb.) conf=94	cultivar / grex / trade name, never a class
+Cambria hybrida	NOT_A_SPECIES	RANG GENUS (Cambria Neckaja & Ivanova, 1956) conf=94	cultivar / grex / trade name, never a class
+Paphiopedilum insigne	TO_COLLECT	2825576	accepted species, GBIF key
+Cattleya labiata	TO_COLLECT	2801162	accepted species, GBIF key
+Ludisia discolor	COLLECTED		in plants.csv, trained, exportable
+Macodes petola	TO_COLLECT	2804641	accepted species, GBIF key
+Vanda coerulea	TO_COLLECT	2783163	accepted species, GBIF key
+Brassia verrucosa	COLLECTED		in plants.csv, trained, exportable
+Epidendrum radicans	COLLECTED		in plants.csv, trained, exportable
+Zygopetalum maculatum	TO_COLLECT	2837000	accepted species, GBIF key
+Vanilla planifolia	COLLECTED		in plants.csv, trained, exportable
+Tillandsia xerographica	TO_COLLECT	2695364	accepted species, GBIF key
+Tillandsia ionantha	EXPOSED		already served by the shipped model
+Tillandsia usneoides	COLLECTED		in plants.csv, trained, exportable
+Guzmania lingulata	EXPOSED		already served by the shipped model
+Aechmea fasciata	EXPOSED		already served by the shipped model
+Vriesea splendens	EXPOSED		already served by the shipped model
+Neoregelia carolinae	COLLECTED		in plants.csv, trained, exportable
+Billbergia nutans	COLLECTED		in plants.csv, trained, exportable
+Cryptanthus zonatus	COLLECTED		in plants.csv, trained, exportable
+Ananas comosus var. variegatus	COLLECTED		in plants.csv, trained, exportable
+Hoya carnosa	EXPOSED		already served by the shipped model
+Hoya kerrii	COLLECTED		in plants.csv, trained, exportable
+Hoya australis	COLLECTED		in plants.csv, trained, exportable
+Hoya linearis	TO_COLLECT	7410932	accepted species, GBIF key
+Hoya pubicalyx	COLLECTED		in plants.csv, trained, exportable
+Hoya bella	TO_COLLECT	3575282	accepted species, GBIF key
+Hoya compacta	SYNONYM	SYNONYME-> [8658195]	resolve to the accepted name before collecting
+Ceropegia woodii	EXPOSED		already served by the shipped model
+Ceropegia sandersonii	TO_COLLECT	7837855	accepted species, GBIF key
+Dischidia pectenoides	SYNONYM	SYNONYME-> [8017070]	resolve to the accepted name before collecting
+Dischidia nummularia	COLLECTED		in plants.csv, trained, exportable
+Dischidia ruscifolia	TO_COLLECT	7656154	accepted species, GBIF key
+Pachypodium lameri	TO_COLLECT	5535474	accepted species, GBIF key
+Adenium obesum	EXPOSED		already served by the shipped model
+Stapelia gigantea	COLLECTED		in plants.csv, trained, exportable
+Catharanthus roseus	EXPOSED		already served by the shipped model
+Mandevilla sanderi	EXPOSED		already served by the shipped model
+Tradescantia zebrina	EXPOSED		already served by the shipped model
+Tradescantia fluminensis	COLLECTED		in plants.csv, trained, exportable
+Tradescantia pallida	EXPOSED		already served by the shipped model
+Tradescantia spathacea	COLLECTED		in plants.csv, trained, exportable
+Tradescantia sillamontana	COLLECTED		in plants.csv, trained, exportable
+Callisia repens	EXPOSED		already served by the shipped model
+Callisia fragrans	COLLECTED		in plants.csv, trained, exportable
+Cyanotis somaliensis	TO_COLLECT	5303359	accepted species, GBIF key
+Oxalis triangularis	EXPOSED		already served by the shipped model
+Oxalis tetraphylla	EXPOSED		already served by the shipped model
+Oxalis megalorrhiza	TO_COLLECT	7318087	accepted species, GBIF key
+Plectranthus scutellarioides	EXPOSED		already served by the shipped model
+Plectranthus verticillatus	COLLECTED		in plants.csv, trained, exportable
+Plectranthus australis	SYNONYM	SYNONYME-> [10030768]	resolve to the accepted name before collecting
+Plectranthus amboinicus	SYNONYM	SYNONYME-> [5341313]	resolve to the accepted name before collecting
+Rosmarinus officinalis	SYNONYM	SYNONYME-> [10902460]	resolve to the accepted name before collecting
+Mentha spicata	EXPOSED		already served by the shipped model
+Ocimum basilicum	EXPOSED		already served by the shipped model
+Lavandula angustifolia	EXPOSED		already served by the shipped model
+Streptocarpus cultivar	NOT_A_SPECIES	RANG KINGDOM (Plantae) conf=92	cultivar / grex / trade name, never a class
+Saintpaulia ionantha	EXPOSED		already served by the shipped model
+Aeschynanthus radicans	EXPOSED		already served by the shipped model
+Aeschynanthus longicaulis	TO_COLLECT	3825597	accepted species, GBIF key
+Nematanthus gregarius	COLLECTED		in plants.csv, trained, exportable
+Columnea gloria	SYNONYM	SYNONYME-> [6365214]	resolve to the accepted name before collecting
+Sinningia speciosa	COLLECTED		in plants.csv, trained, exportable
+Episcia cupreata	EXPOSED		already served by the shipped model
+Chirita tamiana	SYNONYM	SYNONYME-> [12260221]	resolve to the accepted name before collecting
+Kohleria eriantha	SYNONYM	SYNONYME-> [6365157]	resolve to the accepted name before collecting
+Curio rowleyanus	EXPOSED		already served by the shipped model
+Curio radicans	COLLECTED		in plants.csv, trained, exportable
+Curio herreanus	TO_COLLECT	3149664	accepted species, GBIF key
+Senecio macroglossus	COLLECTED		in plants.csv, trained, exportable
+Gynura aurantiaca	COLLECTED		in plants.csv, trained, exportable
+Gerbera jamesonii	EXPOSED		already served by the shipped model
+Chrysanthemum morifolium	TO_COLLECT	3150767	accepted species, GBIF key
+Argyranthemum frutescens	EXPOSED		already served by the shipped model
+Hedera helix	EXPOSED		already served by the shipped model
+Hedera canariensis	COLLECTED		in plants.csv, trained, exportable
+Schefflera arboricola	EXPOSED		already served by the shipped model
+Schefflera actinophylla	SYNONYM	SYNONYME-> [11008739]	resolve to the accepted name before collecting
+Fatsia japonica	EXPOSED		already served by the shipped model
+Fatshedera lizei	TO_COLLECT	3597552	accepted species, GBIF key
+Polyscias fruticosa	EXPOSED		already served by the shipped model
+Polyscias scutellaria	COLLECTED		in plants.csv, trained, exportable
+Polyscias balfouriana	COLLECTED		in plants.csv, trained, exportable
+Tetrapanax papyrifer	EXPOSED		already served by the shipped model
+Pachira aquatica	EXPOSED		already served by the shipped model
+Hibiscus rosa-sinensis	EXPOSED		already served by the shipped model
+Abutilon pictum	SYNONYM	SYNONYME-> [7900084]	resolve to the accepted name before collecting
+Abutilon megapotamicum	SYNONYM	SYNONYME-> [8220878]	resolve to the accepted name before collecting
+Anisodontea capensis	TO_COLLECT	3940873	accepted species, GBIF key
+Citrus limon	TO_COLLECT	7647136	accepted species, GBIF key
+Citrus japonica	EXPOSED		already served by the shipped model
+Citrus mitis	NOT_A_SPECIES	RANG GENUS (Citrus L.) conf=97	cultivar / grex / trade name, never a class
+Citrus sinensis	SYNONYM	SYNONYME-> [8077391]	resolve to the accepted name before collecting
+Citrus aurantiifolia	TO_COLLECT	3190164	accepted species, GBIF key
+Citrus medica	EXPOSED		already served by the shipped model
+Murraya paniculata	COLLECTED		in plants.csv, trained, exportable
+Coffea arabica	EXPOSED		already served by the shipped model
+Gardenia jasminoides	EXPOSED		already served by the shipped model
+Pentas lanceolata	COLLECTED		in plants.csv, trained, exportable
+Ixora coccinea	COLLECTED		in plants.csv, trained, exportable
+Nertera granadensis	TO_COLLECT	2911624	accepted species, GBIF key
+Hydrangea macrophylla	EXPOSED		already served by the shipped model
+Pelargonium zonale	EXPOSED		already served by the shipped model
+Pelargonium peltatum	EXPOSED		already served by the shipped model
+Pelargonium graveolens	EXPOSED		already served by the shipped model
+Pelargonium grandiflorum	COLLECTED		in plants.csv, trained, exportable
+Impatiens walleriana	EXPOSED		already served by the shipped model
+Impatiens hawkeri	EXPOSED		already served by the shipped model
+Cyclamen persicum	EXPOSED		already served by the shipped model
+Primula obconica	TO_COLLECT	7290874	accepted species, GBIF key
+Primula vulgaris	EXPOSED		already served by the shipped model
+Ardisia crenata	COLLECTED		in plants.csv, trained, exportable
+Lysimachia nummularia	EXPOSED		already served by the shipped model
+Rhododendron simsii	EXPOSED		already served by the shipped model
+Camellia japonica	EXPOSED		already served by the shipped model
+Plumbago auriculata	EXPOSED		already served by the shipped model
+Passiflora caerulea	EXPOSED		already served by the shipped model
+Passiflora edulis	EXPOSED		already served by the shipped model
+Jasminum polyanthum	EXPOSED		already served by the shipped model
+Jasminum sambac	COLLECTED		in plants.csv, trained, exportable
+Olea europaea	EXPOSED		already served by the shipped model
+Bougainvillea glabra	EXPOSED		already served by the shipped model
+Clerodendrum thomsoniae	COLLECTED		in plants.csv, trained, exportable
+Clerodendrum ugandense	SYNONYM	SYNONYME-> [7307159]	resolve to the accepted name before collecting
+Thunbergia erecta	COLLECTED		in plants.csv, trained, exportable
+Thunbergia alata	EXPOSED		already served by the shipped model
+Fittonia albivenis	EXPOSED		already served by the shipped model
+Fittonia gigantea	TO_COLLECT	5574499	accepted species, GBIF key
+Hypoestes phyllostachya	EXPOSED		already served by the shipped model
+Pachystachys lutea	COLLECTED		in plants.csv, trained, exportable
+Aphelandra squarrosa	COLLECTED		in plants.csv, trained, exportable
+Crossandra infundibuliformis	COLLECTED		in plants.csv, trained, exportable
+Ruellia makoyana	TO_COLLECT	8029019	accepted species, GBIF key
+Hemigraphis alternata	SYNONYM	SYNONYME-> [8297383]	resolve to the accepted name before collecting
+Justicia brandegeeana	COLLECTED		in plants.csv, trained, exportable
+Barleria cristata	COLLECTED		in plants.csv, trained, exportable
+Strelitzia reginae	EXPOSED		already served by the shipped model
+Strelitzia nicolai	EXPOSED		already served by the shipped model
+Ravenala madagascariensis	COLLECTED		in plants.csv, trained, exportable
+Musa acuminata	EXPOSED		already served by the shipped model
+Musa basjoo	EXPOSED		already served by the shipped model
+Musa velutina	COLLECTED		in plants.csv, trained, exportable
+Ensete ventricosum	COLLECTED		in plants.csv, trained, exportable
+Canna indica	EXPOSED		already served by the shipped model
+Calathea allouia	SYNONYM	SYNONYME-> [8107795]	resolve to the accepted name before collecting
+Alpinia zerumbet	COLLECTED		in plants.csv, trained, exportable
+Zingiber officinale	EXPOSED		already served by the shipped model
+Curcuma longa	EXPOSED		already served by the shipped model
+Hedychium coronarium	COLLECTED		in plants.csv, trained, exportable
+Etlingera elatior	COLLECTED		in plants.csv, trained, exportable
+Costus woodenii	TO_COLLECT	2756950	accepted species, GBIF key
+Dionaea muscipula	EXPOSED		already served by the shipped model
+Drosera capensis	COLLECTED		in plants.csv, trained, exportable
+Drosera rotundifolia	TO_COLLECT	3191030	accepted species, GBIF key
+Nepenthes alata	TO_COLLECT	3702270	accepted species, GBIF key
+Nepenthes ventricosa	TO_COLLECT	3702158	accepted species, GBIF key
+Sarracenia purpurea	COLLECTED		in plants.csv, trained, exportable
+Sarracenia leucophylla	COLLECTED		in plants.csv, trained, exportable
+Pinguicula moranensis	TO_COLLECT	7297919	accepted species, GBIF key
+Cephalotus follicularis	EXPOSED		already served by the shipped model
+Utricularia sandersonii	TO_COLLECT	4088290	accepted species, GBIF key
+Clivia miniata	EXPOSED		already served by the shipped model
+Hippeastrum hortorum	TO_COLLECT	7351546	accepted species, GBIF key
+Eucharis amazonica	SYNONYM	SYNONYME-> [10989209]	resolve to the accepted name before collecting
+Haemanthus katharinae	SYNONYM	SYNONYME-> [2860679]	resolve to the accepted name before collecting
+Cryptostephanus vansonii	TO_COLLECT	2860347	accepted species, GBIF key
+Agapanthus africanus	EXPOSED		already served by the shipped model
+Cyrtanthus elatus	COLLECTED		in plants.csv, trained, exportable
+Zephyranthes carinata	COLLECTED		in plants.csv, trained, exportable
+Crinum asiaticum	COLLECTED		in plants.csv, trained, exportable
+Sprekelia formosissima	TO_COLLECT	2860360	accepted species, GBIF key
+Nerine bowdenii	COLLECTED		in plants.csv, trained, exportable
+Lilium longiflorum	COLLECTED		in plants.csv, trained, exportable
+Tulipa gesneriana	EXPOSED		already served by the shipped model
+Hyacinthus orientalis	EXPOSED		already served by the shipped model
+Muscari armeniacum	EXPOSED		already served by the shipped model
+Narcissus tazzetta	TO_COLLECT	2858963	accepted species, GBIF key
+Cyclamen coum	COLLECTED		in plants.csv, trained, exportable
+Convallaria majalis	EXPOSED		already served by the shipped model
+Gloriosa superba	COLLECTED		in plants.csv, trained, exportable
+Bowiea volubilis	TO_COLLECT	7386178	accepted species, GBIF key
+Dioscorea elephantipes	TO_COLLECT	2755523	accepted species, GBIF key
+Stephania erecta	SYNONYM	SYNONYME-> [5592774]	resolve to the accepted name before collecting
+Stephania suberosa	TO_COLLECT	5592748	accepted species, GBIF key
+Stephania pierrei	TO_COLLECT	5592774	accepted species, GBIF key
+Phyllanthus mirabilis	TO_COLLECT	5381921	accepted species, GBIF key
+Adenia spinosa	TO_COLLECT	5527612	accepted species, GBIF key
+Jatropha podagrica	COLLECTED		in plants.csv, trained, exportable
+Jatropha multifida	COLLECTED		in plants.csv, trained, exportable
+Monadenium ritchiei	SYNONYM	SYNONYME-> [3067621]	resolve to the accepted name before collecting
+Synadenium grantii	SYNONYM	SYNONYME-> [3070438]	resolve to the accepted name before collecting
+Pedilanthus tithymaloides	SYNONYM	SYNONYME-> [3069168]	resolve to the accepted name before collecting
+Euphorbia tirucalli rosea	COLLECTED		in plants.csv, trained, exportable
+Euphorbia leuconeura	COLLECTED		in plants.csv, trained, exportable
+Pilea grandolis	SYNONYM	SYNONYME-> [5361822]	resolve to the accepted name before collecting
+Pilea glaucophylla	SYNONYM	SYNONYME-> [5670242]	resolve to the accepted name before collecting
+Pilea nummulariifolia	COLLECTED		in plants.csv, trained, exportable
+Elatostema repens	SYNONYM	SYNONYME-> [7916114]	resolve to the accepted name before collecting
+Peperomia rotundifolia	COLLECTED		in plants.csv, trained, exportable
+Peperomia serpens	COLLECTED		in plants.csv, trained, exportable
+Peperomia maculosa	TO_COLLECT	3086368	accepted species, GBIF key
+Peperomia metallica	TO_COLLECT	4184843	accepted species, GBIF key
+Peperomia incana	TO_COLLECT	8049505	accepted species, GBIF key
+Peperomia fraseri	TO_COLLECT	7305086	accepted species, GBIF key
+Begonia conchifolia	TO_COLLECT	7303439	accepted species, GBIF key
+Begonia foliosa	COLLECTED		in plants.csv, trained, exportable
+Begonia nelumbiifolia	COLLECTED		in plants.csv, trained, exportable
+Begonia goegoensis	TO_COLLECT	4157921	accepted species, GBIF key
+Begonia serratipetala	TO_COLLECT	4157972	accepted species, GBIF key
+Calathea metallica	TO_COLLECT	7722597	accepted species, GBIF key
+Calathea lindeniana	TO_COLLECT	9546997	accepted species, GBIF key
+Calathea louisae	SYNONYM	SYNONYME-> [9431418]	resolve to the accepted name before collecting
+Calathea ecuadoriana	SYNONYM	SYNONYME-> [9296883]	resolve to the accepted name before collecting
+Calathea chimboracensis	SYNONYM	SYNONYME-> [9355492]	resolve to the accepted name before collecting
+Schismatoglottis calyptrata	TO_COLLECT	2867982	accepted species, GBIF key
+Schismatoglottis wallichii	TO_COLLECT	2868039	accepted species, GBIF key
+Homalomena rubescens	TO_COLLECT	2868726	accepted species, GBIF key
+Homalomena wallisii	SYNONYM	SYNONYME-> [9255776]	resolve to the accepted name before collecting
+Bucephalandra pygmaea	TO_COLLECT	9524399	accepted species, GBIF key
+Cryptocoryne wendtii	TO_COLLECT	2869214	accepted species, GBIF key
+Anubias barteri	TO_COLLECT	2871871	accepted species, GBIF key
+Rhaphidophora tetrasperma	COLLECTED		in plants.csv, trained, exportable
+Rhaphidophora decursiva	TO_COLLECT	5329707	accepted species, GBIF key
+Rhaphidophora cryptantha	TO_COLLECT	5329650	accepted species, GBIF key
+Rhaphidophora hayi	TO_COLLECT	5329786	accepted species, GBIF key
+Amydrium medium	TO_COLLECT	2870238	accepted species, GBIF key
+Amydrium zippelianum	TO_COLLECT	2870249	accepted species, GBIF key
+Lasia spinosa	TO_COLLECT	5330870	accepted species, GBIF key
+Cyrtosperma johnstonii	TO_COLLECT	2871907	accepted species, GBIF key
+Anadendrum microstachyum	TO_COLLECT	2870564	accepted species, GBIF key
+Pothos chinensis	TO_COLLECT	5330311	accepted species, GBIF key
+Pothos scandens	TO_COLLECT	5330394	accepted species, GBIF key
+Remusatia vivipara	TO_COLLECT	2871956	accepted species, GBIF key
+Typhonium blumei	TO_COLLECT	2869495	accepted species, GBIF key
+Pinanga coronata	COLLECTED		in plants.csv, trained, exportable
+Chamaedorea metallica	TO_COLLECT	2734536	accepted species, GBIF key
+Chamaedorea microspadix	TO_COLLECT	2734713	accepted species, GBIF key
+Chamaedorea radicalis	TO_COLLECT	2734396	accepted species, GBIF key
+Geonoma epetiolata	TO_COLLECT	2734364	accepted species, GBIF key
+Iguanura wallichiana	TO_COLLECT	7933984	accepted species, GBIF key
+Kerriodoxa elegans	TO_COLLECT	2732373	accepted species, GBIF key
+Aiphanes horrida	TO_COLLECT	2738639	accepted species, GBIF key
+Bismarckia nobilis	COLLECTED		in plants.csv, trained, exportable
+Trachycarpus fortunei	EXPOSED		already served by the shipped model
+Washingtonia robusta	EXPOSED		already served by the shipped model
+Chamaerops humilis	EXPOSED		already served by the shipped model
+Brahea armata	COLLECTED		in plants.csv, trained, exportable
+Pachypodium saundersii	COLLECTED		in plants.csv, trained, exportable
+Pachypodium geayi	TO_COLLECT	5535488	accepted species, GBIF key
+Pachypodium brevicaule	TO_COLLECT	7155422	accepted species, GBIF key
+Euphorbia abdelkuri	TO_COLLECT	3069740	accepted species, GBIF key
+Euphorbia ambovombensis	TO_COLLECT	3065816	accepted species, GBIF key
+Euphorbia francoisii	SYNONYM	SYNONYME-> [3068908]	resolve to the accepted name before collecting
+Euphorbia decaryi	TO_COLLECT	3068904	accepted species, GBIF key
+Euphorbia cylindrifolia	TO_COLLECT	3070377	accepted species, GBIF key
+Euphorbia suzannae	TO_COLLECT	3067906	accepted species, GBIF key

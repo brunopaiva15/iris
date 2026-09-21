@@ -1,0 +1,7 @@
+# To train on an NVIDIA GPU (WSL2 or Linux).
+# `tensorflow[and-cuda]` bundles CUDA and cuDNN; do NOT install `tensorflow-cpu`
+# alongside it — the two packages tread on each other and the CPU version wins,
+# ten times slower, without a word.
+tensorflow[and-cuda]>=2.19
+numpy
+Pillow

@@ -1,0 +1,14 @@
+{
+ "total_results": 1,
+ "results": [
+  {
+   "id": 125439,
+   "name": "Pilea peperomioides",
+   "rank": "species",
+   "observations_count": 3519,
+   "matched_term": "Pilea peperomioides",
+   "is_active": true,
+   "iconic_taxon_name": "Plantae"
+  }
+ ]
+}

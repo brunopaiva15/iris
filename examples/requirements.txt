@@ -1,0 +1,7 @@
+# Inference only. LiteRT is the current TensorFlow Lite runtime and weighs a
+# few megabytes; identify.py also accepts the older tflite-runtime package, or
+# full TensorFlow, whichever it finds first.
+ai-edge-litert>=1.0
+numpy>=1.26
+Pillow>=10
+huggingface_hub>=0.23

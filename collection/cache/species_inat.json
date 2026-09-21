@@ -1,0 +1,6964 @@
+{
+ "Ficus lyrata": {
+  "id": 201458,
+  "name": "Ficus lyrata",
+  "rank": "species",
+  "observations": 7922,
+  "matched_as": "Ficus lyrata",
+  "synonym": false
+ },
+ "Scindapsus pictus": {
+  "id": 346616,
+  "name": "Scindapsus pictus",
+  "rank": "species",
+  "observations": 1241,
+  "matched_as": "Scindapsus pictus",
+  "synonym": false
+ },
+ "Philodendron bipinnatifidum": {
+  "id": 985710,
+  "name": "Thaumatophyllum bipinnatifidum",
+  "rank": "species",
+  "observations": 11462,
+  "matched_as": "Philodendron bipinnatifidum",
+  "synonym": true
+ },
+ "Spathiphyllum wallisii": {
+  "id": 284040,
+  "name": "Spathiphyllum wallisii",
+  "rank": "species",
+  "observations": 16345,
+  "matched_as": "Spathiphyllum wallisii",
+  "synonym": false
+ },
+ "Zamioculcas zamiifolia": {
+  "id": 367277,
+  "name": "Zamioculcas zamiifolia",
+  "rank": "species",
+  "observations": 10151,
+  "matched_as": "Zamioculcas zamiifolia",
+  "synonym": false
+ },
+ "Dracaena marginata": {
+  "id": 126509,
+  "name": "Dracaena reflexa angustifolia",
+  "rank": "variety",
+  "observations": 5396,
+  "matched_as": "Dracaena marginata",
+  "synonym": true
+ },
+ "Pilea peperomioides": {
+  "id": 125439,
+  "name": "Pilea peperomioides",
+  "rank": "species",
+  "observations": 3521,
+  "matched_as": "Pilea peperomioides",
+  "synonym": false
+ },
+ "Calathea orbifolia": {
+  "id": 866988,
+  "name": "Goeppertia orbifolia",
+  "rank": "species",
+  "observations": 268,
+  "matched_as": "Calathea orbifolia",
+  "synonym": true
+ },
+ "Goeppertia makoyana": {
+  "id": 1172810,
+  "name": "Goeppertia makoyana",
+  "rank": "species",
+  "observations": 1766,
+  "matched_as": "Goeppertia makoyana",
+  "synonym": false
+ },
+ "Maranta leuconeura": {
+  "id": 366346,
+  "name": "Maranta leuconeura",
+  "rank": "species",
+  "observations": 3996,
+  "matched_as": "Maranta leuconeura",
+  "synonym": false
+ },
+ "Alocasia amazonica": null,
+ "Anthurium andraeanum": {
+  "id": 69235,
+  "name": "Anthurium andraeanum",
+  "rank": "species",
+  "observations": 18573,
+  "matched_as": "Anthurium andraeanum",
+  "synonym": false
+ },
+ "Aglaonema commutatum": {
+  "id": 158118,
+  "name": "Aglaonema commutatum",
+  "rank": "species",
+  "observations": 5418,
+  "matched_as": "Aglaonema commutatum",
+  "synonym": false
+ },
+ "Peperomia obtusifolia": {
+  "id": 166493,
+  "name": "Peperomia obtusifolia",
+  "rank": "species",
+  "observations": 2695,
+  "matched_as": "Peperomia obtusifolia",
+  "synonym": false
+ },
+ "Peperomia argyreia": {
+  "id": 1600433,
+  "name": "Peperomia argyraea",
+  "rank": "species",
+  "observations": 732,
+  "matched_as": "Peperomia argyreia",
+  "synonym": true
+ },
+ "Hoya kerrii": {
+  "id": 426893,
+  "name": "Hoya kerrii",
+  "rank": "species",
+  "observations": 616,
+  "matched_as": "Hoya kerrii",
+  "synonym": false
+ },
+ "Begonia rex": {
+  "id": 327898,
+  "name": "Begonia rex",
+  "rank": "species",
+  "observations": 105,
+  "matched_as": "Begonia rex",
+  "synonym": false
+ },
+ "Fittonia albivenis": {
+  "id": 327855,
+  "name": "Fittonia albivenis",
+  "rank": "species",
+  "observations": 2477,
+  "matched_as": "Fittonia albivenis",
+  "synonym": false
+ },
+ "Nephrolepis exaltata": {
+  "id": 130866,
+  "name": "Nephrolepis exaltata",
+  "rank": "species",
+  "observations": 11139,
+  "matched_as": "Nephrolepis exaltata",
+  "synonym": false
+ },
+ "Strelitzia reginae": {
+  "id": 49143,
+  "name": "Strelitzia reginae",
+  "rank": "species",
+  "observations": 19224,
+  "matched_as": "Strelitzia reginae",
+  "synonym": false
+ },
+ "Beaucarnea recurvata": {
+  "id": 206192,
+  "name": "Beaucarnea recurvata",
+  "rank": "species",
+  "observations": 4645,
+  "matched_as": "Beaucarnea recurvata",
+  "synonym": false
+ },
+ "Chamaedorea elegans": {
+  "id": 283400,
+  "name": "Chamaedorea elegans",
+  "rank": "species",
+  "observations": 2861,
+  "matched_as": "Chamaedorea elegans",
+  "synonym": false
+ },
+ "Howea forsteriana": {
+  "id": 135400,
+  "name": "Howea forsteriana",
+  "rank": "species",
+  "observations": 1297,
+  "matched_as": "Howea forsteriana",
+  "synonym": false
+ },
+ "Rhapis excelsa": {
+  "id": 283915,
+  "name": "Rhapis excelsa",
+  "rank": "species",
+  "observations": 7614,
+  "matched_as": "Rhapis excelsa",
+  "synonym": false
+ },
+ "Phoenix roebelenii": {
+  "id": 204744,
+  "name": "Phoenix roebelenii",
+  "rank": "species",
+  "observations": 11378,
+  "matched_as": "Phoenix roebelenii",
+  "synonym": false
+ },
+ "Schefflera arboricola": {
+  "id": 1239449,
+  "name": "Heptapleurum arboricola",
+  "rank": "species",
+  "observations": 26289,
+  "matched_as": "Schefflera arboricola",
+  "synonym": true
+ },
+ "Aspidistra elatior": {
+  "id": 125396,
+  "name": "Aspidistra elatior",
+  "rank": "species",
+  "observations": 4509,
+  "matched_as": "Aspidistra elatior",
+  "synonym": false
+ },
+ "Saintpaulia ionantha": {
+  "id": 927983,
+  "name": "Streptocarpus ionanthus",
+  "rank": "species",
+  "observations": 2218,
+  "matched_as": "Saintpaulia ionantha",
+  "synonym": true
+ },
+ "Phalaenopsis amabilis": {
+  "id": 344883,
+  "name": "Phalaenopsis amabilis",
+  "rank": "species",
+  "observations": 245,
+  "matched_as": "Phalaenopsis amabilis",
+  "synonym": false
+ },
+ "Dendrobium nobile": {
+  "id": 67756,
+  "name": "Dendrobium nobile",
+  "rank": "species",
+  "observations": 2133,
+  "matched_as": "Dendrobium nobile",
+  "synonym": false
+ },
+ "Tillandsia ionantha": {
+  "id": 141279,
+  "name": "Tillandsia ionantha",
+  "rank": "species",
+  "observations": 1761,
+  "matched_as": "Tillandsia ionantha",
+  "synonym": false
+ },
+ "Aechmea fasciata": {
+  "id": 416202,
+  "name": "Aechmea fasciata",
+  "rank": "species",
+  "observations": 3337,
+  "matched_as": "Aechmea fasciata",
+  "synonym": false
+ },
+ "Schlumbergera truncata": {
+  "id": 51223,
+  "name": "Schlumbergera truncata",
+  "rank": "species",
+  "observations": 7061,
+  "matched_as": "Schlumbergera truncata",
+  "synonym": false
+ },
+ "Ctenanthe burle-marxii": {
+  "id": 480528,
+  "name": "Ctenanthe burle-marxii",
+  "rank": "species",
+  "observations": 843,
+  "matched_as": "Ctenanthe burle-marxii",
+  "synonym": false
+ },
+ "Stromanthe sanguinea": {
+  "id": 426720,
+  "name": "Stromanthe thalia",
+  "rank": "species",
+  "observations": 2047,
+  "matched_as": "Stromanthe sanguinea",
+  "synonym": true
+ },
+ "Cissus rhombifolia": {
+  "id": 577810,
+  "name": "Cissus alata",
+  "rank": "species",
+  "observations": 133,
+  "matched_as": "Cissus rhombifolia",
+  "synonym": true
+ },
+ "Polyscias fruticosa": {
+  "id": 284560,
+  "name": "Polyscias fruticosa",
+  "rank": "species",
+  "observations": 3095,
+  "matched_as": "Polyscias fruticosa",
+  "synonym": false
+ },
+ "Ceropegia woodii": {
+  "id": 418734,
+  "name": "Ceropegia woodii",
+  "rank": "species",
+  "observations": 739,
+  "matched_as": "Ceropegia woodii",
+  "synonym": false
+ },
+ "Sansevieria cylindrica": {
+  "id": 168422,
+  "name": "Sansevieria cylindrica",
+  "rank": "species",
+  "observations": 2877,
+  "matched_as": "Sansevieria cylindrica",
+  "synonym": false
+ },
+ "Echeveria elegans": {
+  "id": 206749,
+  "name": "Echeveria elegans",
+  "rank": "species",
+  "observations": 2419,
+  "matched_as": "Echeveria elegans",
+  "synonym": false
+ },
+ "Haworthiopsis attenuata": {
+  "id": 577654,
+  "name": "Haworthiopsis attenuata",
+  "rank": "species",
+  "observations": 4601,
+  "matched_as": "Haworthiopsis attenuata",
+  "synonym": false
+ },
+ "Sedum morganianum": {
+  "id": 276072,
+  "name": "Sedum morganianum",
+  "rank": "species",
+  "observations": 2516,
+  "matched_as": "Sedum morganianum",
+  "synonym": false
+ },
+ "Kalanchoe blossfeldiana": {
+  "id": 164326,
+  "name": "Kalanchoe blossfeldiana",
+  "rank": "species",
+  "observations": 27108,
+  "matched_as": "Kalanchoe blossfeldiana",
+  "synonym": false
+ },
+ "Curio rowleyanus": {
+  "id": 943005,
+  "name": "Curio rowleyanus",
+  "rank": "species",
+  "observations": 1870,
+  "matched_as": "Curio rowleyanus",
+  "synonym": false
+ },
+ "Gasteria carinata": {
+  "id": 479482,
+  "name": "Gasteria carinata",
+  "rank": "species",
+  "observations": 624,
+  "matched_as": "Gasteria carinata",
+  "synonym": false
+ },
+ "Euphorbia trigona": {
+  "id": 322318,
+  "name": "Euphorbia trigona",
+  "rank": "species",
+  "observations": 6208,
+  "matched_as": "Euphorbia trigona",
+  "synonym": false
+ },
+ "Echinocactus grusonii": {
+  "id": 869962,
+  "name": "Kroenleinia grusonii",
+  "rank": "species",
+  "observations": 11761,
+  "matched_as": "Echinocactus grusonii",
+  "synonym": true
+ },
+ "Mammillaria hahniana": {
+  "id": 206461,
+  "name": "Mammillaria hahniana",
+  "rank": "species",
+  "observations": 391,
+  "matched_as": "Mammillaria hahniana",
+  "synonym": false
+ },
+ "Cereus repandus": {
+  "id": 320319,
+  "name": "Cereus repandus",
+  "rank": "species",
+  "observations": 2558,
+  "matched_as": "Cereus repandus",
+  "synonym": false
+ },
+ "Epiphyllum oxypetalum": {
+  "id": 85410,
+  "name": "Epiphyllum oxypetalum",
+  "rank": "species",
+  "observations": 3896,
+  "matched_as": "Epiphyllum oxypetalum",
+  "synonym": false
+ },
+ "Lithops lesliei": {
+  "id": 589278,
+  "name": "Lithops lesliei",
+  "rank": "species",
+  "observations": 172,
+  "matched_as": "Lithops lesliei",
+  "synonym": false
+ },
+ "Graptopetalum paraguayense": {
+  "id": 273763,
+  "name": "Graptopetalum paraguayense",
+  "rank": "species",
+  "observations": 7803,
+  "matched_as": "Graptopetalum paraguayense",
+  "synonym": false
+ },
+ "Ocimum basilicum": {
+  "id": 61398,
+  "name": "Ocimum basilicum",
+  "rank": "species",
+  "observations": 18241,
+  "matched_as": "Ocimum basilicum",
+  "synonym": false
+ },
+ "Mentha × piperita": {
+  "id": 181525,
+  "name": "Mentha × piperita",
+  "rank": "hybrid",
+  "observations": 4648,
+  "matched_as": "Mentha × piperita",
+  "synonym": false
+ },
+ "Origanum majorana": {
+  "id": 165925,
+  "name": "Origanum majorana",
+  "rank": "species",
+  "observations": 782,
+  "matched_as": "Origanum majorana",
+  "synonym": false
+ },
+ "Cymbopogon citratus": {
+  "id": 123728,
+  "name": "Cymbopogon citratus",
+  "rank": "species",
+  "observations": 9729,
+  "matched_as": "Cymbopogon citratus",
+  "synonym": false
+ },
+ "Stevia rebaudiana": {
+  "id": 320730,
+  "name": "Stevia rebaudiana",
+  "rank": "species",
+  "observations": 264,
+  "matched_as": "Stevia rebaudiana",
+  "synonym": false
+ },
+ "Satureja hortensis": {
+  "id": 58460,
+  "name": "Satureja hortensis",
+  "rank": "species",
+  "observations": 489,
+  "matched_as": "Satureja hortensis",
+  "synonym": false
+ },
+ "Pelargonium graveolens": {
+  "id": 127298,
+  "name": "Pelargonium graveolens",
+  "rank": "species",
+  "observations": 4725,
+  "matched_as": "Pelargonium graveolens",
+  "synonym": false
+ },
+ "Solanum melongena": {
+  "id": 63190,
+  "name": "Solanum melongena",
+  "rank": "species",
+  "observations": 8435,
+  "matched_as": "Solanum melongena",
+  "synonym": false
+ },
+ "Cucurbita maxima": {
+  "id": 122866,
+  "name": "Cucurbita maxima",
+  "rank": "species",
+  "observations": 3932,
+  "matched_as": "Cucurbita maxima",
+  "synonym": false
+ },
+ "Cucumis sativus": {
+  "id": 54919,
+  "name": "Cucumis sativus",
+  "rank": "species",
+  "observations": 7299,
+  "matched_as": "Cucumis sativus",
+  "synonym": false
+ },
+ "Lactuca sativa": {
+  "id": 122976,
+  "name": "Lactuca sativa",
+  "rank": "species",
+  "observations": 9423,
+  "matched_as": "Lactuca sativa",
+  "synonym": false
+ },
+ "Spinacia oleracea": {
+  "id": 84092,
+  "name": "Spinacia oleracea",
+  "rank": "species",
+  "observations": 2960,
+  "matched_as": "Spinacia oleracea",
+  "synonym": false
+ },
+ "Allium cepa": {
+  "id": 48592,
+  "name": "Allium cepa",
+  "rank": "species",
+  "observations": 5212,
+  "matched_as": "Allium cepa",
+  "synonym": false
+ },
+ "Phaseolus vulgaris": {
+  "id": 122850,
+  "name": "Phaseolus vulgaris",
+  "rank": "species",
+  "observations": 5511,
+  "matched_as": "Phaseolus vulgaris",
+  "synonym": false
+ },
+ "Capsicum chinense": {
+  "id": 69135,
+  "name": "Capsicum chinense",
+  "rank": "species",
+  "observations": 2377,
+  "matched_as": "Capsicum chinense",
+  "synonym": false
+ },
+ "Citrus × limon": {
+  "id": 331124,
+  "name": "Citrus × limon",
+  "rank": "hybrid",
+  "observations": 17479,
+  "matched_as": "Citrus × limon",
+  "synonym": false
+ },
+ "Citrus reticulata": {
+  "id": 1611056,
+  "name": "Citrus reticulata",
+  "rank": "species",
+  "observations": 168,
+  "matched_as": "Citrus reticulata",
+  "synonym": false
+ },
+ "Citrus japonica": {
+  "id": 343817,
+  "name": "Citrus japonica",
+  "rank": "species",
+  "observations": 3573,
+  "matched_as": "Citrus japonica",
+  "synonym": false
+ },
+ "Citrus hystrix": {
+  "id": 123741,
+  "name": "Citrus hystrix",
+  "rank": "species",
+  "observations": 5633,
+  "matched_as": "Citrus hystrix",
+  "synonym": false
+ },
+ "Actinidia deliciosa": null,
+ "Pelargonium × hortorum": {
+  "id": 181543,
+  "name": "Pelargonium × hybridum",
+  "rank": "hybrid",
+  "observations": 27723,
+  "matched_as": "Pelargonium × hortorum",
+  "synonym": true
+ },
+ "Dahlia pinnata": {
+  "id": 161582,
+  "name": "Dahlia pinnata",
+  "rank": "species",
+  "observations": 22425,
+  "matched_as": "Dahlia pinnata",
+  "synonym": false
+ },
+ "Begonia × semperflorens-cultorum": {
+  "id": 380721,
+  "name": "Begonia × semperflorens-cultorum",
+  "rank": "hybrid",
+  "observations": 9239,
+  "matched_as": "Begonia × semperflorens-cultorum",
+  "synonym": false
+ },
+ "Dianthus caryophyllus": {
+  "id": 83063,
+  "name": "Dianthus caryophyllus",
+  "rank": "species",
+  "observations": 3428,
+  "matched_as": "Dianthus caryophyllus",
+  "synonym": false
+ },
+ "Lilium candidum": {
+  "id": 223666,
+  "name": "Lilium candidum",
+  "rank": "species",
+  "observations": 1031,
+  "matched_as": "Lilium candidum",
+  "synonym": false
+ },
+ "Chrysanthemum × morifolium": {
+  "id": 53806,
+  "name": "Chrysanthemum × morifolium",
+  "rank": "hybrid",
+  "observations": 8295,
+  "matched_as": "Chrysanthemum × morifolium",
+  "synonym": false
+ },
+ "Gerbera jamesonii": {
+  "id": 349270,
+  "name": "Gerbera jamesonii",
+  "rank": "species",
+  "observations": 3651,
+  "matched_as": "Gerbera jamesonii",
+  "synonym": false
+ },
+ "Hosta plantaginea": {
+  "id": 145718,
+  "name": "Hosta plantaginea",
+  "rank": "species",
+  "observations": 3941,
+  "matched_as": "Hosta plantaginea",
+  "synonym": false
+ },
+ "Agapanthus africanus": {
+  "id": 56019,
+  "name": "Agapanthus africanus",
+  "rank": "species",
+  "observations": 1987,
+  "matched_as": "Agapanthus africanus",
+  "synonym": false
+ },
+ "Bougainvillea glabra": {
+  "id": 159346,
+  "name": "Bougainvillea glabra",
+  "rank": "species",
+  "observations": 32249,
+  "matched_as": "Bougainvillea glabra",
+  "synonym": false
+ },
+ "Jasminum officinale": {
+  "id": 164233,
+  "name": "Jasminum officinale",
+  "rank": "species",
+  "observations": 2904,
+  "matched_as": "Jasminum officinale",
+  "synonym": false
+ },
+ "Hibiscus rosa-sinensis": null,
+ "Rhododendron simsii": {
+  "id": 410380,
+  "name": "Rhododendron simsii",
+  "rank": "species",
+  "observations": 7865,
+  "matched_as": "Rhododendron simsii",
+  "synonym": false
+ },
+ "Photinia × fraseri": {
+  "id": 181681,
+  "name": "Photinia × fraseri",
+  "rank": "hybrid",
+  "observations": 6497,
+  "matched_as": "Photinia × fraseri",
+  "synonym": false
+ },
+ "Magnolia × soulangeana": {
+  "id": 204586,
+  "name": "Magnolia × soulangeana",
+  "rank": "hybrid",
+  "observations": 11512,
+  "matched_as": "Magnolia × soulangeana",
+  "synonym": false
+ },
+ "Fargesia murielae": {
+  "id": 480755,
+  "name": "Fargesia murielae",
+  "rank": "species",
+  "observations": 55,
+  "matched_as": "Fargesia murielae",
+  "synonym": false
+ },
+ "Eucalyptus gunnii": {
+  "id": 323288,
+  "name": "Eucalyptus gunnii",
+  "rank": "species",
+  "observations": 634,
+  "matched_as": "Eucalyptus gunnii",
+  "synonym": false
+ },
+ "Hamamelis × intermedia": {
+  "id": 1231667,
+  "name": "Hamamelis × intermedia",
+  "rank": "hybrid",
+  "observations": 371,
+  "matched_as": "Hamamelis × intermedia",
+  "synonym": false
+ },
+ "Callistemon citrinus": {
+  "id": 77976,
+  "name": "Melaleuca citrina",
+  "rank": "species",
+  "observations": 19707,
+  "matched_as": "Callistemon citrinus",
+  "synonym": true
+ },
+ "Juniperus procumbens": {
+  "id": 133370,
+  "name": "Juniperus procumbens",
+  "rank": "species",
+  "observations": 182,
+  "matched_as": "Juniperus procumbens",
+  "synonym": false
+ },
+ "Abelmoschus esculentus": {
+  "id": 157765,
+  "name": "Abelmoschus esculentus",
+  "rank": "species",
+  "observations": 5568,
+  "matched_as": "Abelmoschus esculentus",
+  "synonym": false
+ },
+ "Acmella oleracea": {
+  "id": 709022,
+  "name": "Acmella oleracea",
+  "rank": "species",
+  "observations": 486,
+  "matched_as": "Acmella oleracea",
+  "synonym": false
+ },
+ "Aegagropila linnaei": {
+  "id": 359510,
+  "name": "Cladophora aegagropila",
+  "rank": "species",
+  "observations": 233,
+  "matched_as": "Aegagropila linnaei",
+  "synonym": true
+ },
+ "Allium ascalonicum": {
+  "id": 739210,
+  "name": "Allium ascalonicum",
+  "rank": "species",
+  "observations": 48,
+  "matched_as": "Allium ascalonicum",
+  "synonym": false
+ },
+ "Allium fistulosum": {
+  "id": 126225,
+  "name": "Allium fistulosum",
+  "rank": "species",
+  "observations": 1987,
+  "matched_as": "Allium fistulosum",
+  "synonym": false
+ },
+ "Aloysia citrodora": {
+  "id": 332455,
+  "name": "Aloysia citrodora",
+  "rank": "species",
+  "observations": 4271,
+  "matched_as": "Aloysia citrodora",
+  "synonym": false
+ },
+ "Areca catechu": {
+  "id": 83108,
+  "name": "Areca catechu",
+  "rank": "species",
+  "observations": 2988,
+  "matched_as": "Areca catechu",
+  "synonym": false
+ },
+ "Aspalathus linearis": {
+  "id": 447656,
+  "name": "Aspalathus linearis",
+  "rank": "species",
+  "observations": 333,
+  "matched_as": "Aspalathus linearis",
+  "synonym": false
+ },
+ "Atriplex rosea": {
+  "id": 58121,
+  "name": "Atriplex rosea",
+  "rank": "species",
+  "observations": 157,
+  "matched_as": "Atriplex rosea",
+  "synonym": false
+ },
+ "Bertholletia excelsa": {
+  "id": 145603,
+  "name": "Bertholletia excelsa",
+  "rank": "species",
+  "observations": 787,
+  "matched_as": "Bertholletia excelsa",
+  "synonym": false
+ },
+ "Bunium bulbocastanum": {
+  "id": 62085,
+  "name": "Bunium bulbocastanum",
+  "rank": "species",
+  "observations": 207,
+  "matched_as": "Bunium bulbocastanum",
+  "synonym": false
+ },
+ "Camellia sinensis": {
+  "id": 123005,
+  "name": "Camellia sinensis",
+  "rank": "species",
+  "observations": 4229,
+  "matched_as": "Camellia sinensis",
+  "synonym": false
+ },
+ "Catha edulis": {
+  "id": 190367,
+  "name": "Catha edulis",
+  "rank": "species",
+  "observations": 366,
+  "matched_as": "Catha edulis",
+  "synonym": false
+ },
+ "Chenopodium quinoa": {
+  "id": 122848,
+  "name": "Chenopodium quinoa",
+  "rank": "species",
+  "observations": 655,
+  "matched_as": "Chenopodium quinoa",
+  "synonym": false
+ },
+ "Chloris chloris": {
+  "id": 145360,
+  "name": "Chloris chloris",
+  "rank": "species",
+  "observations": 102872,
+  "matched_as": "Chloris chloris",
+  "synonym": false
+ },
+ "Cicer arietinum": {
+  "id": 122854,
+  "name": "Cicer arietinum",
+  "rank": "species",
+  "observations": 603,
+  "matched_as": "Cicer arietinum",
+  "synonym": false
+ },
+ "Citrus maxima": {
+  "id": 54299,
+  "name": "Citrus maxima",
+  "rank": "species",
+  "observations": 6787,
+  "matched_as": "Citrus maxima",
+  "synonym": false
+ },
+ "Commiphora wightii": {
+  "id": 190829,
+  "name": "Commiphora wightii",
+  "rank": "species",
+  "observations": 100,
+  "matched_as": "Commiphora wightii",
+  "synonym": false
+ },
+ "Crataegus azarolus": {
+  "id": 191019,
+  "name": "Crataegus azarolus",
+  "rank": "species",
+  "observations": 1518,
+  "matched_as": "Crataegus azarolus",
+  "synonym": false
+ },
+ "Cuminum cyminum": {
+  "id": 161251,
+  "name": "Cuminum cyminum",
+  "rank": "species",
+  "observations": 34,
+  "matched_as": "Cuminum cyminum",
+  "synonym": false
+ },
+ "Curcuma longa": {
+  "id": 119386,
+  "name": "Curcuma longa",
+  "rank": "species",
+  "observations": 3750,
+  "matched_as": "Curcuma longa",
+  "synonym": false
+ },
+ "Euterpe oleracea": {
+  "id": 365244,
+  "name": "Euterpe oleracea",
+  "rank": "species",
+  "observations": 1128,
+  "matched_as": "Euterpe oleracea",
+  "synonym": false
+ },
+ "Ferula assa-foetida": {
+  "id": 790227,
+  "name": "Ferula assa-foetida",
+  "rank": "species",
+  "observations": 116,
+  "matched_as": "Ferula assa-foetida",
+  "synonym": false
+ },
+ "Hibiscus sabdariffa": {
+  "id": 1687652,
+  "name": "Sabdariffa gossypiifolia",
+  "rank": "species",
+  "observations": 4893,
+  "matched_as": "Hibiscus sabdariffa",
+  "synonym": true
+ },
+ "Ilex paraguariensis": {
+  "id": 193722,
+  "name": "Ilex paraguariensis",
+  "rank": "species",
+  "observations": 506,
+  "matched_as": "Ilex paraguariensis",
+  "synonym": false
+ },
+ "Inula salicina": null,
+ "Kroenleinia grusonii": {
+  "id": 869962,
+  "name": "Kroenleinia grusonii",
+  "rank": "species",
+  "observations": 11761,
+  "matched_as": "Kroenleinia grusonii",
+  "synonym": false
+ },
+ "Lawsonia inermis": {
+  "id": 285378,
+  "name": "Lawsonia inermis",
+  "rank": "species",
+  "observations": 1981,
+  "matched_as": "Lawsonia inermis",
+  "synonym": false
+ },
+ "Levisticum officinale": {
+  "id": 59432,
+  "name": "Levisticum officinale",
+  "rank": "species",
+  "observations": 1871,
+  "matched_as": "Levisticum officinale",
+  "synonym": false
+ },
+ "Musa textilis": {
+  "id": 425852,
+  "name": "Musa textilis",
+  "rank": "species",
+  "observations": 33,
+  "matched_as": "Musa textilis",
+  "synonym": false
+ },
+ "Osmanthus fragrans": {
+  "id": 371103,
+  "name": "Osmanthus fragrans",
+  "rank": "species",
+  "observations": 11009,
+  "matched_as": "Osmanthus fragrans",
+  "synonym": false
+ },
+ "Pimenta dioica": {
+  "id": 122811,
+  "name": "Pimenta dioica",
+  "rank": "species",
+  "observations": 1024,
+  "matched_as": "Pimenta dioica",
+  "synonym": false
+ },
+ "Pistacia vera": {
+  "id": 122975,
+  "name": "Pistacia vera",
+  "rank": "species",
+  "observations": 937,
+  "matched_as": "Pistacia vera",
+  "synonym": false
+ },
+ "Prunus mume": {
+  "id": 357447,
+  "name": "Prunus mume",
+  "rank": "species",
+  "observations": 4575,
+  "matched_as": "Prunus mume",
+  "synonym": false
+ },
+ "Pseudolarix amabilis": {
+  "id": 135543,
+  "name": "Pseudolarix amabilis",
+  "rank": "species",
+  "observations": 392,
+  "matched_as": "Pseudolarix amabilis",
+  "synonym": false
+ },
+ "Pyrus pyrifolia": {
+  "id": 122783,
+  "name": "Pyrus pyrifolia",
+  "rank": "species",
+  "observations": 1626,
+  "matched_as": "Pyrus pyrifolia",
+  "synonym": false
+ },
+ "Senecio jacobaea": {
+  "id": 62498,
+  "name": "Jacobaea vulgaris",
+  "rank": "species",
+  "observations": 91298,
+  "matched_as": "Senecio jacobaea",
+  "synonym": true
+ },
+ "Setaria italica": {
+  "id": 168879,
+  "name": "Setaria italica",
+  "rank": "species",
+  "observations": 1265,
+  "matched_as": "Setaria italica",
+  "synonym": false
+ },
+ "Tanacetum balsamita": {
+  "id": 181875,
+  "name": "Tanacetum balsamita",
+  "rank": "species",
+  "observations": 141,
+  "matched_as": "Tanacetum balsamita",
+  "synonym": false
+ },
+ "Theobroma grandiflorum": {
+  "id": 332439,
+  "name": "Theobroma grandiflorum",
+  "rank": "species",
+  "observations": 703,
+  "matched_as": "Theobroma grandiflorum",
+  "synonym": false
+ },
+ "Trigonella foenum-graecum": {
+  "id": 122771,
+  "name": "Trigonella foenum-graecum",
+  "rank": "species",
+  "observations": 128,
+  "matched_as": "Trigonella foenum-graecum",
+  "synonym": false
+ },
+ "Triticum dicoccum": null,
+ "Triticum durum": {
+  "id": 1107658,
+  "name": "Triticum turgidum durum",
+  "rank": "subspecies",
+  "observations": 82,
+  "matched_as": "Triticum durum",
+  "synonym": true
+ },
+ "Triticum spelta": {
+  "id": 122840,
+  "name": "Triticum spelta",
+  "rank": "species",
+  "observations": 83,
+  "matched_as": "Triticum spelta",
+  "synonym": false
+ },
+ "Vigna angularis": {
+  "id": 122889,
+  "name": "Vigna angularis",
+  "rank": "species",
+  "observations": 206,
+  "matched_as": "Vigna angularis",
+  "synonym": false
+ },
+ "Vigna radiata": {
+  "id": 122885,
+  "name": "Vigna radiata",
+  "rank": "species",
+  "observations": 655,
+  "matched_as": "Vigna radiata",
+  "synonym": false
+ },
+ "Wollemia nobilis": {
+  "id": 49381,
+  "name": "Wollemia nobilis",
+  "rank": "species",
+  "observations": 1107,
+  "matched_as": "Wollemia nobilis",
+  "synonym": false
+ },
+ "Zingiber officinale": {
+  "id": 122971,
+  "name": "Zingiber officinale",
+  "rank": "species",
+  "observations": 2276,
+  "matched_as": "Zingiber officinale",
+  "synonym": false
+ },
+ "Annona cherimola": {
+  "id": 126236,
+  "name": "Annona cherimola",
+  "rank": "species",
+  "observations": 2474,
+  "matched_as": "Annona cherimola",
+  "synonym": false
+ },
+ "Cedrus libani": {
+  "id": 136150,
+  "name": "Cedrus libani",
+  "rank": "species",
+  "observations": 2616,
+  "matched_as": "Cedrus libani",
+  "synonym": false
+ },
+ "Citrus × aurantifolia": {
+  "id": 331121,
+  "name": "Citrus × aurantiifolia",
+  "rank": "hybrid",
+  "observations": 3192,
+  "matched_as": "Citrus × aurantifolia",
+  "synonym": true
+ },
+ "Diphylleia grayi": {
+  "id": 157025,
+  "name": "Diphylleia grayi",
+  "rank": "species",
+  "observations": 253,
+  "matched_as": "Diphylleia grayi",
+  "synonym": false
+ },
+ "Erythroxylum coca": {
+  "id": 64337,
+  "name": "Erythroxylum coca",
+  "rank": "species",
+  "observations": 1358,
+  "matched_as": "Erythroxylum coca",
+  "synonym": false
+ },
+ "Garcinia mangostana": {
+  "id": 123001,
+  "name": "Garcinia mangostana",
+  "rank": "species",
+  "observations": 1340,
+  "matched_as": "Garcinia mangostana",
+  "synonym": false
+ },
+ "Triplochiton scleroxylon": {
+  "id": 182392,
+  "name": "Triplochiton scleroxylon",
+  "rank": "species",
+  "observations": 35,
+  "matched_as": "Triplochiton scleroxylon",
+  "synonym": false
+ },
+ "Vigna unguiculata": {
+  "id": 122898,
+  "name": "Vigna unguiculata",
+  "rank": "species",
+  "observations": 1765,
+  "matched_as": "Vigna unguiculata",
+  "synonym": false
+ },
+ "Abies numidica": {
+  "id": 136895,
+  "name": "Abies numidica",
+  "rank": "species",
+  "observations": 119,
+  "matched_as": "Abies numidica",
+  "synonym": false
+ },
+ "Citrus × bergamia": {
+  "id": 331124,
+  "name": "Citrus × limon",
+  "rank": "hybrid",
+  "observations": 17479,
+  "matched_as": "Citrus × bergamia",
+  "synonym": true
+ },
+ "Echinopsis pachanoi": {
+  "id": 829212,
+  "name": "Trichocereus macrogonus pachanoi",
+  "rank": "variety",
+  "observations": 1441,
+  "matched_as": "Echinopsis pachanoi",
+  "synonym": true
+ },
+ "Elettaria cardamomum": {
+  "id": 119387,
+  "name": "Elettaria cardamomum",
+  "rank": "species",
+  "observations": 431,
+  "matched_as": "Elettaria cardamomum",
+  "synonym": false
+ },
+ "Euphrasia rostkoviana": {
+  "id": 866675,
+  "name": "Euphrasia officinalis",
+  "rank": "species",
+  "observations": 4957,
+  "matched_as": "Euphrasia rostkoviana",
+  "synonym": true
+ },
+ "Hevea brasiliensis": {
+  "id": 53940,
+  "name": "Hevea brasiliensis",
+  "rank": "species",
+  "observations": 2555,
+  "matched_as": "Hevea brasiliensis",
+  "synonym": false
+ },
+ "Lepidium meyenii": {
+  "id": 372676,
+  "name": "Lepidium meyenii",
+  "rank": "species",
+  "observations": 28,
+  "matched_as": "Lepidium meyenii",
+  "synonym": false
+ },
+ "Lepidium sativum": {
+  "id": 164527,
+  "name": "Lepidium sativum",
+  "rank": "species",
+  "observations": 665,
+  "matched_as": "Lepidium sativum",
+  "synonym": false
+ },
+ "Lupinus albus": {
+  "id": 54906,
+  "name": "Lupinus albus",
+  "rank": "species",
+  "observations": 522,
+  "matched_as": "Lupinus albus",
+  "synonym": false
+ },
+ "Nigella sativa": {
+  "id": 122834,
+  "name": "Nigella sativa",
+  "rank": "species",
+  "observations": 80,
+  "matched_as": "Nigella sativa",
+  "synonym": false
+ },
+ "Phaseolus lunatus": {
+  "id": 122849,
+  "name": "Phaseolus lunatus",
+  "rank": "species",
+  "observations": 539,
+  "matched_as": "Phaseolus lunatus",
+  "synonym": false
+ },
+ "Physostigma venenosum": null,
+ "Pinus heldreichii": {
+  "id": 135783,
+  "name": "Pinus heldreichii",
+  "rank": "species",
+  "observations": 360,
+  "matched_as": "Pinus heldreichii",
+  "synonym": false
+ },
+ "Pyrus pyraster": {
+  "id": 1330161,
+  "name": "Pyrus communis pyraster",
+  "rank": "subspecies",
+  "observations": 1409,
+  "matched_as": "Pyrus pyraster",
+  "synonym": true
+ },
+ "Ranunculus fluitans": {
+  "id": 196971,
+  "name": "Ranunculus fluitans",
+  "rank": "species",
+  "observations": 740,
+  "matched_as": "Ranunculus fluitans",
+  "synonym": false
+ },
+ "Abies cephalonica": {
+  "id": 136886,
+  "name": "Abies cephalonica",
+  "rank": "species",
+  "observations": 647,
+  "matched_as": "Abies cephalonica",
+  "synonym": false
+ },
+ "Alpinia officinarum": {
+  "id": 785903,
+  "name": "Alpinia officinarum",
+  "rank": "species",
+  "observations": 72,
+  "matched_as": "Alpinia officinarum",
+  "synonym": false
+ },
+ "Cananga odorata": {
+  "id": 154842,
+  "name": "Cananga odorata",
+  "rank": "species",
+  "observations": 2720,
+  "matched_as": "Cananga odorata",
+  "synonym": false
+ },
+ "Citrus × clementina": {
+  "id": 1564163,
+  "name": "Citrus × aurantium deliciosa",
+  "rank": "form",
+  "observations": 111,
+  "matched_as": "Citrus × clementina",
+  "synonym": true
+ },
+ "Cucumis metuliferus": {
+  "id": 126238,
+  "name": "Cucumis metuliferus",
+  "rank": "species",
+  "observations": 982,
+  "matched_as": "Cucumis metuliferus",
+  "synonym": false
+ },
+ "Cupressus × leylandii": {
+  "id": 1515671,
+  "name": "× Hesperotropsis leylandii",
+  "rank": "species",
+  "observations": 1015,
+  "matched_as": "Cupressus × leylandii",
+  "synonym": true
+ },
+ "Encephalartos altensteinii": {
+  "id": 136096,
+  "name": "Encephalartos altensteinii",
+  "rank": "species",
+  "observations": 463,
+  "matched_as": "Encephalartos altensteinii",
+  "synonym": false
+ },
+ "Eragrostis tef": {
+  "id": 145597,
+  "name": "Eragrostis tef",
+  "rank": "species",
+  "observations": 28,
+  "matched_as": "Eragrostis tef",
+  "synonym": false
+ },
+ "Harpagophytum procumbens": {
+  "id": 356056,
+  "name": "Harpagophytum procumbens",
+  "rank": "species",
+  "observations": 177,
+  "matched_as": "Harpagophytum procumbens",
+  "synonym": false
+ },
+ "Hibiscus cannabinus": {
+  "id": 1687537,
+  "name": "Sabdariffa cannabina",
+  "rank": "species",
+  "observations": 973,
+  "matched_as": "Hibiscus cannabinus",
+  "synonym": true
+ },
+ "Morus nigra": {
+  "id": 126741,
+  "name": "Morus nigra",
+  "rank": "species",
+  "observations": 9334,
+  "matched_as": "Morus nigra",
+  "synonym": false
+ },
+ "Paeonia mascula": {
+  "id": 333843,
+  "name": "Paeonia mascula",
+  "rank": "species",
+  "observations": 622,
+  "matched_as": "Paeonia mascula",
+  "synonym": false
+ },
+ "Pelargonium × citrosum": {
+  "id": 119546,
+  "name": "Pelargonium cucullatum",
+  "rank": "species",
+  "observations": 7406,
+  "matched_as": "Pelargonium × citrosum",
+  "synonym": true
+ },
+ "Ziziphus jujuba": {
+  "id": 428365,
+  "name": "Ziziphus jujuba",
+  "rank": "species",
+  "observations": 5212,
+  "matched_as": "Ziziphus jujuba",
+  "synonym": false
+ },
+ "Abies pinsapo": {
+  "id": 136896,
+  "name": "Abies pinsapo",
+  "rank": "species",
+  "observations": 1894,
+  "matched_as": "Abies pinsapo",
+  "synonym": false
+ },
+ "Digitaria exilis": {
+  "id": 482028,
+  "name": "Digitaria exilis",
+  "rank": "species",
+  "observations": 3,
+  "matched_as": "Digitaria exilis",
+  "synonym": false
+ },
+ "Glaucidium palmarum": {
+  "id": 19866,
+  "name": "Glaucidium palmarum",
+  "rank": "species",
+  "observations": 220,
+  "matched_as": "Glaucidium palmarum",
+  "synonym": false
+ },
+ "Gymnadenia nigra": {
+  "id": 324292,
+  "name": "Gymnadenia nigra",
+  "rank": "species",
+  "observations": 59,
+  "matched_as": "Gymnadenia nigra",
+  "synonym": false
+ },
+ "Gymnadenia stiriaca": {
+  "id": 436497,
+  "name": "Gymnadenia stiriaca",
+  "rank": "species",
+  "observations": 65,
+  "matched_as": "Gymnadenia stiriaca",
+  "synonym": false
+ },
+ "Hovenia dulcis": {
+  "id": 163847,
+  "name": "Hovenia dulcis",
+  "rank": "species",
+  "observations": 795,
+  "matched_as": "Hovenia dulcis",
+  "synonym": false
+ },
+ "Leucanthemella serotina": {
+  "id": 164646,
+  "name": "Leucanthemella serotina",
+  "rank": "species",
+  "observations": 86,
+  "matched_as": "Leucanthemella serotina",
+  "synonym": false
+ },
+ "Paullinia cupana": {
+  "id": 431412,
+  "name": "Paullinia cupana",
+  "rank": "species",
+  "observations": 74,
+  "matched_as": "Paullinia cupana",
+  "synonym": false
+ },
+ "Piper cubeba": {
+  "id": 347640,
+  "name": "Piper cubeba",
+  "rank": "species",
+  "observations": 7,
+  "matched_as": "Piper cubeba",
+  "synonym": false
+ },
+ "Psophocarpus tetragonolobus": {
+  "id": 346168,
+  "name": "Psophocarpus tetragonolobus",
+  "rank": "species",
+  "observations": 645,
+  "matched_as": "Psophocarpus tetragonolobus",
+  "synonym": false
+ },
+ "Sideroxylon grandiflorum": {
+  "id": 372480,
+  "name": "Sideroxylon grandiflorum",
+  "rank": "species",
+  "observations": 2,
+  "matched_as": "Sideroxylon grandiflorum",
+  "synonym": false
+ },
+ "Stangeria eriopus": {
+  "id": 135513,
+  "name": "Stangeria eriopus",
+  "rank": "species",
+  "observations": 610,
+  "matched_as": "Stangeria eriopus",
+  "synonym": false
+ },
+ "Synsepalum dulcificum": {
+  "id": 426748,
+  "name": "Synsepalum dulcificum",
+  "rank": "species",
+  "observations": 1507,
+  "matched_as": "Synsepalum dulcificum",
+  "synonym": false
+ },
+ "Uncaria tomentosa": {
+  "id": 284469,
+  "name": "Uncaria tomentosa",
+  "rank": "species",
+  "observations": 34,
+  "matched_as": "Uncaria tomentosa",
+  "synonym": false
+ },
+ "Zelkova carpinifolia": {
+  "id": 410938,
+  "name": "Zelkova carpinifolia",
+  "rank": "species",
+  "observations": 250,
+  "matched_as": "Zelkova carpinifolia",
+  "synonym": false
+ },
+ "Angraecum sesquipedale": {
+  "id": 366790,
+  "name": "Angraecum sesquipedale",
+  "rank": "species",
+  "observations": 123,
+  "matched_as": "Angraecum sesquipedale",
+  "synonym": false
+ },
+ "Citrus hassaku": null,
+ "Citrus × tangelo": null,
+ "Corypha umbraculifera": {
+  "id": 365068,
+  "name": "Corypha umbraculifera",
+  "rank": "species",
+  "observations": 416,
+  "matched_as": "Corypha umbraculifera",
+  "synonym": false
+ },
+ "Crataegus rhipidophylla": {
+  "id": 450225,
+  "name": "Crataegus rhipidophylla",
+  "rank": "species",
+  "observations": 2357,
+  "matched_as": "Crataegus rhipidophylla",
+  "synonym": false
+ },
+ "Cynara scolymus": {
+  "id": 861815,
+  "name": "Cynara cardunculus scolymus",
+  "rank": "subspecies",
+  "observations": 583,
+  "matched_as": "Cynara scolymus",
+  "synonym": true
+ },
+ "Encephalartos friderici-guilielmi": {
+  "id": 136114,
+  "name": "Encephalartos friderici-guilielmi",
+  "rank": "species",
+  "observations": 71,
+  "matched_as": "Encephalartos friderici-guilielmi",
+  "synonym": false
+ },
+ "Encephalartos senticosus": {
+  "id": 135953,
+  "name": "Encephalartos senticosus",
+  "rank": "species",
+  "observations": 91,
+  "matched_as": "Encephalartos senticosus",
+  "synonym": false
+ },
+ "Encephalartos villosus": {
+  "id": 135968,
+  "name": "Encephalartos villosus",
+  "rank": "species",
+  "observations": 646,
+  "matched_as": "Encephalartos villosus",
+  "synonym": false
+ },
+ "Entandrophragma cylindricum": {
+  "id": 191884,
+  "name": "Entandrophragma cylindricum",
+  "rank": "species",
+  "observations": 13,
+  "matched_as": "Entandrophragma cylindricum",
+  "synonym": false
+ },
+ "Gagea glacialis": {
+  "id": 565606,
+  "name": "Gagea glacialis",
+  "rank": "species",
+  "observations": 29,
+  "matched_as": "Gagea glacialis",
+  "synonym": false
+ },
+ "Gnaphalium sylvaticum": {
+  "id": 165838,
+  "name": "Omalotheca sylvatica",
+  "rank": "species",
+  "observations": 6022,
+  "matched_as": "Gnaphalium sylvaticum",
+  "synonym": true
+ },
+ "Gymnadenia austriaca": {
+  "id": 468754,
+  "name": "Gymnadenia austriaca",
+  "rank": "species",
+  "observations": 760,
+  "matched_as": "Gymnadenia austriaca",
+  "synonym": false
+ },
+ "Leontodon autumnalis": {
+  "id": 204167,
+  "name": "Scorzoneroides autumnalis",
+  "rank": "species",
+  "observations": 29037,
+  "matched_as": "Leontodon autumnalis",
+  "synonym": true
+ },
+ "Lophira alata": {
+  "id": 186076,
+  "name": "Lophira alata",
+  "rank": "species",
+  "observations": 56,
+  "matched_as": "Lophira alata",
+  "synonym": false
+ },
+ "Mitragyna speciosa": {
+  "id": 431319,
+  "name": "Mitragyna speciosa",
+  "rank": "species",
+  "observations": 150,
+  "matched_as": "Mitragyna speciosa",
+  "synonym": false
+ },
+ "Neptunia oleracea": {
+  "id": 427253,
+  "name": "Neptunia oleracea",
+  "rank": "species",
+  "observations": 490,
+  "matched_as": "Neptunia oleracea",
+  "synonym": false
+ },
+ "Oenanthe albifrons": {
+  "id": 980203,
+  "name": "Oenanthe albifrons",
+  "rank": "species",
+  "observations": 112,
+  "matched_as": "Oenanthe albifrons",
+  "synonym": false
+ },
+ "Oenanthe dubia": {
+  "id": 980206,
+  "name": "Oenanthe dubia",
+  "rank": "species",
+  "observations": 31,
+  "matched_as": "Oenanthe dubia",
+  "synonym": false
+ },
+ "Panax ginseng": {
+  "id": 366498,
+  "name": "Panax ginseng",
+  "rank": "species",
+  "observations": 74,
+  "matched_as": "Panax ginseng",
+  "synonym": false
+ },
+ "Rosa × noisetteana": null,
+ "Tabernanthe iboga": {
+  "id": 466679,
+  "name": "Tabernanthe iboga",
+  "rank": "species",
+  "observations": 26,
+  "matched_as": "Tabernanthe iboga",
+  "synonym": false
+ },
+ "Vigna umbellata": {
+  "id": 291751,
+  "name": "Vigna umbellata",
+  "rank": "species",
+  "observations": 93,
+  "matched_as": "Vigna umbellata",
+  "synonym": false
+ },
+ "Adonis tianschanica": {
+  "id": 960865,
+  "name": "Adonis tianschanica",
+  "rank": "species",
+  "observations": 1,
+  "matched_as": "Adonis tianschanica",
+  "synonym": false
+ },
+ "Alnus viridis": {
+  "id": 868167,
+  "name": "Alnus alnobetula",
+  "rank": "species",
+  "observations": 24920,
+  "matched_as": "Alnus viridis",
+  "synonym": true
+ },
+ "Amorphophallus titanum": {
+  "id": 62194,
+  "name": "Amorphophallus titanum",
+  "rank": "species",
+  "observations": 777,
+  "matched_as": "Amorphophallus titanum",
+  "synonym": false
+ },
+ "Apoplanesia paniculata": {
+  "id": 290264,
+  "name": "Apoplanesia paniculata",
+  "rank": "species",
+  "observations": 173,
+  "matched_as": "Apoplanesia paniculata",
+  "synonym": false
+ },
+ "Astianthus viminalis": {
+  "id": 209870,
+  "name": "Astianthus viminalis",
+  "rank": "species",
+  "observations": 372,
+  "matched_as": "Astianthus viminalis",
+  "synonym": false
+ },
+ "Begonia baramensis": {
+  "id": 1061928,
+  "name": "Begonia baramensis",
+  "rank": "species",
+  "observations": 12,
+  "matched_as": "Begonia baramensis",
+  "synonym": false
+ },
+ "Begonia handroi": null,
+ "Bellevalia tabriziana": {
+  "id": 862970,
+  "name": "Bellevalia tabriziana",
+  "rank": "species",
+  "observations": 0,
+  "matched_as": "Bellevalia tabriziana",
+  "synonym": false
+ },
+ "Brachychiton multicaulis": {
+  "id": 1251997,
+  "name": "Brachychiton multicaulis",
+  "rank": "species",
+  "observations": 4,
+  "matched_as": "Brachychiton multicaulis",
+  "synonym": false
+ },
+ "Brachyglottis christensenii": null,
+ "Calamus axillaris": {
+  "id": 364965,
+  "name": "Calamus axillaris",
+  "rank": "species",
+  "observations": 0,
+  "matched_as": "Calamus axillaris",
+  "synonym": false
+ },
+ "Calamus blumei": null,
+ "Calamus caesius": {
+  "id": 364956,
+  "name": "Calamus caesius",
+  "rank": "species",
+  "observations": 6,
+  "matched_as": "Calamus caesius",
+  "synonym": false
+ },
+ "Calamus insignis": {
+  "id": 364853,
+  "name": "Calamus insignis",
+  "rank": "species",
+  "observations": 7,
+  "matched_as": "Calamus insignis",
+  "synonym": false
+ },
+ "Calamus javensis": {
+  "id": 364851,
+  "name": "Calamus javensis",
+  "rank": "species",
+  "observations": 11,
+  "matched_as": "Calamus javensis",
+  "synonym": false
+ },
+ "Calamus luridus": null,
+ "Calamus ornatus": {
+  "id": 364764,
+  "name": "Calamus ornatus",
+  "rank": "species",
+  "observations": 3,
+  "matched_as": "Calamus ornatus",
+  "synonym": false
+ },
+ "Calamus oxleyanus": {
+  "id": 141445,
+  "name": "Calamus oxleyanus",
+  "rank": "species",
+  "observations": 2,
+  "matched_as": "Calamus oxleyanus",
+  "synonym": false
+ },
+ "Calamus scipionum": {
+  "id": 364692,
+  "name": "Calamus scipionum",
+  "rank": "species",
+  "observations": 1,
+  "matched_as": "Calamus scipionum",
+  "synonym": false
+ },
+ "Calamus tenuis": {
+  "id": 364659,
+  "name": "Calamus tenuis",
+  "rank": "species",
+  "observations": 12,
+  "matched_as": "Calamus tenuis",
+  "synonym": false
+ },
+ "Calamus viminalis": {
+  "id": 364642,
+  "name": "Calamus viminalis",
+  "rank": "species",
+  "observations": 17,
+  "matched_as": "Calamus viminalis",
+  "synonym": false
+ },
+ "Castilla ulei": {
+  "id": 955787,
+  "name": "Castilla ulei",
+  "rank": "species",
+  "observations": 13,
+  "matched_as": "Castilla ulei",
+  "synonym": false
+ },
+ "Citrus myrtifolia": null,
+ "Citrus platymamma": null,
+ "Corydalis osmastonii": {
+  "id": 1159027,
+  "name": "Corydalis stricta",
+  "rank": "species",
+  "observations": 34,
+  "matched_as": "Corydalis osmastonii",
+  "synonym": true
+ },
+ "Crataegus dsungarica": {
+  "id": 950569,
+  "name": "Crataegus dsungarica",
+  "rank": "species",
+  "observations": 36,
+  "matched_as": "Crataegus dsungarica",
+  "synonym": false
+ },
+ "Curcuma angustifolia": {
+  "id": 1183027,
+  "name": "Curcuma angustifolia",
+  "rank": "species",
+  "observations": 39,
+  "matched_as": "Curcuma angustifolia",
+  "synonym": false
+ },
+ "Cyathea dryopteroides": {
+  "id": 739404,
+  "name": "Cyathea dryopteroides",
+  "rank": "species",
+  "observations": 3,
+  "matched_as": "Cyathea dryopteroides",
+  "synonym": false
+ },
+ "Cybistax antisyphilitica": {
+  "id": 461865,
+  "name": "Cybistax antisyphilitica",
+  "rank": "species",
+  "observations": 405,
+  "matched_as": "Cybistax antisyphilitica",
+  "synonym": false
+ },
+ "Dicranolepis pulcherrima": null,
+ "Diplazium lherminieri": {
+  "id": 1225893,
+  "name": "Diplazium lherminieri",
+  "rank": "species",
+  "observations": 5,
+  "matched_as": "Diplazium lherminieri",
+  "synonym": false
+ },
+ "Epipactis leptochila": {
+  "id": 366365,
+  "name": "Epipactis leptochila",
+  "rank": "species",
+  "observations": 530,
+  "matched_as": "Epipactis leptochila",
+  "synonym": false
+ },
+ "Epipactis ohwii": {
+  "id": 1567914,
+  "name": "Epipactis ohwii",
+  "rank": "species",
+  "observations": 9,
+  "matched_as": "Epipactis ohwii",
+  "synonym": false
+ },
+ "Monstera deliciosa": {
+  "id": 122521,
+  "name": "Monstera deliciosa",
+  "rank": "species",
+  "observations": 21564,
+  "matched_as": "Monstera deliciosa",
+  "synonym": false
+ },
+ "Monstera adansonii": {
+  "id": 206267,
+  "name": "Monstera adansonii",
+  "rank": "species",
+  "observations": 4752,
+  "matched_as": "Monstera adansonii",
+  "synonym": false
+ },
+ "Ficus elastica": {
+  "id": 126507,
+  "name": "Ficus elastica",
+  "rank": "species",
+  "observations": 17047,
+  "matched_as": "Ficus elastica",
+  "synonym": false
+ },
+ "Ficus benjamina": {
+  "id": 50996,
+  "name": "Ficus benjamina",
+  "rank": "species",
+  "observations": 23728,
+  "matched_as": "Ficus benjamina",
+  "synonym": false
+ },
+ "Epipremnum aureum": {
+  "id": 69223,
+  "name": "Epipremnum aureum",
+  "rank": "species",
+  "observations": 38563,
+  "matched_as": "Epipremnum aureum",
+  "synonym": false
+ },
+ "Philodendron hederaceum": {
+  "id": 120490,
+  "name": "Philodendron hederaceum",
+  "rank": "species",
+  "observations": 6465,
+  "matched_as": "Philodendron hederaceum",
+  "synonym": false
+ },
+ "Dracaena trifasciata": {
+  "id": 67710,
+  "name": "Sansevieria trifasciata",
+  "rank": "species",
+  "observations": 33200,
+  "matched_as": "Dracaena trifasciata",
+  "synonym": true
+ },
+ "Dracaena fragrans": {
+  "id": 126515,
+  "name": "Dracaena fragrans",
+  "rank": "species",
+  "observations": 24775,
+  "matched_as": "Dracaena fragrans",
+  "synonym": false
+ },
+ "Chlorophytum comosum": {
+  "id": 322492,
+  "name": "Chlorophytum comosum",
+  "rank": "species",
+  "observations": 19843,
+  "matched_as": "Chlorophytum comosum",
+  "synonym": false
+ },
+ "Alocasia macrorrhizos": {
+  "id": 126165,
+  "name": "Alocasia macrorrhizos",
+  "rank": "species",
+  "observations": 8030,
+  "matched_as": "Alocasia macrorrhizos",
+  "synonym": false
+ },
+ "Dieffenbachia seguine": {
+  "id": 206266,
+  "name": "Dieffenbachia seguine",
+  "rank": "species",
+  "observations": 12138,
+  "matched_as": "Dieffenbachia seguine",
+  "synonym": false
+ },
+ "Syngonium podophyllum": {
+  "id": 143208,
+  "name": "Syngonium podophyllum",
+  "rank": "species",
+  "observations": 18340,
+  "matched_as": "Syngonium podophyllum",
+  "synonym": false
+ },
+ "Hoya carnosa": {
+  "id": 129523,
+  "name": "Hoya carnosa",
+  "rank": "species",
+  "observations": 6374,
+  "matched_as": "Hoya carnosa",
+  "synonym": false
+ },
+ "Tradescantia zebrina": {
+  "id": 169883,
+  "name": "Tradescantia zebrina",
+  "rank": "species",
+  "observations": 19508,
+  "matched_as": "Tradescantia zebrina",
+  "synonym": false
+ },
+ "Begonia maculata": {
+  "id": 284651,
+  "name": "Begonia maculata",
+  "rank": "species",
+  "observations": 2232,
+  "matched_as": "Begonia maculata",
+  "synonym": false
+ },
+ "Asplenium nidus": {
+  "id": 84356,
+  "name": "Asplenium nidus",
+  "rank": "species",
+  "observations": 10230,
+  "matched_as": "Asplenium nidus",
+  "synonym": false
+ },
+ "Adiantum raddianum": {
+  "id": 158023,
+  "name": "Adiantum raddianum",
+  "rank": "species",
+  "observations": 3487,
+  "matched_as": "Adiantum raddianum",
+  "synonym": false
+ },
+ "Platycerium bifurcatum": {
+  "id": 133619,
+  "name": "Platycerium bifurcatum",
+  "rank": "species",
+  "observations": 9475,
+  "matched_as": "Platycerium bifurcatum",
+  "synonym": false
+ },
+ "Strelitzia nicolai": {
+  "id": 135250,
+  "name": "Strelitzia nicolai",
+  "rank": "species",
+  "observations": 10481,
+  "matched_as": "Strelitzia nicolai",
+  "synonym": false
+ },
+ "Musa acuminata": {
+  "id": 140907,
+  "name": "Musa acuminata",
+  "rank": "species",
+  "observations": 14143,
+  "matched_as": "Musa acuminata",
+  "synonym": false
+ },
+ "Yucca gigantea": {
+  "id": 201452,
+  "name": "Yucca gigantea",
+  "rank": "species",
+  "observations": 13010,
+  "matched_as": "Yucca gigantea",
+  "synonym": false
+ },
+ "Dypsis lutescens": {
+  "id": 276548,
+  "name": "Chrysalidocarpus lutescens",
+  "rank": "species",
+  "observations": 17186,
+  "matched_as": "Dypsis lutescens",
+  "synonym": true
+ },
+ "Fatsia japonica": {
+  "id": 126735,
+  "name": "Fatsia japonica",
+  "rank": "species",
+  "observations": 11782,
+  "matched_as": "Fatsia japonica",
+  "synonym": false
+ },
+ "Hedera helix": {
+  "id": 55882,
+  "name": "Hedera helix",
+  "rank": "species",
+  "observations": 180362,
+  "matched_as": "Hedera helix",
+  "synonym": false
+ },
+ "Codiaeum variegatum": {
+  "id": 127387,
+  "name": "Codiaeum variegatum",
+  "rank": "species",
+  "observations": 48531,
+  "matched_as": "Codiaeum variegatum",
+  "synonym": false
+ },
+ "Pachira aquatica": {
+  "id": 154852,
+  "name": "Pachira aquatica",
+  "rank": "species",
+  "observations": 6938,
+  "matched_as": "Pachira aquatica",
+  "synonym": false
+ },
+ "Cordyline fruticosa": {
+  "id": 123572,
+  "name": "Cordyline fruticosa",
+  "rank": "species",
+  "observations": 40759,
+  "matched_as": "Cordyline fruticosa",
+  "synonym": false
+ },
+ "Guzmania lingulata": {
+  "id": 276734,
+  "name": "Guzmania lingulata",
+  "rank": "species",
+  "observations": 2720,
+  "matched_as": "Guzmania lingulata",
+  "synonym": false
+ },
+ "Cyclamen persicum": {
+  "id": 341141,
+  "name": "Cyclamen persicum",
+  "rank": "species",
+  "observations": 7284,
+  "matched_as": "Cyclamen persicum",
+  "synonym": false
+ },
+ "Euphorbia pulcherrima": {
+  "id": 162845,
+  "name": "Euphorbia pulcherrima",
+  "rank": "species",
+  "observations": 21210,
+  "matched_as": "Euphorbia pulcherrima",
+  "synonym": false
+ },
+ "Oxalis triangularis": {
+  "id": 327754,
+  "name": "Oxalis triangularis",
+  "rank": "species",
+  "observations": 13037,
+  "matched_as": "Oxalis triangularis",
+  "synonym": false
+ },
+ "Coffea arabica": {
+  "id": 64342,
+  "name": "Coffea arabica",
+  "rank": "species",
+  "observations": 13603,
+  "matched_as": "Coffea arabica",
+  "synonym": false
+ },
+ "Aloe vera": {
+  "id": 126882,
+  "name": "Aloe vera",
+  "rank": "species",
+  "observations": 48215,
+  "matched_as": "Aloe vera",
+  "synonym": false
+ },
+ "Crassula ovata": {
+  "id": 76465,
+  "name": "Crassula ovata",
+  "rank": "species",
+  "observations": 28415,
+  "matched_as": "Crassula ovata",
+  "synonym": false
+ },
+ "Kalanchoe daigremontiana": {
+  "id": 164327,
+  "name": "Kalanchoe daigremontiana",
+  "rank": "species",
+  "observations": 1899,
+  "matched_as": "Kalanchoe daigremontiana",
+  "synonym": false
+ },
+ "Sempervivum tectorum": {
+  "id": 51779,
+  "name": "Sempervivum tectorum",
+  "rank": "species",
+  "observations": 10361,
+  "matched_as": "Sempervivum tectorum",
+  "synonym": false
+ },
+ "Agave americana": {
+  "id": 64103,
+  "name": "Agave americana",
+  "rank": "species",
+  "observations": 41454,
+  "matched_as": "Agave americana",
+  "synonym": false
+ },
+ "Portulacaria afra": {
+  "id": 326086,
+  "name": "Portulacaria afra",
+  "rank": "species",
+  "observations": 15672,
+  "matched_as": "Portulacaria afra",
+  "synonym": false
+ },
+ "Euphorbia milii": {
+  "id": 162839,
+  "name": "Euphorbia milii",
+  "rank": "species",
+  "observations": 44370,
+  "matched_as": "Euphorbia milii",
+  "synonym": false
+ },
+ "Opuntia ficus-indica": {
+  "id": 64119,
+  "name": "Opuntia ficus-indica",
+  "rank": "species",
+  "observations": 41384,
+  "matched_as": "Opuntia ficus-indica",
+  "synonym": false
+ },
+ "Rhipsalis baccifera": {
+  "id": 119900,
+  "name": "Rhipsalis baccifera",
+  "rank": "species",
+  "observations": 4360,
+  "matched_as": "Rhipsalis baccifera",
+  "synonym": false
+ },
+ "Aeonium arboreum": {
+  "id": 67717,
+  "name": "Aeonium arboreum",
+  "rank": "species",
+  "observations": 13435,
+  "matched_as": "Aeonium arboreum",
+  "synonym": false
+ },
+ "Ficus carica": {
+  "id": 60218,
+  "name": "Ficus carica",
+  "rank": "species",
+  "observations": 53999,
+  "matched_as": "Ficus carica",
+  "synonym": false
+ },
+ "Impatiens walleriana": {
+  "id": 68185,
+  "name": "Impatiens walleriana",
+  "rank": "species",
+  "observations": 22179,
+  "matched_as": "Impatiens walleriana",
+  "synonym": false
+ },
+ "Fuchsia magellanica": {
+  "id": 163112,
+  "name": "Fuchsia magellanica",
+  "rank": "species",
+  "observations": 14770,
+  "matched_as": "Fuchsia magellanica",
+  "synonym": false
+ },
+ "Gardenia jasminoides": {
+  "id": 210990,
+  "name": "Gardenia jasminoides",
+  "rank": "species",
+  "observations": 15153,
+  "matched_as": "Gardenia jasminoides",
+  "synonym": false
+ },
+ "Ficus microcarpa": {
+  "id": 54982,
+  "name": "Ficus microcarpa",
+  "rank": "species",
+  "observations": 30864,
+  "matched_as": "Ficus microcarpa",
+  "synonym": false
+ },
+ "Colocasia esculenta": {
+  "id": 122835,
+  "name": "Colocasia esculenta",
+  "rank": "species",
+  "observations": 25483,
+  "matched_as": "Colocasia esculenta",
+  "synonym": false
+ },
+ "Passiflora caerulea": {
+  "id": 51454,
+  "name": "Passiflora caerulea",
+  "rank": "species",
+  "observations": 22345,
+  "matched_as": "Passiflora caerulea",
+  "synonym": false
+ },
+ "Ficus benghalensis": {
+  "id": 54880,
+  "name": "Ficus benghalensis",
+  "rank": "species",
+  "observations": 10921,
+  "matched_as": "Ficus benghalensis",
+  "synonym": false
+ },
+ "Ficus pumila": {
+  "id": 162972,
+  "name": "Ficus pumila",
+  "rank": "species",
+  "observations": 19447,
+  "matched_as": "Ficus pumila",
+  "synonym": false
+ },
+ "Ficus maclellandii": {
+  "id": 873702,
+  "name": "Ficus maclellandii",
+  "rank": "species",
+  "observations": 492,
+  "matched_as": "Ficus maclellandii",
+  "synonym": false
+ },
+ "Epipremnum pinnatum": {
+  "id": 124423,
+  "name": "Epipremnum pinnatum",
+  "rank": "species",
+  "observations": 6257,
+  "matched_as": "Epipremnum pinnatum",
+  "synonym": false
+ },
+ "Philodendron erubescens": {
+  "id": 327366,
+  "name": "Philodendron erubescens",
+  "rank": "species",
+  "observations": 3224,
+  "matched_as": "Philodendron erubescens",
+  "synonym": false
+ },
+ "Rhaphidophora tetrasperma": {
+  "id": 912388,
+  "name": "Rhaphidophora tetrasperma",
+  "rank": "species",
+  "observations": 266,
+  "matched_as": "Rhaphidophora tetrasperma",
+  "synonym": false
+ },
+ "Dracaena sanderiana": {
+  "id": 800897,
+  "name": "Dracaena sanderiana",
+  "rank": "species",
+  "observations": 7584,
+  "matched_as": "Dracaena sanderiana",
+  "synonym": false
+ },
+ "Dracaena reflexa": {
+  "id": 126510,
+  "name": "Dracaena reflexa",
+  "rank": "species",
+  "observations": 20250,
+  "matched_as": "Dracaena reflexa",
+  "synonym": false
+ },
+ "Anthurium clarinervium": {
+  "id": 276466,
+  "name": "Anthurium clarinervium",
+  "rank": "species",
+  "observations": 105,
+  "matched_as": "Anthurium clarinervium",
+  "synonym": false
+ },
+ "Goeppertia orbifolia": {
+  "id": 866988,
+  "name": "Goeppertia orbifolia",
+  "rank": "species",
+  "observations": 268,
+  "matched_as": "Goeppertia orbifolia",
+  "synonym": false
+ },
+ "Peperomia caperata": {
+  "id": 427352,
+  "name": "Peperomia caperata",
+  "rank": "species",
+  "observations": 720,
+  "matched_as": "Peperomia caperata",
+  "synonym": false
+ },
+ "Alocasia zebrina": {
+  "id": 243722,
+  "name": "Alocasia zebrina",
+  "rank": "species",
+  "observations": 128,
+  "matched_as": "Alocasia zebrina",
+  "synonym": false
+ },
+ "Tradescantia pallida": {
+  "id": 169872,
+  "name": "Tradescantia pallida",
+  "rank": "species",
+  "observations": 30516,
+  "matched_as": "Tradescantia pallida",
+  "synonym": false
+ },
+ "Streptocarpus ionanthus": {
+  "id": 927983,
+  "name": "Streptocarpus ionanthus",
+  "rank": "species",
+  "observations": 2219,
+  "matched_as": "Streptocarpus ionanthus",
+  "synonym": false
+ },
+ "Citrus limon": null,
+ "Euphorbia tirucalli": {
+  "id": 162855,
+  "name": "Euphorbia tirucalli",
+  "rank": "species",
+  "observations": 13037,
+  "matched_as": "Euphorbia tirucalli",
+  "synonym": false
+ },
+ "Opuntia microdasys": {
+  "id": 78267,
+  "name": "Opuntia microdasys",
+  "rank": "species",
+  "observations": 10126,
+  "matched_as": "Opuntia microdasys",
+  "synonym": false
+ },
+ "Gymnocalycium mihanovichii": {
+  "id": 438961,
+  "name": "Gymnocalycium mihanovichii",
+  "rank": "species",
+  "observations": 2529,
+  "matched_as": "Gymnocalycium mihanovichii",
+  "synonym": false
+ },
+ "Cycas revoluta": {
+  "id": 129783,
+  "name": "Cycas revoluta",
+  "rank": "species",
+  "observations": 22933,
+  "matched_as": "Cycas revoluta",
+  "synonym": false
+ },
+ "Livistona chinensis": {
+  "id": 199373,
+  "name": "Livistona chinensis",
+  "rank": "species",
+  "observations": 9844,
+  "matched_as": "Livistona chinensis",
+  "synonym": false
+ },
+ "Clivia miniata": {
+  "id": 210194,
+  "name": "Clivia miniata",
+  "rank": "species",
+  "observations": 9375,
+  "matched_as": "Clivia miniata",
+  "synonym": false
+ },
+ "Hippeastrum vittatum": {
+  "id": 472232,
+  "name": "Hippeastrum vittatum",
+  "rank": "species",
+  "observations": 122,
+  "matched_as": "Hippeastrum vittatum",
+  "synonym": false
+ },
+ "Vriesea splendens": {
+  "id": 511094,
+  "name": "Lutheria splendens",
+  "rank": "species",
+  "observations": 457,
+  "matched_as": "Vriesea splendens",
+  "synonym": true
+ },
+ "Ananas comosus": {
+  "id": 122965,
+  "name": "Ananas comosus",
+  "rank": "species",
+  "observations": 15051,
+  "matched_as": "Ananas comosus",
+  "synonym": false
+ },
+ "Medinilla magnifica": {
+  "id": 68319,
+  "name": "Medinilla magnifica",
+  "rank": "species",
+  "observations": 980,
+  "matched_as": "Medinilla magnifica",
+  "synonym": false
+ },
+ "Stephanotis floribunda": {
+  "id": 339914,
+  "name": "Stephanotis floribunda",
+  "rank": "species",
+  "observations": 809,
+  "matched_as": "Stephanotis floribunda",
+  "synonym": false
+ },
+ "Jasminum polyanthum": {
+  "id": 342641,
+  "name": "Jasminum polyanthum",
+  "rank": "species",
+  "observations": 7699,
+  "matched_as": "Jasminum polyanthum",
+  "synonym": false
+ },
+ "Plumeria rubra": {
+  "id": 123438,
+  "name": "Plumeria rubra",
+  "rank": "species",
+  "observations": 30849,
+  "matched_as": "Plumeria rubra",
+  "synonym": false
+ },
+ "Pteris cretica": {
+  "id": 78777,
+  "name": "Pteris cretica",
+  "rank": "species",
+  "observations": 3795,
+  "matched_as": "Pteris cretica",
+  "synonym": false
+ },
+ "Phlebodium aureum": {
+  "id": 127908,
+  "name": "Phlebodium aureum",
+  "rank": "species",
+  "observations": 9556,
+  "matched_as": "Phlebodium aureum",
+  "synonym": false
+ },
+ "Soleirolia soleirolii": {
+  "id": 79147,
+  "name": "Soleirolia soleirolii",
+  "rank": "species",
+  "observations": 5102,
+  "matched_as": "Soleirolia soleirolii",
+  "synonym": false
+ },
+ "Plectranthus scutellarioides": {
+  "id": 291284,
+  "name": "Coleus scutellarioides",
+  "rank": "species",
+  "observations": 41166,
+  "matched_as": "Plectranthus scutellarioides",
+  "synonym": true
+ },
+ "Pelargonium zonale": {
+  "id": 78382,
+  "name": "Pelargonium zonale",
+  "rank": "species",
+  "observations": 2760,
+  "matched_as": "Pelargonium zonale",
+  "synonym": false
+ },
+ "Pelargonium peltatum": {
+  "id": 78379,
+  "name": "Pelargonium peltatum",
+  "rank": "species",
+  "observations": 6129,
+  "matched_as": "Pelargonium peltatum",
+  "synonym": false
+ },
+ "Aeschynanthus radicans": {
+  "id": 430622,
+  "name": "Aeschynanthus radicans",
+  "rank": "species",
+  "observations": 154,
+  "matched_as": "Aeschynanthus radicans",
+  "synonym": false
+ },
+ "Hypoestes phyllostachya": {
+  "id": 164011,
+  "name": "Hypoestes phyllostachya",
+  "rank": "species",
+  "observations": 9819,
+  "matched_as": "Hypoestes phyllostachya",
+  "synonym": false
+ },
+ "Cyperus alternifolius": {
+  "id": 208766,
+  "name": "Cyperus alternifolius",
+  "rank": "species",
+  "observations": 17569,
+  "matched_as": "Cyperus alternifolius",
+  "synonym": false
+ },
+ "Caladium bicolor": {
+  "id": 283377,
+  "name": "Caladium bicolor",
+  "rank": "species",
+  "observations": 20898,
+  "matched_as": "Caladium bicolor",
+  "synonym": false
+ },
+ "Zantedeschia aethiopica": {
+  "id": 56006,
+  "name": "Zantedeschia aethiopica",
+  "rank": "species",
+  "observations": 38576,
+  "matched_as": "Zantedeschia aethiopica",
+  "synonym": false
+ },
+ "Sparrmannia africana": {
+  "id": 431637,
+  "name": "Sparrmannia africana",
+  "rank": "species",
+  "observations": 1582,
+  "matched_as": "Sparrmannia africana",
+  "synonym": false
+ },
+ "Gynura aurantiaca": {
+  "id": 163472,
+  "name": "Gynura aurantiaca",
+  "rank": "species",
+  "observations": 607,
+  "matched_as": "Gynura aurantiaca",
+  "synonym": false
+ },
+ "Callisia repens": {
+  "id": 159681,
+  "name": "Callisia repens",
+  "rank": "species",
+  "observations": 5489,
+  "matched_as": "Callisia repens",
+  "synonym": false
+ },
+ "Sinningia speciosa": {
+  "id": 281612,
+  "name": "Sinningia speciosa",
+  "rank": "species",
+  "observations": 690,
+  "matched_as": "Sinningia speciosa",
+  "synonym": false
+ },
+ "Nematanthus gregarius": {
+  "id": 558384,
+  "name": "Nematanthus gregarius",
+  "rank": "species",
+  "observations": 316,
+  "matched_as": "Nematanthus gregarius",
+  "synonym": false
+ },
+ "Columnea gloriosa": {
+  "id": 1154888,
+  "name": "Columnea gloriosa",
+  "rank": "species",
+  "observations": 60,
+  "matched_as": "Columnea gloriosa",
+  "synonym": false
+ },
+ "Episcia cupreata": {
+  "id": 286913,
+  "name": "Episcia cupreata",
+  "rank": "species",
+  "observations": 4004,
+  "matched_as": "Episcia cupreata",
+  "synonym": false
+ },
+ "Ravenea rivularis": {
+  "id": 341902,
+  "name": "Ravenea rivularis",
+  "rank": "species",
+  "observations": 319,
+  "matched_as": "Ravenea rivularis",
+  "synonym": false
+ },
+ "Caryota mitis": {
+  "id": 160169,
+  "name": "Caryota mitis",
+  "rank": "species",
+  "observations": 4262,
+  "matched_as": "Caryota mitis",
+  "synonym": false
+ },
+ "Aloe arborescens": {
+  "id": 81518,
+  "name": "Aloe arborescens",
+  "rank": "species",
+  "observations": 21262,
+  "matched_as": "Aloe arborescens",
+  "synonym": false
+ },
+ "Gasteria bicolor": {
+  "id": 586144,
+  "name": "Gasteria bicolor",
+  "rank": "species",
+  "observations": 320,
+  "matched_as": "Gasteria bicolor",
+  "synonym": false
+ },
+ "Crassula perforata": {
+  "id": 524336,
+  "name": "Crassula perforata",
+  "rank": "species",
+  "observations": 2718,
+  "matched_as": "Crassula perforata",
+  "synonym": false
+ },
+ "Kalanchoe tomentosa": {
+  "id": 335091,
+  "name": "Kalanchoe tomentosa",
+  "rank": "species",
+  "observations": 2538,
+  "matched_as": "Kalanchoe tomentosa",
+  "synonym": false
+ },
+ "Echeveria agavoides": {
+  "id": 282740,
+  "name": "Echeveria agavoides",
+  "rank": "species",
+  "observations": 1294,
+  "matched_as": "Echeveria agavoides",
+  "synonym": false
+ },
+ "Pachyphytum oviferum": {
+  "id": 276095,
+  "name": "Pachyphytum oviferum",
+  "rank": "species",
+  "observations": 199,
+  "matched_as": "Pachyphytum oviferum",
+  "synonym": false
+ },
+ "Sedum rubrotinctum": null,
+ "Adenium obesum": {
+  "id": 124839,
+  "name": "Adenium obesum",
+  "rank": "species",
+  "observations": 18814,
+  "matched_as": "Adenium obesum",
+  "synonym": false
+ },
+ "Pachypodium lamerei": {
+  "id": 320055,
+  "name": "Pachypodium lamerei",
+  "rank": "species",
+  "observations": 3729,
+  "matched_as": "Pachypodium lamerei",
+  "synonym": false
+ },
+ "Euphorbia lactea": {
+  "id": 62934,
+  "name": "Euphorbia lactea",
+  "rank": "species",
+  "observations": 4665,
+  "matched_as": "Euphorbia lactea",
+  "synonym": false
+ },
+ "Astrophytum myriostigma": {
+  "id": 206444,
+  "name": "Astrophytum myriostigma",
+  "rank": "species",
+  "observations": 1181,
+  "matched_as": "Astrophytum myriostigma",
+  "synonym": false
+ },
+ "Ferocactus latispinus": {
+  "id": 273944,
+  "name": "Ferocactus latispinus",
+  "rank": "species",
+  "observations": 2651,
+  "matched_as": "Ferocactus latispinus",
+  "synonym": false
+ },
+ "Hatiora salicornioides": {
+  "id": 1453005,
+  "name": "Hatiora salicornoides",
+  "rank": "species",
+  "observations": 611,
+  "matched_as": "Hatiora salicornioides",
+  "synonym": true
+ },
+ "Selenicereus undatus": {
+  "id": 1038928,
+  "name": "Selenicereus undatus",
+  "rank": "species",
+  "observations": 11469,
+  "matched_as": "Selenicereus undatus",
+  "synonym": false
+ },
+ "Aesculus hippocastanum": {
+  "id": 84298,
+  "name": "Aesculus hippocastanum",
+  "rank": "species",
+  "observations": 76837,
+  "matched_as": "Aesculus hippocastanum",
+  "synonym": false
+ },
+ "Philadelphus coronarius": {
+  "id": 52468,
+  "name": "Philadelphus coronarius",
+  "rank": "species",
+  "observations": 22211,
+  "matched_as": "Philadelphus coronarius",
+  "synonym": false
+ },
+ "Magnolia grandiflora": {
+  "id": 83074,
+  "name": "Magnolia grandiflora",
+  "rank": "species",
+  "observations": 68835,
+  "matched_as": "Magnolia grandiflora",
+  "synonym": false
+ },
+ "Platanus × hispanica": {
+  "id": 552449,
+  "name": "Platanus × hispanica",
+  "rank": "hybrid",
+  "observations": 18942,
+  "matched_as": "Platanus × hispanica",
+  "synonym": false
+ },
+ "Buddleja davidii": {
+  "id": 75916,
+  "name": "Buddleja davidii",
+  "rank": "species",
+  "observations": 62593,
+  "matched_as": "Buddleja davidii",
+  "synonym": false
+ },
+ "Pittosporum tobira": {
+  "id": 78592,
+  "name": "Pittosporum tobira",
+  "rank": "species",
+  "observations": 24600,
+  "matched_as": "Pittosporum tobira",
+  "synonym": false
+ },
+ "Bergenia crassifolia": {
+  "id": 127228,
+  "name": "Bergenia crassifolia",
+  "rank": "species",
+  "observations": 14706,
+  "matched_as": "Bergenia crassifolia",
+  "synonym": false
+ },
+ "Spiraea japonica": {
+  "id": 125790,
+  "name": "Spiraea japonica",
+  "rank": "species",
+  "observations": 33323,
+  "matched_as": "Spiraea japonica",
+  "synonym": false
+ },
+ "Platycladus orientalis": {
+  "id": 135659,
+  "name": "Platycladus orientalis",
+  "rank": "species",
+  "observations": 26569,
+  "matched_as": "Platycladus orientalis",
+  "synonym": false
+ },
+ "Berberis thunbergii": {
+  "id": 58727,
+  "name": "Berberis thunbergii",
+  "rank": "species",
+  "observations": 70422,
+  "matched_as": "Berberis thunbergii",
+  "synonym": false
+ },
+ "Cedrus atlantica": {
+  "id": 136234,
+  "name": "Cedrus atlantica",
+  "rank": "species",
+  "observations": 11001,
+  "matched_as": "Cedrus atlantica",
+  "synonym": false
+ },
+ "Berberis aquifolium": {
+  "id": 126887,
+  "name": "Berberis aquifolium",
+  "rank": "species",
+  "observations": 69361,
+  "matched_as": "Berberis aquifolium",
+  "synonym": false
+ },
+ "Robinia pseudoacacia": {
+  "id": 56088,
+  "name": "Robinia pseudoacacia",
+  "rank": "species",
+  "observations": 138263,
+  "matched_as": "Robinia pseudoacacia",
+  "synonym": false
+ },
+ "Liriodendron tulipifera": {
+  "id": 53582,
+  "name": "Liriodendron tulipifera",
+  "rank": "species",
+  "observations": 105732,
+  "matched_as": "Liriodendron tulipifera",
+  "synonym": false
+ },
+ "Pinus sylvestris": {
+  "id": 58722,
+  "name": "Pinus sylvestris",
+  "rank": "species",
+  "observations": 120961,
+  "matched_as": "Pinus sylvestris",
+  "synonym": false
+ },
+ "Sequoiadendron giganteum": {
+  "id": 59567,
+  "name": "Sequoiadendron giganteum",
+  "rank": "species",
+  "observations": 18222,
+  "matched_as": "Sequoiadendron giganteum",
+  "synonym": false
+ },
+ "Araucaria araucana": {
+  "id": 126404,
+  "name": "Araucaria araucana",
+  "rank": "species",
+  "observations": 10089,
+  "matched_as": "Araucaria araucana",
+  "synonym": false
+ },
+ "Euonymus japonicus": {
+  "id": 349786,
+  "name": "Euonymus japonicus",
+  "rank": "species",
+  "observations": 22486,
+  "matched_as": "Euonymus japonicus",
+  "synonym": false
+ },
+ "Salvia microphylla": {
+  "id": 168386,
+  "name": "Salvia microphylla",
+  "rank": "species",
+  "observations": 15570,
+  "matched_as": "Salvia microphylla",
+  "synonym": false
+ },
+ "Catalpa bignonioides": {
+  "id": 50859,
+  "name": "Catalpa bignonioides",
+  "rank": "species",
+  "observations": 13969,
+  "matched_as": "Catalpa bignonioides",
+  "synonym": false
+ },
+ "Aesculus × carnea": {
+  "id": 478638,
+  "name": "Aesculus × carnea",
+  "rank": "hybrid",
+  "observations": 8085,
+  "matched_as": "Aesculus × carnea",
+  "synonym": false
+ },
+ "Dasiphora fruticosa": {
+  "id": 76606,
+  "name": "Dasiphora fruticosa",
+  "rank": "species",
+  "observations": 51200,
+  "matched_as": "Dasiphora fruticosa",
+  "synonym": false
+ },
+ "Melaleuca citrina": {
+  "id": 77976,
+  "name": "Melaleuca citrina",
+  "rank": "species",
+  "observations": 19715,
+  "matched_as": "Melaleuca citrina",
+  "synonym": false
+ },
+ "Metasequoia glyptostroboides": {
+  "id": 69150,
+  "name": "Metasequoia glyptostroboides",
+  "rank": "species",
+  "observations": 17164,
+  "matched_as": "Metasequoia glyptostroboides",
+  "synonym": false
+ },
+ "Rhus typhina": {
+  "id": 167829,
+  "name": "Rhus typhina",
+  "rank": "species",
+  "observations": 90490,
+  "matched_as": "Rhus typhina",
+  "synonym": false
+ },
+ "Rosa rugosa": {
+  "id": 83653,
+  "name": "Rosa rugosa",
+  "rank": "species",
+  "observations": 61420,
+  "matched_as": "Rosa rugosa",
+  "synonym": false
+ },
+ "Paulownia tomentosa": {
+  "id": 119792,
+  "name": "Paulownia tomentosa",
+  "rank": "species",
+  "observations": 44411,
+  "matched_as": "Paulownia tomentosa",
+  "synonym": false
+ },
+ "Lantana camara": {
+  "id": 50333,
+  "name": "Lantana camara",
+  "rank": "species",
+  "observations": 99104,
+  "matched_as": "Lantana camara",
+  "synonym": false
+ },
+ "Physocarpus opulifolius": {
+  "id": 129048,
+  "name": "Physocarpus opulifolius",
+  "rank": "species",
+  "observations": 30324,
+  "matched_as": "Physocarpus opulifolius",
+  "synonym": false
+ },
+ "Coleus scutellarioides": {
+  "id": 291284,
+  "name": "Coleus scutellarioides",
+  "rank": "species",
+  "observations": 41171,
+  "matched_as": "Coleus scutellarioides",
+  "synonym": false
+ },
+ "Plumbago auriculata": {
+  "id": 78631,
+  "name": "Plumbago auriculata",
+  "rank": "species",
+  "observations": 41544,
+  "matched_as": "Plumbago auriculata",
+  "synonym": false
+ },
+ "Tilia platyphyllos": {
+  "id": 169761,
+  "name": "Tilia platyphyllos",
+  "rank": "species",
+  "observations": 17081,
+  "matched_as": "Tilia platyphyllos",
+  "synonym": false
+ },
+ "Koelreuteria paniculata": {
+  "id": 58320,
+  "name": "Koelreuteria paniculata",
+  "rank": "species",
+  "observations": 17957,
+  "matched_as": "Koelreuteria paniculata",
+  "synonym": false
+ },
+ "Tagetes erecta": {
+  "id": 79312,
+  "name": "Tagetes erecta",
+  "rank": "species",
+  "observations": 23856,
+  "matched_as": "Tagetes erecta",
+  "synonym": false
+ },
+ "Viburnum rhytidophyllum": {
+  "id": 128688,
+  "name": "Viburnum rhytidophyllum",
+  "rank": "species",
+  "observations": 11262,
+  "matched_as": "Viburnum rhytidophyllum",
+  "synonym": false
+ },
+ "Stachys byzantina": {
+  "id": 127480,
+  "name": "Stachys byzantina",
+  "rank": "species",
+  "observations": 23135,
+  "matched_as": "Stachys byzantina",
+  "synonym": false
+ },
+ "Quercus ilex": {
+  "id": 78805,
+  "name": "Quercus ilex",
+  "rank": "species",
+  "observations": 24308,
+  "matched_as": "Quercus ilex",
+  "synonym": false
+ },
+ "Jacaranda mimosifolia": {
+  "id": 77541,
+  "name": "Jacaranda mimosifolia",
+  "rank": "species",
+  "observations": 28707,
+  "matched_as": "Jacaranda mimosifolia",
+  "synonym": false
+ },
+ "Symphoricarpos albus": {
+  "id": 48523,
+  "name": "Symphoricarpos albus",
+  "rank": "species",
+  "observations": 76365,
+  "matched_as": "Symphoricarpos albus",
+  "synonym": false
+ },
+ "Chaenomeles speciosa": {
+  "id": 160369,
+  "name": "Chaenomeles speciosa",
+  "rank": "species",
+  "observations": 14060,
+  "matched_as": "Chaenomeles speciosa",
+  "synonym": false
+ },
+ "Pelargonium × hybridum": {
+  "id": 181543,
+  "name": "Pelargonium × hybridum",
+  "rank": "hybrid",
+  "observations": 27725,
+  "matched_as": "Pelargonium × hybridum",
+  "synonym": false
+ },
+ "Campsis radicans": {
+  "id": 75995,
+  "name": "Campsis radicans",
+  "rank": "species",
+  "observations": 75526,
+  "matched_as": "Campsis radicans",
+  "synonym": false
+ },
+ "Acer negundo": {
+  "id": 47726,
+  "name": "Acer negundo",
+  "rank": "species",
+  "observations": 193849,
+  "matched_as": "Acer negundo",
+  "synonym": false
+ },
+ "Rhododendron ponticum": {
+  "id": 60364,
+  "name": "Rhododendron ponticum",
+  "rank": "species",
+  "observations": 21554,
+  "matched_as": "Rhododendron ponticum",
+  "synonym": false
+ },
+ "Phlox paniculata": {
+  "id": 117437,
+  "name": "Phlox paniculata",
+  "rank": "species",
+  "observations": 37250,
+  "matched_as": "Phlox paniculata",
+  "synonym": false
+ },
+ "Teucrium fruticans": {
+  "id": 181666,
+  "name": "Teucrium fruticans",
+  "rank": "species",
+  "observations": 6351,
+  "matched_as": "Teucrium fruticans",
+  "synonym": false
+ },
+ "Acanthus mollis": {
+  "id": 70045,
+  "name": "Acanthus mollis",
+  "rank": "species",
+  "observations": 28352,
+  "matched_as": "Acanthus mollis",
+  "synonym": false
+ },
+ "Forsythia suspensa": {
+  "id": 163058,
+  "name": "Forsythia suspensa",
+  "rank": "species",
+  "observations": 9874,
+  "matched_as": "Forsythia suspensa",
+  "synonym": false
+ },
+ "Washingtonia robusta": {
+  "id": 79521,
+  "name": "Washingtonia robusta",
+  "rank": "species",
+  "observations": 26004,
+  "matched_as": "Washingtonia robusta",
+  "synonym": false
+ },
+ "Weigela florida": {
+  "id": 170303,
+  "name": "Weigela florida",
+  "rank": "species",
+  "observations": 7794,
+  "matched_as": "Weigela florida",
+  "synonym": false
+ },
+ "Lysimachia punctata": {
+  "id": 51808,
+  "name": "Lysimachia punctata",
+  "rank": "species",
+  "observations": 23495,
+  "matched_as": "Lysimachia punctata",
+  "synonym": false
+ },
+ "Magnolia liliiflora": {
+  "id": 125761,
+  "name": "Magnolia liliiflora",
+  "rank": "species",
+  "observations": 11047,
+  "matched_as": "Magnolia liliiflora",
+  "synonym": false
+ },
+ "Pinus nigra": {
+  "id": 135790,
+  "name": "Pinus nigra",
+  "rank": "species",
+  "observations": 19644,
+  "matched_as": "Pinus nigra",
+  "synonym": false
+ },
+ "Phlox subulata": {
+  "id": 68884,
+  "name": "Phlox subulata",
+  "rank": "species",
+  "observations": 22394,
+  "matched_as": "Phlox subulata",
+  "synonym": false
+ },
+ "Kolkwitzia amabilis": {
+  "id": 52501,
+  "name": "Kolkwitzia amabilis",
+  "rank": "species",
+  "observations": 6836,
+  "matched_as": "Kolkwitzia amabilis",
+  "synonym": false
+ },
+ "Eriocapitella hupehensis": {
+  "id": 950312,
+  "name": "Eriocapitella hupehensis",
+  "rank": "species",
+  "observations": 10099,
+  "matched_as": "Eriocapitella hupehensis",
+  "synonym": false
+ },
+ "Lonicera tatarica": {
+  "id": 77836,
+  "name": "Lonicera tatarica",
+  "rank": "species",
+  "observations": 40754,
+  "matched_as": "Lonicera tatarica",
+  "synonym": false
+ },
+ "Ligustrum lucidum": {
+  "id": 77740,
+  "name": "Ligustrum lucidum",
+  "rank": "species",
+  "observations": 42637,
+  "matched_as": "Ligustrum lucidum",
+  "synonym": false
+ },
+ "Dianthus barbatus": {
+  "id": 60015,
+  "name": "Dianthus barbatus",
+  "rank": "species",
+  "observations": 26628,
+  "matched_as": "Dianthus barbatus",
+  "synonym": false
+ },
+ "Kerria japonica": {
+  "id": 125788,
+  "name": "Kerria japonica",
+  "rank": "species",
+  "observations": 10104,
+  "matched_as": "Kerria japonica",
+  "synonym": false
+ },
+ "Lagerstroemia indica": {
+  "id": 135394,
+  "name": "Lagerstroemia indica",
+  "rank": "species",
+  "observations": 58406,
+  "matched_as": "Lagerstroemia indica",
+  "synonym": false
+ },
+ "Paeonia officinalis": {
+  "id": 128167,
+  "name": "Paeonia officinalis",
+  "rank": "species",
+  "observations": 9510,
+  "matched_as": "Paeonia officinalis",
+  "synonym": false
+ },
+ "Aucuba japonica": {
+  "id": 56206,
+  "name": "Aucuba japonica",
+  "rank": "species",
+  "observations": 13610,
+  "matched_as": "Aucuba japonica",
+  "synonym": false
+ },
+ "Fritillaria imperialis": {
+  "id": 437502,
+  "name": "Fritillaria imperialis",
+  "rank": "species",
+  "observations": 3798,
+  "matched_as": "Fritillaria imperialis",
+  "synonym": false
+ },
+ "Platanus orientalis": {
+  "id": 181682,
+  "name": "Platanus orientalis",
+  "rank": "species",
+  "observations": 7324,
+  "matched_as": "Platanus orientalis",
+  "synonym": false
+ },
+ "Magnolia stellata": {
+  "id": 126710,
+  "name": "Magnolia stellata",
+  "rank": "species",
+  "observations": 13058,
+  "matched_as": "Magnolia stellata",
+  "synonym": false
+ },
+ "Verbena bonariensis": {
+  "id": 79487,
+  "name": "Verbena bonariensis",
+  "rank": "species",
+  "observations": 24298,
+  "matched_as": "Verbena bonariensis",
+  "synonym": false
+ },
+ "Citrus × aurantium": {
+  "id": 331122,
+  "name": "Citrus × aurantium",
+  "rank": "hybrid",
+  "observations": 13443,
+  "matched_as": "Citrus × aurantium",
+  "synonym": false
+ },
+ "Caragana arborescens": {
+  "id": 159827,
+  "name": "Caragana arborescens",
+  "rank": "species",
+  "observations": 20625,
+  "matched_as": "Caragana arborescens",
+  "synonym": false
+ },
+ "Lamprocapnos spectabilis": {
+  "id": 204340,
+  "name": "Lamprocapnos spectabilis",
+  "rank": "species",
+  "observations": 14087,
+  "matched_as": "Lamprocapnos spectabilis",
+  "synonym": false
+ },
+ "Chaenomeles japonica": {
+  "id": 61236,
+  "name": "Chaenomeles japonica",
+  "rank": "species",
+  "observations": 5077,
+  "matched_as": "Chaenomeles japonica",
+  "synonym": false
+ },
+ "Agapanthus praecox": {
+  "id": 199324,
+  "name": "Agapanthus praecox",
+  "rank": "species",
+  "observations": 21404,
+  "matched_as": "Agapanthus praecox",
+  "synonym": false
+ },
+ "Araucaria heterophylla": {
+  "id": 127890,
+  "name": "Araucaria heterophylla",
+  "rank": "species",
+  "observations": 12551,
+  "matched_as": "Araucaria heterophylla",
+  "synonym": false
+ },
+ "Parthenocissus tricuspidata": {
+  "id": 166162,
+  "name": "Parthenocissus tricuspidata",
+  "rank": "species",
+  "observations": 20811,
+  "matched_as": "Parthenocissus tricuspidata",
+  "synonym": false
+ },
+ "Cotoneaster lucidus": {
+  "id": 160949,
+  "name": "Cotoneaster lucidus",
+  "rank": "species",
+  "observations": 10006,
+  "matched_as": "Cotoneaster lucidus",
+  "synonym": false
+ },
+ "Euphorbia characias": {
+  "id": 181594,
+  "name": "Euphorbia characias",
+  "rank": "species",
+  "observations": 23134,
+  "matched_as": "Euphorbia characias",
+  "synonym": false
+ },
+ "Scilla siberica": {
+  "id": 862704,
+  "name": "Scilla siberica",
+  "rank": "species",
+  "observations": 45221,
+  "matched_as": "Scilla siberica",
+  "synonym": false
+ },
+ "Phacelia tanacetifolia": {
+  "id": 58185,
+  "name": "Phacelia tanacetifolia",
+  "rank": "species",
+  "observations": 25130,
+  "matched_as": "Phacelia tanacetifolia",
+  "synonym": false
+ },
+ "Hydrangea paniculata": {
+  "id": 133390,
+  "name": "Hydrangea paniculata",
+  "rank": "species",
+  "observations": 13327,
+  "matched_as": "Hydrangea paniculata",
+  "synonym": false
+ },
+ "Polygala myrtifolia": {
+  "id": 181610,
+  "name": "Polygala myrtifolia",
+  "rank": "species",
+  "observations": 14538,
+  "matched_as": "Polygala myrtifolia",
+  "synonym": false
+ },
+ "Hydrangea arborescens": {
+  "id": 130554,
+  "name": "Hydrangea arborescens",
+  "rank": "species",
+  "observations": 25346,
+  "matched_as": "Hydrangea arborescens",
+  "synonym": false
+ },
+ "Cornus kousa": {
+  "id": 128614,
+  "name": "Cornus kousa",
+  "rank": "species",
+  "observations": 27329,
+  "matched_as": "Cornus kousa",
+  "synonym": false
+ },
+ "Ceiba speciosa": {
+  "id": 154290,
+  "name": "Ceiba speciosa",
+  "rank": "species",
+  "observations": 13282,
+  "matched_as": "Ceiba speciosa",
+  "synonym": false
+ },
+ "Cornus mas": {
+  "id": 55858,
+  "name": "Cornus mas",
+  "rank": "species",
+  "observations": 22797,
+  "matched_as": "Cornus mas",
+  "synonym": false
+ },
+ "Ceanothus thyrsiflorus": {
+  "id": 56617,
+  "name": "Ceanothus thyrsiflorus",
+  "rank": "species",
+  "observations": 18568,
+  "matched_as": "Ceanothus thyrsiflorus",
+  "synonym": false
+ },
+ "Santolina chamaecyparissus": {
+  "id": 53778,
+  "name": "Santolina chamaecyparissus",
+  "rank": "species",
+  "observations": 6909,
+  "matched_as": "Santolina chamaecyparissus",
+  "synonym": false
+ },
+ "Oenothera lindheimeri": {
+  "id": 590726,
+  "name": "Oenothera lindheimeri",
+  "rank": "species",
+  "observations": 13743,
+  "matched_as": "Oenothera lindheimeri",
+  "synonym": false
+ },
+ "Choisya ternata": {
+  "id": 287309,
+  "name": "Choisya ternata",
+  "rank": "species",
+  "observations": 5906,
+  "matched_as": "Choisya ternata",
+  "synonym": false
+ },
+ "Myrtus communis": {
+  "id": 78159,
+  "name": "Myrtus communis",
+  "rank": "species",
+  "observations": 12880,
+  "matched_as": "Myrtus communis",
+  "synonym": false
+ },
+ "Iris × hybrida": {
+  "id": 857006,
+  "name": "Iris × hybrida",
+  "rank": "hybrid",
+  "observations": 10134,
+  "matched_as": "Iris × hybrida",
+  "synonym": false
+ },
+ "Matteuccia struthiopteris": {
+  "id": 82574,
+  "name": "Matteuccia struthiopteris",
+  "rank": "species",
+  "observations": 50841,
+  "matched_as": "Matteuccia struthiopteris",
+  "synonym": false
+ },
+ "Cortaderia selloana": {
+  "id": 64240,
+  "name": "Cortaderia selloana",
+  "rank": "species",
+  "observations": 28997,
+  "matched_as": "Cortaderia selloana",
+  "synonym": false
+ },
+ "Cerastium tomentosum": {
+  "id": 160347,
+  "name": "Cerastium tomentosum",
+  "rank": "species",
+  "observations": 10741,
+  "matched_as": "Cerastium tomentosum",
+  "synonym": false
+ },
+ "Silene coronaria": {
+  "id": 485191,
+  "name": "Silene coronaria",
+  "rank": "species",
+  "observations": 23160,
+  "matched_as": "Silene coronaria",
+  "synonym": false
+ },
+ "Narcissus poeticus": {
+  "id": 61334,
+  "name": "Narcissus poeticus",
+  "rank": "species",
+  "observations": 14385,
+  "matched_as": "Narcissus poeticus",
+  "synonym": false
+ },
+ "Sedum palmeri": {
+  "id": 273757,
+  "name": "Sedum palmeri",
+  "rank": "species",
+  "observations": 4544,
+  "matched_as": "Sedum palmeri",
+  "synonym": false
+ },
+ "Phytolacca dioica": {
+  "id": 129582,
+  "name": "Phytolacca dioica",
+  "rank": "species",
+  "observations": 5050,
+  "matched_as": "Phytolacca dioica",
+  "synonym": false
+ },
+ "Populus alba": {
+  "id": 47570,
+  "name": "Populus alba",
+  "rank": "species",
+  "observations": 42530,
+  "matched_as": "Populus alba",
+  "synonym": false
+ },
+ "Corylus colurna": {
+  "id": 367960,
+  "name": "Corylus colurna",
+  "rank": "species",
+  "observations": 3858,
+  "matched_as": "Corylus colurna",
+  "synonym": false
+ },
+ "Rhododendron indicum": {
+  "id": 208830,
+  "name": "Rhododendron indicum",
+  "rank": "species",
+  "observations": 23784,
+  "matched_as": "Rhododendron indicum",
+  "synonym": false
+ },
+ "Lobelia erinus": {
+  "id": 77797,
+  "name": "Lobelia erinus",
+  "rank": "species",
+  "observations": 12082,
+  "matched_as": "Lobelia erinus",
+  "synonym": false
+ },
+ "Spiraea × vanhouttei": {
+  "id": 171131,
+  "name": "Spiraea × vanhouttei",
+  "rank": "hybrid",
+  "observations": 4501,
+  "matched_as": "Spiraea × vanhouttei",
+  "synonym": false
+ },
+ "Helleborus orientalis": {
+  "id": 126550,
+  "name": "Helleborus orientalis",
+  "rank": "species",
+  "observations": 18738,
+  "matched_as": "Helleborus orientalis",
+  "synonym": false
+ },
+ "Kniphofia uvaria": {
+  "id": 56035,
+  "name": "Kniphofia uvaria",
+  "rank": "species",
+  "observations": 14707,
+  "matched_as": "Kniphofia uvaria",
+  "synonym": false
+ },
+ "Eschscholzia californica": {
+  "id": 48225,
+  "name": "Eschscholzia californica",
+  "rank": "species",
+  "observations": 106122,
+  "matched_as": "Eschscholzia californica",
+  "synonym": false
+ },
+ "Ribes sanguineum": {
+  "id": 53435,
+  "name": "Ribes sanguineum",
+  "rank": "species",
+  "observations": 36169,
+  "matched_as": "Ribes sanguineum",
+  "synonym": false
+ },
+ "Fritillaria meleagris": {
+  "id": 55797,
+  "name": "Fritillaria meleagris",
+  "rank": "species",
+  "observations": 9555,
+  "matched_as": "Fritillaria meleagris",
+  "synonym": false
+ },
+ "Tipuana tipu": {
+  "id": 121263,
+  "name": "Tipuana tipu",
+  "rank": "species",
+  "observations": 5785,
+  "matched_as": "Tipuana tipu",
+  "synonym": false
+ },
+ "Crataegus germanica": {
+  "id": 1367002,
+  "name": "Crataegus germanica",
+  "rank": "species",
+  "observations": 6446,
+  "matched_as": "Crataegus germanica",
+  "synonym": false
+ },
+ "Lonicera japonica": {
+  "id": 77835,
+  "name": "Lonicera japonica",
+  "rank": "species",
+  "observations": 111215,
+  "matched_as": "Lonicera japonica",
+  "synonym": false
+ },
+ "Yucca gloriosa": {
+  "id": 170388,
+  "name": "Yucca gloriosa",
+  "rank": "species",
+  "observations": 9115,
+  "matched_as": "Yucca gloriosa",
+  "synonym": false
+ },
+ "Cotoneaster horizontalis": {
+  "id": 53771,
+  "name": "Cotoneaster horizontalis",
+  "rank": "species",
+  "observations": 9609,
+  "matched_as": "Cotoneaster horizontalis",
+  "synonym": false
+ },
+ "Lycianthes rantonnetii": {
+  "id": 339360,
+  "name": "Lycianthes rantonnetii",
+  "rank": "species",
+  "observations": 8352,
+  "matched_as": "Lycianthes rantonnetii",
+  "synonym": false
+ },
+ "Sansevieria trifasciata": {
+  "id": 67710,
+  "name": "Sansevieria trifasciata",
+  "rank": "species",
+  "observations": 33222,
+  "matched_as": "Sansevieria trifasciata",
+  "synonym": false
+ },
+ "Sorbaria sorbifolia": {
+  "id": 169144,
+  "name": "Sorbaria sorbifolia",
+  "rank": "species",
+  "observations": 14759,
+  "matched_as": "Sorbaria sorbifolia",
+  "synonym": false
+ },
+ "Abelia × grandiflora": {
+  "id": 170458,
+  "name": "Abelia × grandiflora",
+  "rank": "hybrid",
+  "observations": 8230,
+  "matched_as": "Abelia × grandiflora",
+  "synonym": false
+ },
+ "Juniperus communis": {
+  "id": 58725,
+  "name": "Juniperus communis",
+  "rank": "species",
+  "observations": 88773,
+  "matched_as": "Juniperus communis",
+  "synonym": false
+ },
+ "Impatiens hawkeri": {
+  "id": 349271,
+  "name": "Impatiens hawkeri",
+  "rank": "species",
+  "observations": 19309,
+  "matched_as": "Impatiens hawkeri",
+  "synonym": false
+ },
+ "Viola × williamsii": {
+  "id": 1446403,
+  "name": "Viola × williamsii",
+  "rank": "hybrid",
+  "observations": 6550,
+  "matched_as": "Viola × williamsii",
+  "synonym": false
+ },
+ "Viburnum lantana": {
+  "id": 124741,
+  "name": "Viburnum lantana",
+  "rank": "species",
+  "observations": 28541,
+  "matched_as": "Viburnum lantana",
+  "synonym": false
+ },
+ "Phytolacca acinosa": {
+  "id": 155484,
+  "name": "Phytolacca acinosa",
+  "rank": "species",
+  "observations": 10424,
+  "matched_as": "Phytolacca acinosa",
+  "synonym": false
+ },
+ "Lobularia maritima": {
+  "id": 56992,
+  "name": "Lobularia maritima",
+  "rank": "species",
+  "observations": 38724,
+  "matched_as": "Lobularia maritima",
+  "synonym": false
+ },
+ "Heptapleurum arboricola": {
+  "id": 1239449,
+  "name": "Heptapleurum arboricola",
+  "rank": "species",
+  "observations": 26292,
+  "matched_as": "Heptapleurum arboricola",
+  "synonym": false
+ },
+ "Salvia yangii": {
+  "id": 941713,
+  "name": "Salvia yangii",
+  "rank": "species",
+  "observations": 13181,
+  "matched_as": "Salvia yangii",
+  "synonym": false
+ },
+ "Geranium macrorrhizum": {
+  "id": 320685,
+  "name": "Geranium macrorrhizum",
+  "rank": "species",
+  "observations": 10168,
+  "matched_as": "Geranium macrorrhizum",
+  "synonym": false
+ },
+ "Tilia tomentosa": {
+  "id": 143800,
+  "name": "Tilia tomentosa",
+  "rank": "species",
+  "observations": 4249,
+  "matched_as": "Tilia tomentosa",
+  "synonym": false
+ },
+ "Citrus deliciosa": {
+  "id": 765426,
+  "name": "Citrus deliciosa",
+  "rank": "species",
+  "observations": 10378,
+  "matched_as": "Citrus deliciosa",
+  "synonym": false
+ },
+ "Quercus suber": {
+  "id": 50868,
+  "name": "Quercus suber",
+  "rank": "species",
+  "observations": 17675,
+  "matched_as": "Quercus suber",
+  "synonym": false
+ },
+ "Rosa spinosissima": {
+  "id": 167993,
+  "name": "Rosa spinosissima",
+  "rank": "species",
+  "observations": 11789,
+  "matched_as": "Rosa spinosissima",
+  "synonym": false
+ },
+ "Ficus macrophylla": {
+  "id": 126854,
+  "name": "Ficus macrophylla",
+  "rank": "species",
+  "observations": 6404,
+  "matched_as": "Ficus macrophylla",
+  "synonym": false
+ },
+ "Brunnera macrophylla": {
+  "id": 55852,
+  "name": "Brunnera macrophylla",
+  "rank": "species",
+  "observations": 10946,
+  "matched_as": "Brunnera macrophylla",
+  "synonym": false
+ },
+ "Viburnum farreri": {
+  "id": 450615,
+  "name": "Viburnum farreri",
+  "rank": "species",
+  "observations": 1821,
+  "matched_as": "Viburnum farreri",
+  "synonym": false
+ },
+ "Brachychiton populneus": {
+  "id": 349248,
+  "name": "Brachychiton populneus",
+  "rank": "species",
+  "observations": 6711,
+  "matched_as": "Brachychiton populneus",
+  "synonym": false
+ },
+ "Clematis montana": {
+  "id": 333798,
+  "name": "Clematis montana",
+  "rank": "species",
+  "observations": 3443,
+  "matched_as": "Clematis montana",
+  "synonym": false
+ },
+ "Jasminum nudiflorum": {
+  "id": 164232,
+  "name": "Jasminum nudiflorum",
+  "rank": "species",
+  "observations": 5985,
+  "matched_as": "Jasminum nudiflorum",
+  "synonym": false
+ },
+ "Prunus lusitanica": {
+  "id": 127529,
+  "name": "Prunus lusitanica",
+  "rank": "species",
+  "observations": 6844,
+  "matched_as": "Prunus lusitanica",
+  "synonym": false
+ },
+ "Metrosideros excelsa": {
+  "id": 122905,
+  "name": "Metrosideros excelsa",
+  "rank": "species",
+  "observations": 11038,
+  "matched_as": "Metrosideros excelsa",
+  "synonym": false
+ },
+ "Achillea filipendulina": {
+  "id": 157924,
+  "name": "Achillea filipendulina",
+  "rank": "species",
+  "observations": 13337,
+  "matched_as": "Achillea filipendulina",
+  "synonym": false
+ },
+ "Thuja plicata": {
+  "id": 48252,
+  "name": "Thuja plicata",
+  "rank": "species",
+  "observations": 56310,
+  "matched_as": "Thuja plicata",
+  "synonym": false
+ },
+ "Mandevilla sanderi": {
+  "id": 327733,
+  "name": "Mandevilla sanderi",
+  "rank": "species",
+  "observations": 5690,
+  "matched_as": "Mandevilla sanderi",
+  "synonym": false
+ },
+ "Escallonia rubra": {
+  "id": 162726,
+  "name": "Escallonia rubra",
+  "rank": "species",
+  "observations": 6780,
+  "matched_as": "Escallonia rubra",
+  "synonym": false
+ },
+ "Scandosorbus intermedia": {
+  "id": 1277895,
+  "name": "Scandosorbus intermedia",
+  "rank": "species",
+  "observations": 7211,
+  "matched_as": "Scandosorbus intermedia",
+  "synonym": false
+ },
+ "Hemerocallis lilioasphodelus": {
+  "id": 163663,
+  "name": "Hemerocallis lilioasphodelus",
+  "rank": "species",
+  "observations": 11533,
+  "matched_as": "Hemerocallis lilioasphodelus",
+  "synonym": false
+ },
+ "Aubrieta deltoidea": {
+  "id": 75721,
+  "name": "Aubrieta deltoidea",
+  "rank": "species",
+  "observations": 4856,
+  "matched_as": "Aubrieta deltoidea",
+  "synonym": false
+ },
+ "Juniperus sabina": {
+  "id": 47572,
+  "name": "Juniperus sabina",
+  "rank": "species",
+  "observations": 3789,
+  "matched_as": "Juniperus sabina",
+  "synonym": false
+ },
+ "Canna indica": {
+  "id": 146643,
+  "name": "Canna indica",
+  "rank": "species",
+  "observations": 27079,
+  "matched_as": "Canna indica",
+  "synonym": false
+ },
+ "Deutzia scabra": {
+  "id": 161761,
+  "name": "Deutzia scabra",
+  "rank": "species",
+  "observations": 3199,
+  "matched_as": "Deutzia scabra",
+  "synonym": false
+ },
+ "Iberis sempervirens": {
+  "id": 164028,
+  "name": "Iberis sempervirens",
+  "rank": "species",
+  "observations": 7169,
+  "matched_as": "Iberis sempervirens",
+  "synonym": false
+ },
+ "Rosa canina": {
+  "id": 55884,
+  "name": "Rosa canina",
+  "rank": "species",
+  "observations": 51141,
+  "matched_as": "Rosa canina",
+  "synonym": false
+ },
+ "Spiraea cantoniensis": {
+  "id": 125789,
+  "name": "Spiraea cantoniensis",
+  "rank": "species",
+  "observations": 6296,
+  "matched_as": "Spiraea cantoniensis",
+  "synonym": false
+ },
+ "Pinus halepensis": {
+  "id": 82722,
+  "name": "Pinus halepensis",
+  "rank": "species",
+  "observations": 20295,
+  "matched_as": "Pinus halepensis",
+  "synonym": false
+ },
+ "Mesembryanthemum cordifolium": {
+  "id": 589815,
+  "name": "Mesembryanthemum cordifolium",
+  "rank": "species",
+  "observations": 16798,
+  "matched_as": "Mesembryanthemum cordifolium",
+  "synonym": false
+ },
+ "Fraxinus angustifolia": {
+  "id": 82881,
+  "name": "Fraxinus angustifolia",
+  "rank": "species",
+  "observations": 15137,
+  "matched_as": "Fraxinus angustifolia",
+  "synonym": false
+ },
+ "Acer ginnala": {
+  "id": 123638,
+  "name": "Acer ginnala",
+  "rank": "species",
+  "observations": 15511,
+  "matched_as": "Acer ginnala",
+  "synonym": false
+ },
+ "Phedimus spurius": {
+  "id": 204380,
+  "name": "Phedimus spurius",
+  "rank": "species",
+  "observations": 11713,
+  "matched_as": "Phedimus spurius",
+  "synonym": false
+ },
+ "Betula pubescens": {
+  "id": 119061,
+  "name": "Betula pubescens",
+  "rank": "species",
+  "observations": 21487,
+  "matched_as": "Betula pubescens",
+  "synonym": false
+ },
+ "Solanum laxum": {
+  "id": 128667,
+  "name": "Solanum laxum",
+  "rank": "species",
+  "observations": 4563,
+  "matched_as": "Solanum laxum",
+  "synonym": false
+ },
+ "Begonia cucullata": {
+  "id": 159204,
+  "name": "Begonia cucullata",
+  "rank": "species",
+  "observations": 11014,
+  "matched_as": "Begonia cucullata",
+  "synonym": false
+ },
+ "Feijoa sellowiana": {
+  "id": 1341071,
+  "name": "Feijoa sellowiana",
+  "rank": "species",
+  "observations": 7948,
+  "matched_as": "Feijoa sellowiana",
+  "synonym": false
+ },
+ "Euphorbia epithymoides": {
+  "id": 162820,
+  "name": "Euphorbia epithymoides",
+  "rank": "species",
+  "observations": 3444,
+  "matched_as": "Euphorbia epithymoides",
+  "synonym": false
+ },
+ "Cordyline australis": {
+  "id": 50191,
+  "name": "Cordyline australis",
+  "rank": "species",
+  "observations": 16789,
+  "matched_as": "Cordyline australis",
+  "synonym": false
+ },
+ "Tulbaghia violacea": {
+  "id": 179304,
+  "name": "Tulbaghia violacea",
+  "rank": "species",
+  "observations": 11342,
+  "matched_as": "Tulbaghia violacea",
+  "synonym": false
+ },
+ "Rosa multiflora": {
+  "id": 78882,
+  "name": "Rosa multiflora",
+  "rank": "species",
+  "observations": 131587,
+  "matched_as": "Rosa multiflora",
+  "synonym": false
+ },
+ "Ligustrum ovalifolium": {
+  "id": 77741,
+  "name": "Ligustrum ovalifolium",
+  "rank": "species",
+  "observations": 14243,
+  "matched_as": "Ligustrum ovalifolium",
+  "synonym": false
+ },
+ "Fraxinus pennsylvanica": {
+  "id": 54808,
+  "name": "Fraxinus pennsylvanica",
+  "rank": "species",
+  "observations": 66708,
+  "matched_as": "Fraxinus pennsylvanica",
+  "synonym": false
+ },
+ "Heuchera sanguinea": {
+  "id": 48384,
+  "name": "Heuchera sanguinea",
+  "rank": "species",
+  "observations": 5114,
+  "matched_as": "Heuchera sanguinea",
+  "synonym": false
+ },
+ "Petunia integrifolia": {
+  "id": 181815,
+  "name": "Petunia integrifolia",
+  "rank": "species",
+  "observations": 5638,
+  "matched_as": "Petunia integrifolia",
+  "synonym": false
+ },
+ "Papaver orientale": {
+  "id": 166114,
+  "name": "Papaver orientale",
+  "rank": "species",
+  "observations": 7676,
+  "matched_as": "Papaver orientale",
+  "synonym": false
+ },
+ "Hosta sieboldii": {
+  "id": 426065,
+  "name": "Hosta sieboldii",
+  "rank": "species",
+  "observations": 5874,
+  "matched_as": "Hosta sieboldii",
+  "synonym": false
+ },
+ "Alstroemeria aurea": {
+  "id": 410471,
+  "name": "Alstroemeria aurea",
+  "rank": "species",
+  "observations": 7177,
+  "matched_as": "Alstroemeria aurea",
+  "synonym": false
+ },
+ "Salvia splendens": {
+  "id": 143203,
+  "name": "Salvia splendens",
+  "rank": "species",
+  "observations": 8303,
+  "matched_as": "Salvia splendens",
+  "synonym": false
+ },
+ "Quercus palustris": {
+  "id": 54785,
+  "name": "Quercus palustris",
+  "rank": "species",
+  "observations": 31084,
+  "matched_as": "Quercus palustris",
+  "synonym": false
+ },
+ "Parthenocissus inserta": {
+  "id": 181927,
+  "name": "Parthenocissus inserta",
+  "rank": "species",
+  "observations": 34526,
+  "matched_as": "Parthenocissus inserta",
+  "synonym": false
+ },
+ "Phlomis russeliana": {
+  "id": 404821,
+  "name": "Phlomis russeliana",
+  "rank": "species",
+  "observations": 2169,
+  "matched_as": "Phlomis russeliana",
+  "synonym": false
+ },
+ "Lunaria annua": {
+  "id": 55886,
+  "name": "Lunaria annua",
+  "rank": "species",
+  "observations": 50030,
+  "matched_as": "Lunaria annua",
+  "synonym": false
+ },
+ "Muscari armeniacum": {
+  "id": 57847,
+  "name": "Muscari armeniacum",
+  "rank": "species",
+  "observations": 13163,
+  "matched_as": "Muscari armeniacum",
+  "synonym": false
+ },
+ "Citrus trifoliata": {
+  "id": 200071,
+  "name": "Citrus trifoliata",
+  "rank": "species",
+  "observations": 10867,
+  "matched_as": "Citrus trifoliata",
+  "synonym": false
+ },
+ "Grevillea robusta": {
+  "id": 77302,
+  "name": "Grevillea robusta",
+  "rank": "species",
+  "observations": 13008,
+  "matched_as": "Grevillea robusta",
+  "synonym": false
+ },
+ "Malus baccata": {
+  "id": 165104,
+  "name": "Malus baccata",
+  "rank": "species",
+  "observations": 19024,
+  "matched_as": "Malus baccata",
+  "synonym": false
+ },
+ "Agave attenuata": {
+  "id": 209357,
+  "name": "Agave attenuata",
+  "rank": "species",
+  "observations": 12934,
+  "matched_as": "Agave attenuata",
+  "synonym": false
+ },
+ "Hydrangea petiolaris": {
+  "id": 410578,
+  "name": "Hydrangea petiolaris",
+  "rank": "species",
+  "observations": 4721,
+  "matched_as": "Hydrangea petiolaris",
+  "synonym": false
+ },
+ "Picea omorika": {
+  "id": 135773,
+  "name": "Picea omorika",
+  "rank": "species",
+  "observations": 1767,
+  "matched_as": "Picea omorika",
+  "synonym": false
+ },
+ "Berberis julianae": {
+  "id": 437555,
+  "name": "Berberis julianae",
+  "rank": "species",
+  "observations": 5506,
+  "matched_as": "Berberis julianae",
+  "synonym": false
+ },
+ "Cotoneaster coriaceus": {
+  "id": 411074,
+  "name": "Cotoneaster coriaceus",
+  "rank": "species",
+  "observations": 9004,
+  "matched_as": "Cotoneaster coriaceus",
+  "synonym": false
+ },
+ "Delosperma cooperi": {
+  "id": 144018,
+  "name": "Delosperma cooperi",
+  "rank": "species",
+  "observations": 4912,
+  "matched_as": "Delosperma cooperi",
+  "synonym": false
+ },
+ "Nepeta racemosa": {
+  "id": 165681,
+  "name": "Nepeta racemosa",
+  "rank": "species",
+  "observations": 8516,
+  "matched_as": "Nepeta racemosa",
+  "synonym": false
+ },
+ "Syringa josikaea": {
+  "id": 204422,
+  "name": "Syringa josikaea",
+  "rank": "species",
+  "observations": 2695,
+  "matched_as": "Syringa josikaea",
+  "synonym": false
+ },
+ "Euonymus fortunei": {
+  "id": 130893,
+  "name": "Euonymus fortunei",
+  "rank": "species",
+  "observations": 42444,
+  "matched_as": "Euonymus fortunei",
+  "synonym": false
+ },
+ "Anemonoides sylvestris": {
+  "id": 950591,
+  "name": "Anemonoides sylvestris",
+  "rank": "species",
+  "observations": 11818,
+  "matched_as": "Anemonoides sylvestris",
+  "synonym": false
+ },
+ "Platycodon grandiflorus": {
+  "id": 141623,
+  "name": "Platycodon grandiflorus",
+  "rank": "species",
+  "observations": 8937,
+  "matched_as": "Platycodon grandiflorus",
+  "synonym": false
+ },
+ "Lonicera ligustrina": {
+  "id": 777468,
+  "name": "Lonicera ligustrina",
+  "rank": "species",
+  "observations": 5999,
+  "matched_as": "Lonicera ligustrina",
+  "synonym": false
+ },
+ "Tanacetum parthenium": {
+  "id": 54520,
+  "name": "Tanacetum parthenium",
+  "rank": "species",
+  "observations": 26077,
+  "matched_as": "Tanacetum parthenium",
+  "synonym": false
+ },
+ "Hesperocyparis arizonica": {
+  "id": 1515459,
+  "name": "Hesperocyparis arizonica",
+  "rank": "species",
+  "observations": 5167,
+  "matched_as": "Hesperocyparis arizonica",
+  "synonym": false
+ },
+ "Iris × hollandica": {
+  "id": 244525,
+  "name": "Iris × hollandica",
+  "rank": "hybrid",
+  "observations": 2650,
+  "matched_as": "Iris × hollandica",
+  "synonym": false
+ },
+ "Berberis japonica": {
+  "id": 857208,
+  "name": "Berberis japonica",
+  "rank": "species",
+  "observations": 1916,
+  "matched_as": "Berberis japonica",
+  "synonym": false
+ },
+ "Allium cristophii": {
+  "id": 497735,
+  "name": "Allium cristophii",
+  "rank": "species",
+  "observations": 3058,
+  "matched_as": "Allium cristophii",
+  "synonym": false
+ },
+ "Musa basjoo": {
+  "id": 502195,
+  "name": "Musa basjoo",
+  "rank": "species",
+  "observations": 2610,
+  "matched_as": "Musa basjoo",
+  "synonym": false
+ },
+ "Yucca filamentosa": {
+  "id": 81605,
+  "name": "Yucca filamentosa",
+  "rank": "species",
+  "observations": 20679,
+  "matched_as": "Yucca filamentosa",
+  "synonym": false
+ },
+ "Ribes aureum": {
+  "id": 55544,
+  "name": "Ribes aureum",
+  "rank": "species",
+  "observations": 23964,
+  "matched_as": "Ribes aureum",
+  "synonym": false
+ },
+ "Dimorphotheca ecklonis": {
+  "id": 76660,
+  "name": "Dimorphotheca ecklonis",
+  "rank": "species",
+  "observations": 6933,
+  "matched_as": "Dimorphotheca ecklonis",
+  "synonym": false
+ },
+ "Juglans mandshurica": {
+  "id": 366815,
+  "name": "Juglans mandshurica",
+  "rank": "species",
+  "observations": 4329,
+  "matched_as": "Juglans mandshurica",
+  "synonym": false
+ },
+ "Cercidiphyllum japonicum": {
+  "id": 133356,
+  "name": "Cercidiphyllum japonicum",
+  "rank": "species",
+  "observations": 8055,
+  "matched_as": "Cercidiphyllum japonicum",
+  "synonym": false
+ },
+ "Acer tataricum": {
+  "id": 143780,
+  "name": "Acer tataricum",
+  "rank": "species",
+  "observations": 11096,
+  "matched_as": "Acer tataricum",
+  "synonym": false
+ },
+ "Campanula poscharskyana": {
+  "id": 336005,
+  "name": "Campanula poscharskyana",
+  "rank": "species",
+  "observations": 9760,
+  "matched_as": "Campanula poscharskyana",
+  "synonym": false
+ },
+ "Malva sylvestris": {
+  "id": 56162,
+  "name": "Malva sylvestris",
+  "rank": "species",
+  "observations": 68470,
+  "matched_as": "Malva sylvestris",
+  "synonym": false
+ },
+ "Viburnum plicatum": {
+  "id": 170203,
+  "name": "Viburnum plicatum",
+  "rank": "species",
+  "observations": 18605,
+  "matched_as": "Viburnum plicatum",
+  "synonym": false
+ },
+ "Hylotelephium spectabile": {
+  "id": 163908,
+  "name": "Hylotelephium spectabile",
+  "rank": "species",
+  "observations": 6652,
+  "matched_as": "Hylotelephium spectabile",
+  "synonym": false
+ },
+ "Canna × hybrida": {
+  "id": 1535043,
+  "name": "Canna × hybrida",
+  "rank": "hybrid",
+  "observations": 15858,
+  "matched_as": "Canna × hybrida",
+  "synonym": false
+ },
+ "Elaeagnus angustifolia": {
+  "id": 64694,
+  "name": "Elaeagnus angustifolia",
+  "rank": "species",
+  "observations": 27534,
+  "matched_as": "Elaeagnus angustifolia",
+  "synonym": false
+ },
+ "Echium pininana": {
+  "id": 76763,
+  "name": "Echium pininana",
+  "rank": "species",
+  "observations": 4978,
+  "matched_as": "Echium pininana",
+  "synonym": false
+ },
+ "Rosa banksiae": {
+  "id": 209505,
+  "name": "Rosa banksiae",
+  "rank": "species",
+  "observations": 3548,
+  "matched_as": "Rosa banksiae",
+  "synonym": false
+ },
+ "Euphorbia cyparissias": {
+  "id": 55766,
+  "name": "Euphorbia cyparissias",
+  "rank": "species",
+  "observations": 59166,
+  "matched_as": "Euphorbia cyparissias",
+  "synonym": false
+ },
+ "Erythrina crista-galli": {
+  "id": 162718,
+  "name": "Erythrina crista-galli",
+  "rank": "species",
+  "observations": 8802,
+  "matched_as": "Erythrina crista-galli",
+  "synonym": false
+ },
+ "Hydrangea quercifolia": {
+  "id": 83156,
+  "name": "Hydrangea quercifolia",
+  "rank": "species",
+  "observations": 25672,
+  "matched_as": "Hydrangea quercifolia",
+  "synonym": false
+ },
+ "Spiraea douglasii": {
+  "id": 62493,
+  "name": "Spiraea douglasii",
+  "rank": "species",
+  "observations": 28251,
+  "matched_as": "Spiraea douglasii",
+  "synonym": false
+ },
+ "Anemonoides blanda": {
+  "id": 950617,
+  "name": "Anemonoides blanda",
+  "rank": "species",
+  "observations": 9377,
+  "matched_as": "Anemonoides blanda",
+  "synonym": false
+ },
+ "Chamaecyparis pisifera": {
+  "id": 123925,
+  "name": "Chamaecyparis pisifera",
+  "rank": "species",
+  "observations": 3948,
+  "matched_as": "Chamaecyparis pisifera",
+  "synonym": false
+ },
+ "Ageratum houstonianum": {
+  "id": 120944,
+  "name": "Ageratum houstonianum",
+  "rank": "species",
+  "observations": 20865,
+  "matched_as": "Ageratum houstonianum",
+  "synonym": false
+ },
+ "Muscari botryoides": {
+  "id": 56134,
+  "name": "Muscari botryoides",
+  "rank": "species",
+  "observations": 14066,
+  "matched_as": "Muscari botryoides",
+  "synonym": false
+ },
+ "Miscanthus sinensis": {
+  "id": 165474,
+  "name": "Miscanthus sinensis",
+  "rank": "species",
+  "observations": 19851,
+  "matched_as": "Miscanthus sinensis",
+  "synonym": false
+ },
+ "Jasminum mesnyi": {
+  "id": 164229,
+  "name": "Jasminum mesnyi",
+  "rank": "species",
+  "observations": 6295,
+  "matched_as": "Jasminum mesnyi",
+  "synonym": false
+ },
+ "Celosia argentea": {
+  "id": 160259,
+  "name": "Celosia argentea",
+  "rank": "species",
+  "observations": 22746,
+  "matched_as": "Celosia argentea",
+  "synonym": false
+ },
+ "Berberis darwinii": {
+  "id": 75751,
+  "name": "Berberis darwinii",
+  "rank": "species",
+  "observations": 6989,
+  "matched_as": "Berberis darwinii",
+  "synonym": false
+ },
+ "Alchemilla mollis": {
+  "id": 56022,
+  "name": "Alchemilla mollis",
+  "rank": "species",
+  "observations": 9760,
+  "matched_as": "Alchemilla mollis",
+  "synonym": false
+ },
+ "Veronica speciosa": {
+  "id": 738802,
+  "name": "Veronica speciosa",
+  "rank": "species",
+  "observations": 7058,
+  "matched_as": "Veronica speciosa",
+  "synonym": false
+ },
+ "Campanula persicifolia": {
+  "id": 159764,
+  "name": "Campanula persicifolia",
+  "rank": "species",
+  "observations": 32759,
+  "matched_as": "Campanula persicifolia",
+  "synonym": false
+ },
+ "Lonicera periclymenum": {
+  "id": 55885,
+  "name": "Lonicera periclymenum",
+  "rank": "species",
+  "observations": 27458,
+  "matched_as": "Lonicera periclymenum",
+  "synonym": false
+ },
+ "Clerodendrum trichotomum": {
+  "id": 67539,
+  "name": "Clerodendrum trichotomum",
+  "rank": "species",
+  "observations": 7858,
+  "matched_as": "Clerodendrum trichotomum",
+  "synonym": false
+ },
+ "Fuchsia × hybrida": {
+  "id": 411036,
+  "name": "Fuchsia × hybrida",
+  "rank": "hybrid",
+  "observations": 5251,
+  "matched_as": "Fuchsia × hybrida",
+  "synonym": false
+ },
+ "Larix sibirica": {
+  "id": 135893,
+  "name": "Larix sibirica",
+  "rank": "species",
+  "observations": 10688,
+  "matched_as": "Larix sibirica",
+  "synonym": false
+ },
+ "Aria edulis": {
+  "id": 900799,
+  "name": "Aria edulis",
+  "rank": "species",
+  "observations": 11680,
+  "matched_as": "Aria edulis",
+  "synonym": false
+ },
+ "Aronia melanocarpa": {
+  "id": 128798,
+  "name": "Aronia melanocarpa",
+  "rank": "species",
+  "observations": 23038,
+  "matched_as": "Aronia melanocarpa",
+  "synonym": false
+ },
+ "Quercus cerris": {
+  "id": 135408,
+  "name": "Quercus cerris",
+  "rank": "species",
+  "observations": 10527,
+  "matched_as": "Quercus cerris",
+  "synonym": false
+ },
+ "Sempervivum arachnoideum": {
+  "id": 334591,
+  "name": "Sempervivum arachnoideum",
+  "rank": "species",
+  "observations": 7504,
+  "matched_as": "Sempervivum arachnoideum",
+  "synonym": false
+ },
+ "Rosa luciae": {
+  "id": 1045161,
+  "name": "Rosa luciae",
+  "rank": "species",
+  "observations": 6130,
+  "matched_as": "Rosa luciae",
+  "synonym": false
+ },
+ "Salvia farinacea": {
+  "id": 148006,
+  "name": "Salvia farinacea",
+  "rank": "species",
+  "observations": 25242,
+  "matched_as": "Salvia farinacea",
+  "synonym": false
+ },
+ "Ipomoea indica": {
+  "id": 77496,
+  "name": "Ipomoea indica",
+  "rank": "species",
+  "observations": 30576,
+  "matched_as": "Ipomoea indica",
+  "synonym": false
+ },
+ "Photinia serratifolia": {
+  "id": 166740,
+  "name": "Photinia serratifolia",
+  "rank": "species",
+  "observations": 10797,
+  "matched_as": "Photinia serratifolia",
+  "synonym": false
+ },
+ "Iris reticulata": {
+  "id": 128728,
+  "name": "Iris reticulata",
+  "rank": "species",
+  "observations": 2980,
+  "matched_as": "Iris reticulata",
+  "synonym": false
+ },
+ "Puschkinia scilloides": {
+  "id": 128724,
+  "name": "Puschkinia scilloides",
+  "rank": "species",
+  "observations": 8382,
+  "matched_as": "Puschkinia scilloides",
+  "synonym": false
+ },
+ "Crocus tommasinianus": {
+  "id": 55875,
+  "name": "Crocus tommasinianus",
+  "rank": "species",
+  "observations": 12886,
+  "matched_as": "Crocus tommasinianus",
+  "synonym": false
+ },
+ "Citrus medica": {
+  "id": 123356,
+  "name": "Citrus medica",
+  "rank": "species",
+  "observations": 3650,
+  "matched_as": "Citrus medica",
+  "synonym": false
+ },
+ "Picea glauca": {
+  "id": 117326,
+  "name": "Picea glauca",
+  "rank": "species",
+  "observations": 39856,
+  "matched_as": "Picea glauca",
+  "synonym": false
+ },
+ "Vitex agnus-castus": {
+  "id": 170271,
+  "name": "Vitex agnus-castus",
+  "rank": "species",
+  "observations": 23758,
+  "matched_as": "Vitex agnus-castus",
+  "synonym": false
+ },
+ "Echium candicans": {
+  "id": 57723,
+  "name": "Echium candicans",
+  "rank": "species",
+  "observations": 20238,
+  "matched_as": "Echium candicans",
+  "synonym": false
+ },
+ "Magnolia kobus": {
+  "id": 143787,
+  "name": "Magnolia kobus",
+  "rank": "species",
+  "observations": 2958,
+  "matched_as": "Magnolia kobus",
+  "synonym": false
+ },
+ "Aloe maculata": {
+  "id": 75379,
+  "name": "Aloe maculata",
+  "rank": "species",
+  "observations": 12015,
+  "matched_as": "Aloe maculata",
+  "synonym": false
+ },
+ "Heliopsis helianthoides": {
+  "id": 130382,
+  "name": "Heliopsis helianthoides",
+  "rank": "species",
+  "observations": 42367,
+  "matched_as": "Heliopsis helianthoides",
+  "synonym": false
+ },
+ "Scilla luciliae": {
+  "id": 244100,
+  "name": "Scilla luciliae",
+  "rank": "species",
+  "observations": 7791,
+  "matched_as": "Scilla luciliae",
+  "synonym": false
+ },
+ "Hypericum androsaemum": {
+  "id": 77480,
+  "name": "Hypericum androsaemum",
+  "rank": "species",
+  "observations": 18041,
+  "matched_as": "Hypericum androsaemum",
+  "synonym": false
+ },
+ "Fraxinus ornus": {
+  "id": 319281,
+  "name": "Fraxinus ornus",
+  "rank": "species",
+  "observations": 8939,
+  "matched_as": "Fraxinus ornus",
+  "synonym": false
+ },
+ "Hyacinthoides hispanica": {
+  "id": 57635,
+  "name": "Hyacinthoides hispanica",
+  "rank": "species",
+  "observations": 24299,
+  "matched_as": "Hyacinthoides hispanica",
+  "synonym": false
+ },
+ "Tradescantia virginiana": {
+  "id": 130991,
+  "name": "Tradescantia virginiana",
+  "rank": "species",
+  "observations": 18577,
+  "matched_as": "Tradescantia virginiana",
+  "synonym": false
+ },
+ "Rhododendron catawbiense": {
+  "id": 49486,
+  "name": "Rhododendron catawbiense",
+  "rank": "species",
+  "observations": 8346,
+  "matched_as": "Rhododendron catawbiense",
+  "synonym": false
+ },
+ "Bougainvillea spectabilis": {
+  "id": 62949,
+  "name": "Bougainvillea spectabilis",
+  "rank": "species",
+  "observations": 19502,
+  "matched_as": "Bougainvillea spectabilis",
+  "synonym": false
+ },
+ "Psephellus dealbatus": {
+  "id": 522029,
+  "name": "Psephellus dealbatus",
+  "rank": "species",
+  "observations": 2623,
+  "matched_as": "Psephellus dealbatus",
+  "synonym": false
+ },
+ "Ajuga reptans": {
+  "id": 56099,
+  "name": "Ajuga reptans",
+  "rank": "species",
+  "observations": 103881,
+  "matched_as": "Ajuga reptans",
+  "synonym": false
+ },
+ "Phormium tenax": {
+  "id": 51754,
+  "name": "Phormium tenax",
+  "rank": "species",
+  "observations": 12280,
+  "matched_as": "Phormium tenax",
+  "synonym": false
+ },
+ "Salix integra": {
+  "id": 553036,
+  "name": "Salix integra",
+  "rank": "species",
+  "observations": 3708,
+  "matched_as": "Salix integra",
+  "synonym": false
+ },
+ "Melaleuca viminalis": {
+  "id": 77977,
+  "name": "Melaleuca viminalis",
+  "rank": "species",
+  "observations": 17000,
+  "matched_as": "Melaleuca viminalis",
+  "synonym": false
+ },
+ "Gaillardia pulchella": {
+  "id": 51768,
+  "name": "Gaillardia pulchella",
+  "rank": "species",
+  "observations": 73022,
+  "matched_as": "Gaillardia pulchella",
+  "synonym": false
+ },
+ "Bauhinia variegata": {
+  "id": 68225,
+  "name": "Bauhinia variegata",
+  "rank": "species",
+  "observations": 17096,
+  "matched_as": "Bauhinia variegata",
+  "synonym": false
+ },
+ "Crocus chrysanthus": {
+  "id": 125348,
+  "name": "Crocus chrysanthus",
+  "rank": "species",
+  "observations": 3574,
+  "matched_as": "Crocus chrysanthus",
+  "synonym": false
+ },
+ "Catharanthus roseus": {
+  "id": 62924,
+  "name": "Catharanthus roseus",
+  "rank": "species",
+  "observations": 72741,
+  "matched_as": "Catharanthus roseus",
+  "synonym": false
+ },
+ "Symphyotrichum novi-belgii": {
+  "id": 169474,
+  "name": "Symphyotrichum novi-belgii",
+  "rank": "species",
+  "observations": 18722,
+  "matched_as": "Symphyotrichum novi-belgii",
+  "synonym": false
+ },
+ "Juniperus squamata": {
+  "id": 135885,
+  "name": "Juniperus squamata",
+  "rank": "species",
+  "observations": 3612,
+  "matched_as": "Juniperus squamata",
+  "synonym": false
+ },
+ "Echinops bannaticus": {
+  "id": 336266,
+  "name": "Echinops bannaticus",
+  "rank": "species",
+  "observations": 3877,
+  "matched_as": "Echinops bannaticus",
+  "synonym": false
+ },
+ "Abies concolor": {
+  "id": 68087,
+  "name": "Abies concolor",
+  "rank": "species",
+  "observations": 19229,
+  "matched_as": "Abies concolor",
+  "synonym": false
+ },
+ "Galanthus elwesii": {
+  "id": 57514,
+  "name": "Galanthus elwesii",
+  "rank": "species",
+  "observations": 5342,
+  "matched_as": "Galanthus elwesii",
+  "synonym": false
+ },
+ "Sedum album": {
+  "id": 79025,
+  "name": "Sedum album",
+  "rank": "species",
+  "observations": 36275,
+  "matched_as": "Sedum album",
+  "synonym": false
+ },
+ "Erysimum × cheiri": {
+  "id": 55892,
+  "name": "Erysimum × cheiri",
+  "rank": "hybrid",
+  "observations": 4836,
+  "matched_as": "Erysimum × cheiri",
+  "synonym": false
+ },
+ "Pulmonaria officinalis": {
+  "id": 167599,
+  "name": "Pulmonaria officinalis",
+  "rank": "species",
+  "observations": 23255,
+  "matched_as": "Pulmonaria officinalis",
+  "synonym": false
+ },
+ "Broussonetia papyrifera": {
+  "id": 128032,
+  "name": "Broussonetia papyrifera",
+  "rank": "species",
+  "observations": 38502,
+  "matched_as": "Broussonetia papyrifera",
+  "synonym": false
+ },
+ "Davidia involucrata": {
+  "id": 128506,
+  "name": "Davidia involucrata",
+  "rank": "species",
+  "observations": 1941,
+  "matched_as": "Davidia involucrata",
+  "synonym": false
+ },
+ "Juniperus chinensis": {
+  "id": 135925,
+  "name": "Juniperus chinensis",
+  "rank": "species",
+  "observations": 12262,
+  "matched_as": "Juniperus chinensis",
+  "synonym": false
+ },
+ "Brugmansia arborea": {
+  "id": 126914,
+  "name": "Brugmansia arborea",
+  "rank": "species",
+  "observations": 6316,
+  "matched_as": "Brugmansia arborea",
+  "synonym": false
+ },
+ "Spartium junceum": {
+  "id": 47406,
+  "name": "Spartium junceum",
+  "rank": "species",
+  "observations": 29673,
+  "matched_as": "Spartium junceum",
+  "synonym": false
+ },
+ "Cistus ladanifer": {
+  "id": 76362,
+  "name": "Cistus ladanifer",
+  "rank": "species",
+  "observations": 15827,
+  "matched_as": "Cistus ladanifer",
+  "synonym": false
+ },
+ "Loropetalum chinense": {
+  "id": 186063,
+  "name": "Loropetalum chinense",
+  "rank": "species",
+  "observations": 18311,
+  "matched_as": "Loropetalum chinense",
+  "synonym": false
+ },
+ "Malus sylvestris": {
+  "id": 61223,
+  "name": "Malus sylvestris",
+  "rank": "species",
+  "observations": 11013,
+  "matched_as": "Malus sylvestris",
+  "synonym": false
+ },
+ "Abies koreana": {
+  "id": 136891,
+  "name": "Abies koreana",
+  "rank": "species",
+  "observations": 1257,
+  "matched_as": "Abies koreana",
+  "synonym": false
+ },
+ "Parrotia persica": {
+  "id": 464251,
+  "name": "Parrotia persica",
+  "rank": "species",
+  "observations": 2505,
+  "matched_as": "Parrotia persica",
+  "synonym": false
+ },
+ "Grevillea rosmarinifolia": {
+  "id": 547335,
+  "name": "Grevillea rosmarinifolia",
+  "rank": "species",
+  "observations": 3743,
+  "matched_as": "Grevillea rosmarinifolia",
+  "synonym": false
+ },
+ "Spiraea thunbergii": {
+  "id": 125791,
+  "name": "Spiraea thunbergii",
+  "rank": "species",
+  "observations": 2823,
+  "matched_as": "Spiraea thunbergii",
+  "synonym": false
+ },
+ "Akebia quinata": {
+  "id": 126249,
+  "name": "Akebia quinata",
+  "rank": "species",
+  "observations": 5791,
+  "matched_as": "Akebia quinata",
+  "synonym": false
+ },
+ "Carissa macrocarpa": {
+  "id": 130215,
+  "name": "Carissa macrocarpa",
+  "rank": "species",
+  "observations": 14826,
+  "matched_as": "Carissa macrocarpa",
+  "synonym": false
+ },
+ "Amaranthus cruentus": {
+  "id": 52328,
+  "name": "Amaranthus cruentus",
+  "rank": "species",
+  "observations": 10315,
+  "matched_as": "Amaranthus cruentus",
+  "synonym": false
+ },
+ "Hesperis matronalis": {
+  "id": 47697,
+  "name": "Hesperis matronalis",
+  "rank": "species",
+  "observations": 94575,
+  "matched_as": "Hesperis matronalis",
+  "synonym": false
+ },
+ "Larix kaempferi": {
+  "id": 143786,
+  "name": "Larix kaempferi",
+  "rank": "species",
+  "observations": 2095,
+  "matched_as": "Larix kaempferi",
+  "synonym": false
+ },
+ "Thunbergia alata": {
+  "id": 132458,
+  "name": "Thunbergia alata",
+  "rank": "species",
+  "observations": 27427,
+  "matched_as": "Thunbergia alata",
+  "synonym": false
+ },
+ "Aurinia saxatilis": {
+  "id": 64616,
+  "name": "Aurinia saxatilis",
+  "rank": "species",
+  "observations": 4534,
+  "matched_as": "Aurinia saxatilis",
+  "synonym": false
+ },
+ "Salvia greggii": {
+  "id": 168380,
+  "name": "Salvia greggii",
+  "rank": "species",
+  "observations": 10592,
+  "matched_as": "Salvia greggii",
+  "synonym": false
+ },
+ "Armeria maritima": {
+  "id": 60476,
+  "name": "Armeria maritima",
+  "rank": "species",
+  "observations": 39148,
+  "matched_as": "Armeria maritima",
+  "synonym": false
+ },
+ "Gunnera tinctoria": {
+  "id": 77310,
+  "name": "Gunnera tinctoria",
+  "rank": "species",
+  "observations": 6928,
+  "matched_as": "Gunnera tinctoria",
+  "synonym": false
+ },
+ "Argyranthemum frutescens": {
+  "id": 181635,
+  "name": "Argyranthemum frutescens",
+  "rank": "species",
+  "observations": 8320,
+  "matched_as": "Argyranthemum frutescens",
+  "synonym": false
+ },
+ "Polystichum setiferum": {
+  "id": 319738,
+  "name": "Polystichum setiferum",
+  "rank": "species",
+  "observations": 11139,
+  "matched_as": "Polystichum setiferum",
+  "synonym": false
+ },
+ "Narcissus tazetta": {
+  "id": 56027,
+  "name": "Narcissus tazetta",
+  "rank": "species",
+  "observations": 8982,
+  "matched_as": "Narcissus tazetta",
+  "synonym": false
+ },
+ "Iris sanguinea": {
+  "id": 164133,
+  "name": "Iris sanguinea",
+  "rank": "species",
+  "observations": 7127,
+  "matched_as": "Iris sanguinea",
+  "synonym": false
+ },
+ "Iris pallida": {
+  "id": 164131,
+  "name": "Iris pallida",
+  "rank": "species",
+  "observations": 3617,
+  "matched_as": "Iris pallida",
+  "synonym": false
+ },
+ "Callistephus chinensis": {
+  "id": 159684,
+  "name": "Callistephus chinensis",
+  "rank": "species",
+  "observations": 2248,
+  "matched_as": "Callistephus chinensis",
+  "synonym": false
+ },
+ "Wisteria floribunda": {
+  "id": 170331,
+  "name": "Wisteria floribunda",
+  "rank": "species",
+  "observations": 5660,
+  "matched_as": "Wisteria floribunda",
+  "synonym": false
+ },
+ "Symphyotrichum novae-angliae": {
+  "id": 117443,
+  "name": "Symphyotrichum novae-angliae",
+  "rank": "species",
+  "observations": 66797,
+  "matched_as": "Symphyotrichum novae-angliae",
+  "synonym": false
+ },
+ "Eucalyptus globulus": {
+  "id": 53398,
+  "name": "Eucalyptus globulus",
+  "rank": "species",
+  "observations": 20971,
+  "matched_as": "Eucalyptus globulus",
+  "synonym": false
+ },
+ "Crocus neapolitanus": {
+  "id": 929050,
+  "name": "Crocus neapolitanus",
+  "rank": "species",
+  "observations": 4799,
+  "matched_as": "Crocus neapolitanus",
+  "synonym": false
+ },
+ "Petrosedum rupestre": {
+  "id": 734805,
+  "name": "Petrosedum rupestre",
+  "rank": "species",
+  "observations": 8663,
+  "matched_as": "Petrosedum rupestre",
+  "synonym": false
+ },
+ "Tulipa tarda": {
+  "id": 1587131,
+  "name": "Tulipa tarda",
+  "rank": "species",
+  "observations": 1486,
+  "matched_as": "Tulipa tarda",
+  "synonym": false
+ },
+ "Leucanthemum maximum": {
+  "id": 77719,
+  "name": "Leucanthemum maximum",
+  "rank": "species",
+  "observations": 12197,
+  "matched_as": "Leucanthemum maximum",
+  "synonym": false
+ },
+ "Tsuga canadensis": {
+  "id": 48734,
+  "name": "Tsuga canadensis",
+  "rank": "species",
+  "observations": 82824,
+  "matched_as": "Tsuga canadensis",
+  "synonym": false
+ },
+ "Anemone coronaria": {
+  "id": 244745,
+  "name": "Anemone coronaria",
+  "rank": "species",
+  "observations": 8367,
+  "matched_as": "Anemone coronaria",
+  "synonym": false
+ },
+ "Bistorta amplexicaulis": {
+  "id": 752465,
+  "name": "Bistorta amplexicaulis",
+  "rank": "species",
+  "observations": 2747,
+  "matched_as": "Bistorta amplexicaulis",
+  "synonym": false
+ },
+ "Paeonia × suffruticosa": {
+  "id": 125432,
+  "name": "Paeonia × suffruticosa",
+  "rank": "hybrid",
+  "observations": 1280,
+  "matched_as": "Paeonia × suffruticosa",
+  "synonym": false
+ },
+ "Kalanchoe × houghtonii": {
+  "id": 518424,
+  "name": "Kalanchoe × houghtonii",
+  "rank": "hybrid",
+  "observations": 12636,
+  "matched_as": "Kalanchoe × houghtonii",
+  "synonym": false
+ },
+ "Gladiolus × hortulanus": {
+  "id": 714955,
+  "name": "Gladiolus × hortulanus",
+  "rank": "hybrid",
+  "observations": 3441,
+  "matched_as": "Gladiolus × hortulanus",
+  "synonym": false
+ },
+ "Lantana montevidensis": {
+  "id": 77624,
+  "name": "Lantana montevidensis",
+  "rank": "species",
+  "observations": 19132,
+  "matched_as": "Lantana montevidensis",
+  "synonym": false
+ },
+ "Rubus odoratus": {
+  "id": 62377,
+  "name": "Rubus odoratus",
+  "rank": "species",
+  "observations": 32863,
+  "matched_as": "Rubus odoratus",
+  "synonym": false
+ },
+ "Rudbeckia fulgida": {
+  "id": 142654,
+  "name": "Rudbeckia fulgida",
+  "rank": "species",
+  "observations": 13600,
+  "matched_as": "Rudbeckia fulgida",
+  "synonym": false
+ },
+ "Actinidia chinensis": {
+  "id": 55149,
+  "name": "Actinidia chinensis",
+  "rank": "species",
+  "observations": 3290,
+  "matched_as": "Actinidia chinensis",
+  "synonym": false
+ },
+ "Delphinium ajacis": {
+  "id": 401314,
+  "name": "Delphinium ajacis",
+  "rank": "species",
+  "observations": 13062,
+  "matched_as": "Delphinium ajacis",
+  "synonym": false
+ },
+ "Podranea ricasoliana": {
+  "id": 167116,
+  "name": "Podranea ricasoliana",
+  "rank": "species",
+  "observations": 6403,
+  "matched_as": "Podranea ricasoliana",
+  "synonym": false
+ },
+ "Malva moschata": {
+  "id": 55977,
+  "name": "Malva moschata",
+  "rank": "species",
+  "observations": 32891,
+  "matched_as": "Malva moschata",
+  "synonym": false
+ },
+ "Leucojum aestivum": {
+  "id": 55809,
+  "name": "Leucojum aestivum",
+  "rank": "species",
+  "observations": 14039,
+  "matched_as": "Leucojum aestivum",
+  "synonym": false
+ },
+ "Dimorphotheca fruticosa": {
+  "id": 76661,
+  "name": "Dimorphotheca fruticosa",
+  "rank": "species",
+  "observations": 7335,
+  "matched_as": "Dimorphotheca fruticosa",
+  "synonym": false
+ },
+ "Cleome houtteana": {
+  "id": 559683,
+  "name": "Cleome houtteana",
+  "rank": "species",
+  "observations": 12085,
+  "matched_as": "Cleome houtteana",
+  "synonym": false
+ },
+ "Quercus rotundifolia": {
+  "id": 82946,
+  "name": "Quercus rotundifolia",
+  "rank": "species",
+  "observations": 37834,
+  "matched_as": "Quercus rotundifolia",
+  "synonym": false
+ },
+ "Cannabis sativa": {
+  "id": 75997,
+  "name": "Cannabis sativa",
+  "rank": "species",
+  "observations": 17966,
+  "matched_as": "Cannabis sativa",
+  "synonym": false
+ },
+ "Eucalyptus camaldulensis": {
+  "id": 64128,
+  "name": "Eucalyptus camaldulensis",
+  "rank": "species",
+  "observations": 17498,
+  "matched_as": "Eucalyptus camaldulensis",
+  "synonym": false
+ },
+ "Rudbeckia laciniata": {
+  "id": 116735,
+  "name": "Rudbeckia laciniata",
+  "rank": "species",
+  "observations": 42917,
+  "matched_as": "Rudbeckia laciniata",
+  "synonym": false
+ },
+ "Trifolium incarnatum": {
+  "id": 64268,
+  "name": "Trifolium incarnatum",
+  "rank": "species",
+  "observations": 26828,
+  "matched_as": "Trifolium incarnatum",
+  "synonym": false
+ },
+ "Berberis bealei": {
+  "id": 277657,
+  "name": "Berberis bealei",
+  "rank": "species",
+  "observations": 21305,
+  "matched_as": "Berberis bealei",
+  "synonym": false
+ },
+ "Echinopsis oxygona": {
+  "id": 438589,
+  "name": "Echinopsis oxygona",
+  "rank": "species",
+  "observations": 3397,
+  "matched_as": "Echinopsis oxygona",
+  "synonym": false
+ },
+ "Rhododendron luteum": {
+  "id": 129083,
+  "name": "Rhododendron luteum",
+  "rank": "species",
+  "observations": 2983,
+  "matched_as": "Rhododendron luteum",
+  "synonym": false
+ },
+ "Pinus cembra": {
+  "id": 363921,
+  "name": "Pinus cembra",
+  "rank": "species",
+  "observations": 3273,
+  "matched_as": "Pinus cembra",
+  "synonym": false
+ },
+ "Gazania rigens": {
+  "id": 884843,
+  "name": "Gazania rigens",
+  "rank": "species",
+  "observations": 8522,
+  "matched_as": "Gazania rigens",
+  "synonym": false
+ },
+ "Polygonatum multiflorum": {
+  "id": 57418,
+  "name": "Polygonatum multiflorum",
+  "rank": "species",
+  "observations": 27090,
+  "matched_as": "Polygonatum multiflorum",
+  "synonym": false
+ },
+ "Silene chalcedonica": {
+  "id": 406034,
+  "name": "Silene chalcedonica",
+  "rank": "species",
+  "observations": 4679,
+  "matched_as": "Silene chalcedonica",
+  "synonym": false
+ },
+ "Salvia sclarea": {
+  "id": 168396,
+  "name": "Salvia sclarea",
+  "rank": "species",
+  "observations": 3493,
+  "matched_as": "Salvia sclarea",
+  "synonym": false
+ },
+ "Cota tinctoria": {
+  "id": 76456,
+  "name": "Cota tinctoria",
+  "rank": "species",
+  "observations": 17908,
+  "matched_as": "Cota tinctoria",
+  "synonym": false
+ },
+ "Crocosmia × crocosmiiflora": {
+  "id": 181465,
+  "name": "Crocosmia × crocosmiiflora",
+  "rank": "hybrid",
+  "observations": 18151,
+  "matched_as": "Crocosmia × crocosmiiflora",
+  "synonym": false
+ },
+ "Ceratostigma plumbaginoides": {
+  "id": 160358,
+  "name": "Ceratostigma plumbaginoides",
+  "rank": "species",
+  "observations": 3254,
+  "matched_as": "Ceratostigma plumbaginoides",
+  "synonym": false
+ },
+ "Dimorphotheca jucunda": {
+  "id": 569596,
+  "name": "Dimorphotheca jucunda",
+  "rank": "species",
+  "observations": 3460,
+  "matched_as": "Dimorphotheca jucunda",
+  "synonym": false
+ },
+ "Symphytum caucasicum": {
+  "id": 245575,
+  "name": "Symphytum caucasicum",
+  "rank": "species",
+  "observations": 6719,
+  "matched_as": "Symphytum caucasicum",
+  "synonym": false
+ },
+ "Ruta graveolens": {
+  "id": 147294,
+  "name": "Ruta graveolens",
+  "rank": "species",
+  "observations": 6777,
+  "matched_as": "Ruta graveolens",
+  "synonym": false
+ },
+ "Cornus sericea": {
+  "id": 53387,
+  "name": "Cornus sericea",
+  "rank": "species",
+  "observations": 92720,
+  "matched_as": "Cornus sericea",
+  "synonym": false
+ },
+ "Pachysandra terminalis": {
+  "id": 142928,
+  "name": "Pachysandra terminalis",
+  "rank": "species",
+  "observations": 15496,
+  "matched_as": "Pachysandra terminalis",
+  "synonym": false
+ },
+ "Erythrostemon gilliesii": {
+  "id": 1065391,
+  "name": "Erythrostemon gilliesii",
+  "rank": "species",
+  "observations": 7524,
+  "matched_as": "Erythrostemon gilliesii",
+  "synonym": false
+ },
+ "Saponaria officinalis": {
+  "id": 56154,
+  "name": "Saponaria officinalis",
+  "rank": "species",
+  "observations": 73786,
+  "matched_as": "Saponaria officinalis",
+  "synonym": false
+ },
+ "Leycesteria formosa": {
+  "id": 127412,
+  "name": "Leycesteria formosa",
+  "rank": "species",
+  "observations": 8353,
+  "matched_as": "Leycesteria formosa",
+  "synonym": false
+ },
+ "Elaeagnus pungens": {
+  "id": 162214,
+  "name": "Elaeagnus pungens",
+  "rank": "species",
+  "observations": 11893,
+  "matched_as": "Elaeagnus pungens",
+  "synonym": false
+ },
+ "Juniperus horizontalis": {
+  "id": 47573,
+  "name": "Juniperus horizontalis",
+  "rank": "species",
+  "observations": 14102,
+  "matched_as": "Juniperus horizontalis",
+  "synonym": false
+ },
+ "Acer griseum": {
+  "id": 120525,
+  "name": "Acer griseum",
+  "rank": "species",
+  "observations": 4824,
+  "matched_as": "Acer griseum",
+  "synonym": false
+ },
+ "Aronia mitschurinii": {
+  "id": 791069,
+  "name": "Aronia mitschurinii",
+  "rank": "species",
+  "observations": 3434,
+  "matched_as": "Aronia mitschurinii",
+  "synonym": false
+ },
+ "Geranium wallichianum": {
+  "id": 602541,
+  "name": "Geranium wallichianum",
+  "rank": "species",
+  "observations": 2459,
+  "matched_as": "Geranium wallichianum",
+  "synonym": false
+ },
+ "Portulaca grandiflora": {
+  "id": 167309,
+  "name": "Portulaca grandiflora",
+  "rank": "species",
+  "observations": 13919,
+  "matched_as": "Portulaca grandiflora",
+  "synonym": false
+ },
+ "Tilia × europaea": {
+  "id": 410499,
+  "name": "Tilia × europaea",
+  "rank": "hybrid",
+  "observations": 2592,
+  "matched_as": "Tilia × europaea",
+  "synonym": false
+ },
+ "Euphorbia amygdaloides": {
+  "id": 57662,
+  "name": "Euphorbia amygdaloides",
+  "rank": "species",
+  "observations": 22393,
+  "matched_as": "Euphorbia amygdaloides",
+  "synonym": false
+ },
+ "Catalpa speciosa": {
+  "id": 76158,
+  "name": "Catalpa speciosa",
+  "rank": "species",
+  "observations": 33706,
+  "matched_as": "Catalpa speciosa",
+  "synonym": false
+ },
+ "Euryops pectinatus": {
+  "id": 347968,
+  "name": "Euryops pectinatus",
+  "rank": "species",
+  "observations": 4281,
+  "matched_as": "Euryops pectinatus",
+  "synonym": false
+ },
+ "Callianthe megapotamica": {
+  "id": 508221,
+  "name": "Callianthe megapotamica",
+  "rank": "species",
+  "observations": 3708,
+  "matched_as": "Callianthe megapotamica",
+  "synonym": false
+ },
+ "Clematis armandi": {
+  "id": 498019,
+  "name": "Clematis armandi",
+  "rank": "species",
+  "observations": 1399,
+  "matched_as": "Clematis armandi",
+  "synonym": false
+ },
+ "Salvia guaranitica": {
+  "id": 346173,
+  "name": "Salvia guaranitica",
+  "rank": "species",
+  "observations": 5738,
+  "matched_as": "Salvia guaranitica",
+  "synonym": false
+ },
+ "Telekia speciosa": {
+  "id": 358060,
+  "name": "Telekia speciosa",
+  "rank": "species",
+  "observations": 7389,
+  "matched_as": "Telekia speciosa",
+  "synonym": false
+ },
+ "Ornithogalum umbellatum": {
+  "id": 56137,
+  "name": "Ornithogalum umbellatum",
+  "rank": "species",
+  "observations": 57351,
+  "matched_as": "Ornithogalum umbellatum",
+  "synonym": false
+ },
+ "Prunus tenella": {
+  "id": 543500,
+  "name": "Prunus tenella",
+  "rank": "species",
+  "observations": 4131,
+  "matched_as": "Prunus tenella",
+  "synonym": false
+ },
+ "Linaria purpurea": {
+  "id": 77778,
+  "name": "Linaria purpurea",
+  "rank": "species",
+  "observations": 16388,
+  "matched_as": "Linaria purpurea",
+  "synonym": false
+ },
+ "Eryngium planum": {
+  "id": 162710,
+  "name": "Eryngium planum",
+  "rank": "species",
+  "observations": 15035,
+  "matched_as": "Eryngium planum",
+  "synonym": false
+ },
+ "Monarda didyma": {
+  "id": 52735,
+  "name": "Monarda didyma",
+  "rank": "species",
+  "observations": 19130,
+  "matched_as": "Monarda didyma",
+  "synonym": false
+ },
+ "Tecomaria capensis": {
+  "id": 286772,
+  "name": "Tecomaria capensis",
+  "rank": "species",
+  "observations": 17523,
+  "matched_as": "Tecomaria capensis",
+  "synonym": false
+ },
+ "Lonicera fragrantissima": {
+  "id": 164763,
+  "name": "Lonicera fragrantissima",
+  "rank": "species",
+  "observations": 6480,
+  "matched_as": "Lonicera fragrantissima",
+  "synonym": false
+ },
+ "Asplenium scolopendrium": {
+  "id": 129105,
+  "name": "Asplenium scolopendrium",
+  "rank": "species",
+  "observations": 35250,
+  "matched_as": "Asplenium scolopendrium",
+  "synonym": false
+ },
+ "Solanum pseudocapsicum": {
+  "id": 169078,
+  "name": "Solanum pseudocapsicum",
+  "rank": "species",
+  "observations": 11868,
+  "matched_as": "Solanum pseudocapsicum",
+  "synonym": false
+ },
+ "Cotoneaster × suecicus": {
+  "id": 790747,
+  "name": "Cotoneaster × suecicus",
+  "rank": "hybrid",
+  "observations": 1425,
+  "matched_as": "Cotoneaster × suecicus",
+  "synonym": false
+ },
+ "Duranta erecta": {
+  "id": 162153,
+  "name": "Duranta erecta",
+  "rank": "species",
+  "observations": 41185,
+  "matched_as": "Duranta erecta",
+  "synonym": false
+ },
+ "Rhododendron calendulaceum": {
+  "id": 118749,
+  "name": "Rhododendron calendulaceum",
+  "rank": "species",
+  "observations": 11346,
+  "matched_as": "Rhododendron calendulaceum",
+  "synonym": false
+ },
+ "Ipheion uniflorum": {
+  "id": 77493,
+  "name": "Ipheion uniflorum",
+  "rank": "species",
+  "observations": 9821,
+  "matched_as": "Ipheion uniflorum",
+  "synonym": false
+ },
+ "Avena sativa": {
+  "id": 57156,
+  "name": "Avena sativa",
+  "rank": "species",
+  "observations": 5137,
+  "matched_as": "Avena sativa",
+  "synonym": false
+ },
+ "Cistus × purpureus": {
+  "id": 415892,
+  "name": "Cistus × purpureus",
+  "rank": "hybrid",
+  "observations": 3158,
+  "matched_as": "Cistus × purpureus",
+  "synonym": false
+ },
+ "Symphoricarpos orbiculatus": {
+  "id": 128838,
+  "name": "Symphoricarpos orbiculatus",
+  "rank": "species",
+  "observations": 29578,
+  "matched_as": "Symphoricarpos orbiculatus",
+  "synonym": false
+ },
+ "Lonicera caerulea": {
+  "id": 164761,
+  "name": "Lonicera caerulea",
+  "rank": "species",
+  "observations": 5649,
+  "matched_as": "Lonicera caerulea",
+  "synonym": false
+ },
+ "Cyclamen hederifolium": {
+  "id": 127355,
+  "name": "Cyclamen hederifolium",
+  "rank": "species",
+  "observations": 17332,
+  "matched_as": "Cyclamen hederifolium",
+  "synonym": false
+ },
+ "Campanula portenschlagiana": {
+  "id": 336220,
+  "name": "Campanula portenschlagiana",
+  "rank": "species",
+  "observations": 3892,
+  "matched_as": "Campanula portenschlagiana",
+  "synonym": false
+ },
+ "Malus prunifolia": {
+  "id": 58735,
+  "name": "Malus prunifolia",
+  "rank": "species",
+  "observations": 5232,
+  "matched_as": "Malus prunifolia",
+  "synonym": false
+ },
+ "Linum grandiflorum": {
+  "id": 77781,
+  "name": "Linum grandiflorum",
+  "rank": "species",
+  "observations": 5063,
+  "matched_as": "Linum grandiflorum",
+  "synonym": false
+ },
+ "Malva trimestris": {
+  "id": 702805,
+  "name": "Malva trimestris",
+  "rank": "species",
+  "observations": 4079,
+  "matched_as": "Malva trimestris",
+  "synonym": false
+ },
+ "Asparagus setaceus": {
+  "id": 75604,
+  "name": "Asparagus setaceus",
+  "rank": "species",
+  "observations": 9651,
+  "matched_as": "Asparagus setaceus",
+  "synonym": false
+ },
+ "Chamaecyparis obtusa": {
+  "id": 133369,
+  "name": "Chamaecyparis obtusa",
+  "rank": "species",
+  "observations": 5105,
+  "matched_as": "Chamaecyparis obtusa",
+  "synonym": false
+ },
+ "Washingtonia filifera": {
+  "id": 50184,
+  "name": "Washingtonia filifera",
+  "rank": "species",
+  "observations": 10630,
+  "matched_as": "Washingtonia filifera",
+  "synonym": false
+ },
+ "Spiraea trilobata": {
+  "id": 169256,
+  "name": "Spiraea trilobata",
+  "rank": "species",
+  "observations": 2511,
+  "matched_as": "Spiraea trilobata",
+  "synonym": false
+ },
+ "Euphorbia leuconeura": {
+  "id": 192262,
+  "name": "Euphorbia leuconeura",
+  "rank": "species",
+  "observations": 668,
+  "matched_as": "Euphorbia leuconeura",
+  "synonym": false
+ },
+ "Hesperocyparis macrocarpa": {
+  "id": 77378,
+  "name": "Hesperocyparis macrocarpa",
+  "rank": "species",
+  "observations": 19100,
+  "matched_as": "Hesperocyparis macrocarpa",
+  "synonym": false
+ },
+ "Aesculus parviflora": {
+  "id": 158042,
+  "name": "Aesculus parviflora",
+  "rank": "species",
+  "observations": 7816,
+  "matched_as": "Aesculus parviflora",
+  "synonym": false
+ },
+ "Tamarix ramosissima": {
+  "id": 56015,
+  "name": "Tamarix ramosissima",
+  "rank": "species",
+  "observations": 14827,
+  "matched_as": "Tamarix ramosissima",
+  "synonym": false
+ },
+ "Garrya elliptica": {
+  "id": 53399,
+  "name": "Garrya elliptica",
+  "rank": "species",
+  "observations": 7550,
+  "matched_as": "Garrya elliptica",
+  "synonym": false
+ },
+ "Sempervivum globiferum": {
+  "id": 909393,
+  "name": "Sempervivum globiferum",
+  "rank": "species",
+  "observations": 5323,
+  "matched_as": "Sempervivum globiferum",
+  "synonym": false
+ },
+ "Prunus virginiana": {
+  "id": 54835,
+  "name": "Prunus virginiana",
+  "rank": "species",
+  "observations": 101041,
+  "matched_as": "Prunus virginiana",
+  "synonym": false
+ },
+ "Silene dioica": {
+  "id": 55759,
+  "name": "Silene dioica",
+  "rank": "species",
+  "observations": 75605,
+  "matched_as": "Silene dioica",
+  "synonym": false
+ },
+ "Carpobrotus acinaciformis": {
+  "id": 129759,
+  "name": "Carpobrotus acinaciformis",
+  "rank": "species",
+  "observations": 7626,
+  "matched_as": "Carpobrotus acinaciformis",
+  "synonym": false
+ },
+ "Taxus cuspidata": {
+  "id": 133386,
+  "name": "Taxus cuspidata",
+  "rank": "species",
+  "observations": 6857,
+  "matched_as": "Taxus cuspidata",
+  "synonym": false
+ },
+ "Cistus salviifolius": {
+  "id": 76365,
+  "name": "Cistus salviifolius",
+  "rank": "species",
+  "observations": 23045,
+  "matched_as": "Cistus salviifolius",
+  "synonym": false
+ },
+ "Veronica longifolia": {
+  "id": 170192,
+  "name": "Veronica longifolia",
+  "rank": "species",
+  "observations": 21648,
+  "matched_as": "Veronica longifolia",
+  "synonym": false
+ },
+ "Brachychiton acerifolius": {
+  "id": 122300,
+  "name": "Brachychiton acerifolius",
+  "rank": "species",
+  "observations": 5103,
+  "matched_as": "Brachychiton acerifolius",
+  "synonym": false
+ },
+ "Euphorbia myrsinites": {
+  "id": 82511,
+  "name": "Euphorbia myrsinites",
+  "rank": "species",
+  "observations": 9144,
+  "matched_as": "Euphorbia myrsinites",
+  "synonym": false
+ },
+ "Oxalis tetraphylla": {
+  "id": 291533,
+  "name": "Oxalis tetraphylla",
+  "rank": "species",
+  "observations": 1887,
+  "matched_as": "Oxalis tetraphylla",
+  "synonym": false
+ },
+ "Artemisia absinthium": {
+  "id": 60350,
+  "name": "Artemisia absinthium",
+  "rank": "species",
+  "observations": 39711,
+  "matched_as": "Artemisia absinthium",
+  "synonym": false
+ },
+ "Amaryllis belladonna": {
+  "id": 61827,
+  "name": "Amaryllis belladonna",
+  "rank": "species",
+  "observations": 12013,
+  "matched_as": "Amaryllis belladonna",
+  "synonym": false
+ },
+ "Geranium pratense": {
+  "id": 55722,
+  "name": "Geranium pratense",
+  "rank": "species",
+  "observations": 40782,
+  "matched_as": "Geranium pratense",
+  "synonym": false
+ },
+ "Lilium lancifolium": {
+  "id": 49524,
+  "name": "Lilium lancifolium",
+  "rank": "species",
+  "observations": 8735,
+  "matched_as": "Lilium lancifolium",
+  "synonym": false
+ },
+ "Quercus petraea": {
+  "id": 200942,
+  "name": "Quercus petraea",
+  "rank": "species",
+  "observations": 14904,
+  "matched_as": "Quercus petraea",
+  "synonym": false
+ },
+ "Lagunaria patersonia": {
+  "id": 77622,
+  "name": "Lagunaria patersonia",
+  "rank": "species",
+  "observations": 3664,
+  "matched_as": "Lagunaria patersonia",
+  "synonym": false
+ },
+ "Corydalis solida": {
+  "id": 55814,
+  "name": "Corydalis solida",
+  "rank": "species",
+  "observations": 32607,
+  "matched_as": "Corydalis solida",
+  "synonym": false
+ },
+ "Solandra maxima": {
+  "id": 124349,
+  "name": "Solandra maxima",
+  "rank": "species",
+  "observations": 3838,
+  "matched_as": "Solandra maxima",
+  "synonym": false
+ },
+ "Polemonium caeruleum": {
+  "id": 51704,
+  "name": "Polemonium caeruleum",
+  "rank": "species",
+  "observations": 7607,
+  "matched_as": "Polemonium caeruleum",
+  "synonym": false
+ },
+ "Pyrus calleryana": {
+  "id": 119793,
+  "name": "Pyrus calleryana",
+  "rank": "species",
+  "observations": 69830,
+  "matched_as": "Pyrus calleryana",
+  "synonym": false
+ },
+ "Pinus wallichiana": {
+  "id": 135668,
+  "name": "Pinus wallichiana",
+  "rank": "species",
+  "observations": 1295,
+  "matched_as": "Pinus wallichiana",
+  "synonym": false
+ },
+ "Lathyrus latifolius": {
+  "id": 61009,
+  "name": "Lathyrus latifolius",
+  "rank": "species",
+  "observations": 52826,
+  "matched_as": "Lathyrus latifolius",
+  "synonym": false
+ },
+ "Solidago canadensis": {
+  "id": 67808,
+  "name": "Solidago canadensis",
+  "rank": "species",
+  "observations": 73223,
+  "matched_as": "Solidago canadensis",
+  "synonym": false
+ },
+ "Euonymus alatus": {
+  "id": 117433,
+  "name": "Euonymus alatus",
+  "rank": "species",
+  "observations": 50457,
+  "matched_as": "Euonymus alatus",
+  "synonym": false
+ },
+ "Anemonoides nemorosa": {
+  "id": 950603,
+  "name": "Anemonoides nemorosa",
+  "rank": "species",
+  "observations": 88685,
+  "matched_as": "Anemonoides nemorosa",
+  "synonym": false
+ },
+ "Ruellia simplex": {
+  "id": 126633,
+  "name": "Ruellia simplex",
+  "rank": "species",
+  "observations": 44107,
+  "matched_as": "Ruellia simplex",
+  "synonym": false
+ },
+ "Coreopsis tinctoria": {
+  "id": 76445,
+  "name": "Coreopsis tinctoria",
+  "rank": "species",
+  "observations": 27514,
+  "matched_as": "Coreopsis tinctoria",
+  "synonym": false
+ },
+ "Berberis × hortensis": {
+  "id": 868721,
+  "name": "Berberis × hortensis",
+  "rank": "hybrid",
+  "observations": 865,
+  "matched_as": "Berberis × hortensis",
+  "synonym": false
+ },
+ "Echium vulgare": {
+  "id": 56174,
+  "name": "Echium vulgare",
+  "rank": "species",
+  "observations": 114625,
+  "matched_as": "Echium vulgare",
+  "synonym": false
+ },
+ "Austrocylindropuntia subulata": {
+  "id": 320052,
+  "name": "Austrocylindropuntia subulata",
+  "rank": "species",
+  "observations": 11282,
+  "matched_as": "Austrocylindropuntia subulata",
+  "synonym": false
+ },
+ "Veronicastrum virginicum": {
+  "id": 141767,
+  "name": "Veronicastrum virginicum",
+  "rank": "species",
+  "observations": 16206,
+  "matched_as": "Veronicastrum virginicum",
+  "synonym": false
+ },
+ "Nelumbo nucifera": {
+  "id": 82814,
+  "name": "Nelumbo nucifera",
+  "rank": "species",
+  "observations": 12692,
+  "matched_as": "Nelumbo nucifera",
+  "synonym": false
+ },
+ "Prunus maackii": {
+  "id": 474467,
+  "name": "Prunus maackii",
+  "rank": "species",
+  "observations": 1659,
+  "matched_as": "Prunus maackii",
+  "synonym": false
+ },
+ "Allium sphaerocephalon": {
+  "id": 338352,
+  "name": "Allium sphaerocephalon",
+  "rank": "species",
+  "observations": 6669,
+  "matched_as": "Allium sphaerocephalon",
+  "synonym": false
+ },
+ "Cormus domestica": {
+  "id": 1277867,
+  "name": "Cormus domestica",
+  "rank": "species",
+  "observations": 4043,
+  "matched_as": "Cormus domestica",
+  "synonym": false
+ },
+ "Coleus amboinicus": {
+  "id": 963468,
+  "name": "Coleus amboinicus",
+  "rank": "species",
+  "observations": 11223,
+  "matched_as": "Coleus amboinicus",
+  "synonym": false
+ },
+ "Physostegia virginiana": {
+  "id": 85313,
+  "name": "Physostegia virginiana",
+  "rank": "species",
+  "observations": 24214,
+  "matched_as": "Physostegia virginiana",
+  "synonym": false
+ },
+ "Paeonia tenuifolia": {
+  "id": 520910,
+  "name": "Paeonia tenuifolia",
+  "rank": "species",
+  "observations": 3237,
+  "matched_as": "Paeonia tenuifolia",
+  "synonym": false
+ },
+ "Muscari neglectum": {
+  "id": 68846,
+  "name": "Muscari neglectum",
+  "rank": "species",
+  "observations": 23853,
+  "matched_as": "Muscari neglectum",
+  "synonym": false
+ },
+ "Euphorbia marginata": {
+  "id": 120507,
+  "name": "Euphorbia marginata",
+  "rank": "species",
+  "observations": 13609,
+  "matched_as": "Euphorbia marginata",
+  "synonym": false
+ },
+ "Phillyrea angustifolia": {
+  "id": 82871,
+  "name": "Phillyrea angustifolia",
+  "rank": "species",
+  "observations": 7398,
+  "matched_as": "Phillyrea angustifolia",
+  "synonym": false
+ },
+ "Limonium sinuatum": {
+  "id": 77758,
+  "name": "Limonium sinuatum",
+  "rank": "species",
+  "observations": 7146,
+  "matched_as": "Limonium sinuatum",
+  "synonym": false
+ },
+ "Spiraea chamaedryfolia": {
+  "id": 169251,
+  "name": "Spiraea chamaedryfolia",
+  "rank": "species",
+  "observations": 1785,
+  "matched_as": "Spiraea chamaedryfolia",
+  "synonym": false
+ },
+ "Russelia equisetiformis": {
+  "id": 122519,
+  "name": "Russelia equisetiformis",
+  "rank": "species",
+  "observations": 11944,
+  "matched_as": "Russelia equisetiformis",
+  "synonym": false
+ },
+ "Liriope muscari": {
+  "id": 223938,
+  "name": "Liriope muscari",
+  "rank": "species",
+  "observations": 19471,
+  "matched_as": "Liriope muscari",
+  "synonym": false
+ },
+ "Pelargonium inquinans": {
+  "id": 78377,
+  "name": "Pelargonium inquinans",
+  "rank": "species",
+  "observations": 6004,
+  "matched_as": "Pelargonium inquinans",
+  "synonym": false
+ },
+ "Coreopsis verticillata": {
+  "id": 129322,
+  "name": "Coreopsis verticillata",
+  "rank": "species",
+  "observations": 8577,
+  "matched_as": "Coreopsis verticillata",
+  "synonym": false
+ },
+ "Dianthus plumarius": {
+  "id": 76648,
+  "name": "Dianthus plumarius",
+  "rank": "species",
+  "observations": 2242,
+  "matched_as": "Dianthus plumarius",
+  "synonym": false
+ },
+ "Solanum crispum": {
+  "id": 406068,
+  "name": "Solanum crispum",
+  "rank": "species",
+  "observations": 2424,
+  "matched_as": "Solanum crispum",
+  "synonym": false
+ },
+ "Papaver cambricum": {
+  "id": 807416,
+  "name": "Papaver cambricum",
+  "rank": "species",
+  "observations": 11974,
+  "matched_as": "Papaver cambricum",
+  "synonym": false
+ },
+ "Nicotiana tabacum": {
+  "id": 873768,
+  "name": "Nicotiana tabacum",
+  "rank": "species",
+  "observations": 4673,
+  "matched_as": "Nicotiana tabacum",
+  "synonym": false
+ },
+ "Chimonanthus praecox": {
+  "id": 49080,
+  "name": "Chimonanthus praecox",
+  "rank": "species",
+  "observations": 1793,
+  "matched_as": "Chimonanthus praecox",
+  "synonym": false
+ },
+ "Convolvulus tricolor": {
+  "id": 76434,
+  "name": "Convolvulus tricolor",
+  "rank": "species",
+  "observations": 2320,
+  "matched_as": "Convolvulus tricolor",
+  "synonym": false
+ },
+ "Rhododendron maximum": {
+  "id": 83059,
+  "name": "Rhododendron maximum",
+  "rank": "species",
+  "observations": 28666,
+  "matched_as": "Rhododendron maximum",
+  "synonym": false
+ },
+ "Pittosporum tenuifolium": {
+  "id": 78591,
+  "name": "Pittosporum tenuifolium",
+  "rank": "species",
+  "observations": 9497,
+  "matched_as": "Pittosporum tenuifolium",
+  "synonym": false
+ },
+ "Celtis occidentalis": {
+  "id": 54857,
+  "name": "Celtis occidentalis",
+  "rank": "species",
+  "observations": 48011,
+  "matched_as": "Celtis occidentalis",
+  "synonym": false
+ },
+ "Salvia leucantha": {
+  "id": 120488,
+  "name": "Salvia leucantha",
+  "rank": "species",
+  "observations": 21018,
+  "matched_as": "Salvia leucantha",
+  "synonym": false
+ },
+ "Hamamelis mollis": {
+  "id": 410828,
+  "name": "Hamamelis mollis",
+  "rank": "species",
+  "observations": 1448,
+  "matched_as": "Hamamelis mollis",
+  "synonym": false
+ },
+ "Hesperocyparis lusitanica": {
+  "id": 1515661,
+  "name": "Hesperocyparis lusitanica",
+  "rank": "species",
+  "observations": 10420,
+  "matched_as": "Hesperocyparis lusitanica",
+  "synonym": false
+ },
+ "Juniperus virginiana": {
+  "id": 49399,
+  "name": "Juniperus virginiana",
+  "rank": "species",
+  "observations": 123121,
+  "matched_as": "Juniperus virginiana",
+  "synonym": false
+ },
+ "Gazania linearis": {
+  "id": 56951,
+  "name": "Gazania linearis",
+  "rank": "species",
+  "observations": 4523,
+  "matched_as": "Gazania linearis",
+  "synonym": false
+ },
+ "Erigeron karvinskianus": {
+  "id": 76923,
+  "name": "Erigeron karvinskianus",
+  "rank": "species",
+  "observations": 24013,
+  "matched_as": "Erigeron karvinskianus",
+  "synonym": false
+ },
+ "Dipsacus fullonum": {
+  "id": 56002,
+  "name": "Dipsacus fullonum",
+  "rank": "species",
+  "observations": 82210,
+  "matched_as": "Dipsacus fullonum",
+  "synonym": false
+ },
+ "Spiraea salicifolia": {
+  "id": 169253,
+  "name": "Spiraea salicifolia",
+  "rank": "species",
+  "observations": 3520,
+  "matched_as": "Spiraea salicifolia",
+  "synonym": false
+ },
+ "Cistus albidus": {
+  "id": 82673,
+  "name": "Cistus albidus",
+  "rank": "species",
+  "observations": 14808,
+  "matched_as": "Cistus albidus",
+  "synonym": false
+ },
+ "Diospyros lotus": {
+  "id": 83445,
+  "name": "Diospyros lotus",
+  "rank": "species",
+  "observations": 1587,
+  "matched_as": "Diospyros lotus",
+  "synonym": false
+ },
+ "Oxalis articulata": {
+  "id": 57805,
+  "name": "Oxalis articulata",
+  "rank": "species",
+  "observations": 22012,
+  "matched_as": "Oxalis articulata",
+  "synonym": false
+ },
+ "Prunus serotina": {
+  "id": 54834,
+  "name": "Prunus serotina",
+  "rank": "species",
+  "observations": 135242,
+  "matched_as": "Prunus serotina",
+  "synonym": false
+ },
+ "Lamium maculatum": {
+  "id": 55828,
+  "name": "Lamium maculatum",
+  "rank": "species",
+  "observations": 49777,
+  "matched_as": "Lamium maculatum",
+  "synonym": false
+ },
+ "Pontederia cordata": {
+  "id": 52599,
+  "name": "Pontederia cordata",
+  "rank": "species",
+  "observations": 54075,
+  "matched_as": "Pontederia cordata",
+  "synonym": false
+ },
+ "Geum coccineum": {
+  "id": 464936,
+  "name": "Geum coccineum",
+  "rank": "species",
+  "observations": 1307,
+  "matched_as": "Geum coccineum",
+  "synonym": false
+ },
+ "Knautia macedonica": {
+  "id": 429696,
+  "name": "Knautia macedonica",
+  "rank": "species",
+  "observations": 1351,
+  "matched_as": "Knautia macedonica",
+  "synonym": false
+ },
+ "Reynoutria japonica": {
+  "id": 914922,
+  "name": "Reynoutria japonica",
+  "rank": "species",
+  "observations": 95511,
+  "matched_as": "Reynoutria japonica",
+  "synonym": false
+ },
+ "Chaenostoma cordatum": {
+  "id": 501464,
+  "name": "Chaenostoma cordatum",
+  "rank": "species",
+  "observations": 2172,
+  "matched_as": "Chaenostoma cordatum",
+  "synonym": false
+ },
+ "Campsis grandiflora": {
+  "id": 358834,
+  "name": "Campsis grandiflora",
+  "rank": "species",
+  "observations": 1275,
+  "matched_as": "Campsis grandiflora",
+  "synonym": false
+ },
+ "Aegopodium podagraria": {
+  "id": 51741,
+  "name": "Aegopodium podagraria",
+  "rank": "species",
+  "observations": 94393,
+  "matched_as": "Aegopodium podagraria",
+  "synonym": false
+ },
+ "Glebionis coronaria": {
+  "id": 59904,
+  "name": "Glebionis coronaria",
+  "rank": "species",
+  "observations": 28630,
+  "matched_as": "Glebionis coronaria",
+  "synonym": false
+ },
+ "Amaranthus caudatus": {
+  "id": 75392,
+  "name": "Amaranthus caudatus",
+  "rank": "species",
+  "observations": 1995,
+  "matched_as": "Amaranthus caudatus",
+  "synonym": false
+ },
+ "Salvia pratensis": {
+  "id": 85338,
+  "name": "Salvia pratensis",
+  "rank": "species",
+  "observations": 32580,
+  "matched_as": "Salvia pratensis",
+  "synonym": false
+ },
+ "Brunnera sibirica": {
+  "id": 84974,
+  "name": "Brunnera sibirica",
+  "rank": "species",
+  "observations": 3010,
+  "matched_as": "Brunnera sibirica",
+  "synonym": false
+ },
+ "Tamarix parviflora": {
+  "id": 56011,
+  "name": "Tamarix parviflora",
+  "rank": "species",
+  "observations": 1661,
+  "matched_as": "Tamarix parviflora",
+  "synonym": false
+ },
+ "Liatris spicata": {
+  "id": 117439,
+  "name": "Liatris spicata",
+  "rank": "species",
+  "observations": 15327,
+  "matched_as": "Liatris spicata",
+  "synonym": false
+ },
+ "Trachelospermum asiaticum": {
+  "id": 349229,
+  "name": "Trachelospermum asiaticum",
+  "rank": "species",
+  "observations": 10105,
+  "matched_as": "Trachelospermum asiaticum",
+  "synonym": false
+ },
+ "Delphinium cultorum": {
+  "id": 1111696,
+  "name": "Delphinium cultorum",
+  "rank": "species",
+  "observations": 2972,
+  "matched_as": "Delphinium cultorum",
+  "synonym": false
+ },
+ "Inula helenium": {
+  "id": 133951,
+  "name": "Inula helenium",
+  "rank": "species",
+  "observations": 12402,
+  "matched_as": "Inula helenium",
+  "synonym": false
+ },
+ "Tamarix gallica": {
+  "id": 51303,
+  "name": "Tamarix gallica",
+  "rank": "species",
+  "observations": 4273,
+  "matched_as": "Tamarix gallica",
+  "synonym": false
+ },
+ "Cosmos sulphureus": {
+  "id": 48651,
+  "name": "Cosmos sulphureus",
+  "rank": "species",
+  "observations": 23647,
+  "matched_as": "Cosmos sulphureus",
+  "synonym": false
+ },
+ "Phytolacca americana": {
+  "id": 48599,
+  "name": "Phytolacca americana",
+  "rank": "species",
+  "observations": 182821,
+  "matched_as": "Phytolacca americana",
+  "synonym": false
+ },
+ "Spiraea prunifolia": {
+  "id": 169252,
+  "name": "Spiraea prunifolia",
+  "rank": "species",
+  "observations": 6225,
+  "matched_as": "Spiraea prunifolia",
+  "synonym": false
+ },
+ "Veronica spicata": {
+  "id": 132118,
+  "name": "Veronica spicata",
+  "rank": "species",
+  "observations": 12619,
+  "matched_as": "Veronica spicata",
+  "synonym": false
+ },
+ "Syringa meyeri": {
+  "id": 429454,
+  "name": "Syringa meyeri",
+  "rank": "species",
+  "observations": 3367,
+  "matched_as": "Syringa meyeri",
+  "synonym": false
+ },
+ "Gunnera manicata": {
+  "id": 82271,
+  "name": "Gunnera manicata",
+  "rank": "species",
+  "observations": 2274,
+  "matched_as": "Gunnera manicata",
+  "synonym": false
+ },
+ "Tetrapanax papyrifer": {
+  "id": 372170,
+  "name": "Tetrapanax papyrifer",
+  "rank": "species",
+  "observations": 5311,
+  "matched_as": "Tetrapanax papyrifer",
+  "synonym": false
+ },
+ "Quercus faginea": {
+  "id": 82980,
+  "name": "Quercus faginea",
+  "rank": "species",
+  "observations": 8546,
+  "matched_as": "Quercus faginea",
+  "synonym": false
+ },
+ "Ligustrum sinense": {
+  "id": 128769,
+  "name": "Ligustrum sinense",
+  "rank": "species",
+  "observations": 57552,
+  "matched_as": "Ligustrum sinense",
+  "synonym": false
+ },
+ "Euphorbia ingens": {
+  "id": 334379,
+  "name": "Euphorbia ingens",
+  "rank": "species",
+  "observations": 5013,
+  "matched_as": "Euphorbia ingens",
+  "synonym": false
+ },
+ "Mentha suaveolens": {
+  "id": 77993,
+  "name": "Mentha suaveolens",
+  "rank": "species",
+  "observations": 13354,
+  "matched_as": "Mentha suaveolens",
+  "synonym": false
+ },
+ "Edgeworthia chrysantha": {
+  "id": 133126,
+  "name": "Edgeworthia chrysantha",
+  "rank": "species",
+  "observations": 3096,
+  "matched_as": "Edgeworthia chrysantha",
+  "synonym": false
+ },
+ "Callicarpa dichotoma": {
+  "id": 159658,
+  "name": "Callicarpa dichotoma",
+  "rank": "species",
+  "observations": 10227,
+  "matched_as": "Callicarpa dichotoma",
+  "synonym": false
+ },
+ "Scilla forbesii": {
+  "id": 68357,
+  "name": "Scilla forbesii",
+  "rank": "species",
+  "observations": 8320,
+  "matched_as": "Scilla forbesii",
+  "synonym": false
+ },
+ "Oenothera glazioviana": {
+  "id": 62208,
+  "name": "Oenothera glazioviana",
+  "rank": "species",
+  "observations": 14053,
+  "matched_as": "Oenothera glazioviana",
+  "synonym": false
+ },
+ "Euphorbia lathyris": {
+  "id": 77114,
+  "name": "Euphorbia lathyris",
+  "rank": "species",
+  "observations": 14079,
+  "matched_as": "Euphorbia lathyris",
+  "synonym": false
+ },
+ "Cotoneaster salicifolius": {
+  "id": 337820,
+  "name": "Cotoneaster salicifolius",
+  "rank": "species",
+  "observations": 1521,
+  "matched_as": "Cotoneaster salicifolius",
+  "synonym": false
+ },
+ "Viburnum carlesii": {
+  "id": 126708,
+  "name": "Viburnum carlesii",
+  "rank": "species",
+  "observations": 5940,
+  "matched_as": "Viburnum carlesii",
+  "synonym": false
+ },
+ "Pinus sibirica": {
+  "id": 135653,
+  "name": "Pinus sibirica",
+  "rank": "species",
+  "observations": 8610,
+  "matched_as": "Pinus sibirica",
+  "synonym": false
+ },
+ "Dicksonia antarctica": {
+  "id": 143921,
+  "name": "Dicksonia antarctica",
+  "rank": "species",
+  "observations": 5316,
+  "matched_as": "Dicksonia antarctica",
+  "synonym": false
+ },
+ "Tilia americana": {
+  "id": 54854,
+  "name": "Tilia americana",
+  "rank": "species",
+  "observations": 68728,
+  "matched_as": "Tilia americana",
+  "synonym": false
+ },
+ "Tamarix chinensis": {
+  "id": 56013,
+  "name": "Tamarix chinensis",
+  "rank": "species",
+  "observations": 2751,
+  "matched_as": "Tamarix chinensis",
+  "synonym": false
+ },
+ "Torminalis glaberrima": {
+  "id": 1277891,
+  "name": "Torminalis glaberrima",
+  "rank": "species",
+  "observations": 8588,
+  "matched_as": "Torminalis glaberrima",
+  "synonym": false
+ },
+ "Asparagus aethiopicus": {
+  "id": 75603,
+  "name": "Asparagus aethiopicus",
+  "rank": "species",
+  "observations": 13952,
+  "matched_as": "Asparagus aethiopicus",
+  "synonym": false
+ },
+ "Dianthus deltoides": {
+  "id": 76647,
+  "name": "Dianthus deltoides",
+  "rank": "species",
+  "observations": 23551,
+  "matched_as": "Dianthus deltoides",
+  "synonym": false
+ },
+ "Nepeta cataria": {
+  "id": 48622,
+  "name": "Nepeta cataria",
+  "rank": "species",
+  "observations": 27437,
+  "matched_as": "Nepeta cataria",
+  "synonym": false
+ },
+ "Equisetum hyemale": {
+  "id": 52673,
+  "name": "Equisetum hyemale",
+  "rank": "species",
+  "observations": 49619,
+  "matched_as": "Equisetum hyemale",
+  "synonym": false
+ },
+ "Omphalodes verna": {
+  "id": 165840,
+  "name": "Omphalodes verna",
+  "rank": "species",
+  "observations": 2926,
+  "matched_as": "Omphalodes verna",
+  "synonym": false
+ },
+ "Ligustrum japonicum": {
+  "id": 77739,
+  "name": "Ligustrum japonicum",
+  "rank": "species",
+  "observations": 14359,
+  "matched_as": "Ligustrum japonicum",
+  "synonym": false
+ },
+ "Araucaria bidwillii": {
+  "id": 136231,
+  "name": "Araucaria bidwillii",
+  "rank": "species",
+  "observations": 4562,
+  "matched_as": "Araucaria bidwillii",
+  "synonym": false
+ },
+ "Westringia fruticosa": {
+  "id": 353888,
+  "name": "Westringia fruticosa",
+  "rank": "species",
+  "observations": 5432,
+  "matched_as": "Westringia fruticosa",
+  "synonym": false
+ },
+ "Amelanchier arborea": {
+  "id": 49226,
+  "name": "Amelanchier arborea",
+  "rank": "species",
+  "observations": 31835,
+  "matched_as": "Amelanchier arborea",
+  "synonym": false
+ },
+ "Kalanchoe beharensis": {
+  "id": 320048,
+  "name": "Kalanchoe beharensis",
+  "rank": "species",
+  "observations": 2157,
+  "matched_as": "Kalanchoe beharensis",
+  "synonym": false
+ },
+ "Iris japonica": {
+  "id": 322012,
+  "name": "Iris japonica",
+  "rank": "species",
+  "observations": 4031,
+  "matched_as": "Iris japonica",
+  "synonym": false
+ },
+ "Acer rubrum": {
+  "id": 48098,
+  "name": "Acer rubrum",
+  "rank": "species",
+  "observations": 162739,
+  "matched_as": "Acer rubrum",
+  "synonym": false
+ },
+ "Pinus canariensis": {
+  "id": 47560,
+  "name": "Pinus canariensis",
+  "rank": "species",
+  "observations": 7871,
+  "matched_as": "Pinus canariensis",
+  "synonym": false
+ },
+ "Tulipa saxatilis": {
+  "id": 344752,
+  "name": "Tulipa saxatilis",
+  "rank": "species",
+  "observations": 1033,
+  "matched_as": "Tulipa saxatilis",
+  "synonym": false
+ },
+ "Dichondra micrantha": {
+  "id": 76650,
+  "name": "Dichondra micrantha",
+  "rank": "species",
+  "observations": 5324,
+  "matched_as": "Dichondra micrantha",
+  "synonym": false
+ },
+ "Phalaris arundinacea": {
+  "id": 63337,
+  "name": "Phalaris arundinacea",
+  "rank": "species",
+  "observations": 51059,
+  "matched_as": "Phalaris arundinacea",
+  "synonym": false
+ },
+ "Cenchrus setaceus": {
+  "id": 430581,
+  "name": "Cenchrus setaceus",
+  "rank": "species",
+  "observations": 30772,
+  "matched_as": "Cenchrus setaceus",
+  "synonym": false
+ },
+ "Quercus pubescens": {
+  "id": 125849,
+  "name": "Quercus pubescens",
+  "rank": "species",
+  "observations": 13707,
+  "matched_as": "Quercus pubescens",
+  "synonym": false
+ },
+ "Gomphrena globosa": {
+  "id": 128268,
+  "name": "Gomphrena globosa",
+  "rank": "species",
+  "observations": 10421,
+  "matched_as": "Gomphrena globosa",
+  "synonym": false
+ },
+ "Heuchera micrantha": {
+  "id": 51274,
+  "name": "Heuchera micrantha",
+  "rank": "species",
+  "observations": 12370,
+  "matched_as": "Heuchera micrantha",
+  "synonym": false
+ },
+ "Robinia hispida": {
+  "id": 129107,
+  "name": "Robinia hispida",
+  "rank": "species",
+  "observations": 5807,
+  "matched_as": "Robinia hispida",
+  "synonym": false
+ },
+ "Coleus neochilus": {
+  "id": 1229224,
+  "name": "Coleus neochilus",
+  "rank": "species",
+  "observations": 5366,
+  "matched_as": "Coleus neochilus",
+  "synonym": false
+ },
+ "Asparagus densiflorus": {
+  "id": 127598,
+  "name": "Asparagus densiflorus",
+  "rank": "species",
+  "observations": 13671,
+  "matched_as": "Asparagus densiflorus",
+  "synonym": false
+ },
+ "Spiraea alba": {
+  "id": 126823,
+  "name": "Spiraea alba",
+  "rank": "species",
+  "observations": 46422,
+  "matched_as": "Spiraea alba",
+  "synonym": false
+ },
+ "Viburnum × bodnantense": {
+  "id": 523141,
+  "name": "Viburnum × bodnantense",
+  "rank": "hybrid",
+  "observations": 620,
+  "matched_as": "Viburnum × bodnantense",
+  "synonym": false
+ },
+ "Syagrus romanzoffiana": {
+  "id": 79291,
+  "name": "Syagrus romanzoffiana",
+  "rank": "species",
+  "observations": 11955,
+  "matched_as": "Syagrus romanzoffiana",
+  "synonym": false
+ }
+}

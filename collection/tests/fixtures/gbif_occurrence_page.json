@@ -1,0 +1,113 @@
+{
+ "offset": 0,
+ "limit": 3,
+ "endOfRecords": false,
+ "count": 423,
+ "results": [
+  {
+   "key": 6130686462,
+   "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+   "basisOfRecord": "HUMAN_OBSERVATION",
+   "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+   "recordedBy": "Carlos Domínguez-Rodríguez",
+   "rightsHolder": "Carlos Domínguez-Rodríguez",
+   "references": "https://www.inaturalist.org/observations/335307026",
+   "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+   "media": [
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/609105789",
+     "created": "2026-01-17T17:17:11.000+00:00",
+     "creator": "Carlos Domínguez-Rodríguez",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by/4.0/",
+     "rightsHolder": "Carlos Domínguez-Rodríguez",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/609105789/original.jpg"
+    },
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/609105808",
+     "created": "2026-01-17T17:17:12.000+00:00",
+     "creator": "Carlos Domínguez-Rodríguez",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by/4.0/",
+     "rightsHolder": "Carlos Domínguez-Rodríguez",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/609105808/original.jpg"
+    },
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/609105843",
+     "created": "2026-01-17T17:17:14.000+00:00",
+     "creator": "Carlos Domínguez-Rodríguez",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by/4.0/",
+     "rightsHolder": "Carlos Domínguez-Rodríguez",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/609105843/original.jpg"
+    }
+   ],
+   "scientificName": "Monstera deliciosa Liebm."
+  },
+  {
+   "key": 6130914712,
+   "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+   "basisOfRecord": "HUMAN_OBSERVATION",
+   "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+   "recordedBy": "Mustapha",
+   "rightsHolder": "Mustapha",
+   "references": "https://www.inaturalist.org/observations/333907153",
+   "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+   "media": [
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/606259091",
+     "created": "2026-01-05T15:33:31.000+00:00",
+     "creator": "Mustapha",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by/4.0/",
+     "rightsHolder": "Mustapha",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/606259091/original.jpg"
+    },
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/606259130",
+     "created": "2026-01-05T15:33:31.000+00:00",
+     "creator": "Mustapha",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by/4.0/",
+     "rightsHolder": "Mustapha",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/606259130/original.jpg"
+    }
+   ],
+   "scientificName": "Monstera deliciosa Liebm."
+  },
+  {
+   "key": 6131445556,
+   "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+   "basisOfRecord": "HUMAN_OBSERVATION",
+   "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+   "recordedBy": "Mick Massie",
+   "rightsHolder": "Mick Massie",
+   "references": "https://www.inaturalist.org/observations/334479793",
+   "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+   "media": [
+    {
+     "type": "StillImage",
+     "format": "image/jpeg",
+     "references": "https://www.inaturalist.org/photos/607425247",
+     "created": "2026-01-12T19:24:33.000+00:00",
+     "creator": "Mick Massie",
+     "publisher": "iNaturalist",
+     "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+     "rightsHolder": "Mick Massie",
+     "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/607425247/original.jpg"
+    }
+   ],
+   "scientificName": "Monstera deliciosa Liebm."
+  }
+ ]
+}

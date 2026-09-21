@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# The image set: ~50 GB, rebuilt by collection/build_dataset.py
+collection/dataset/
+training/.cache/
+training/out/
+
+# Model files live on the Hub, not in Git
+*.tflite
