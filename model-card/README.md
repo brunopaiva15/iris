@@ -4,6 +4,7 @@ pipeline_tag: image-classification
 tags:
   - image-classification
   - plant-identification
+  - plants
   - biodiversity
   - tflite
   - on-device
